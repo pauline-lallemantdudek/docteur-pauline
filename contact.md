@@ -4,7 +4,7 @@ layout: contact
 bodyClass: page-contact
 ---
 
-Vous pouvez me contacter à tout moment à l'adresse suivante : pauline.lallemant@aphp.fr et prendre rendez-vous pour une consultation en suivant ce ![https://www.doctolib.fr/medecine-physique-et-de-readaptation/paris/pauline-lallemant](lien).
+Vous pouvez me contacter à tout moment à l'adresse suivante : pauline.lallemant@aphp.fr et prendre rendez-vous pour une consultation en suivant ce ![lien](https://www.doctolib.fr/medecine-physique-et-de-readaptation/paris/pauline-lallemant).
 
 Mes consultations à l'hopital 
 
