@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# docteur-Pauline - Page personnelle du docteur Pauline Lallemant-Dudek
+# docteur-Pauline
 
-docteur-Pauline est la page personnelle du docteur Pauline Lallemant Dudek, chef de service du service de Médecine Physique et Réadaptation de l'hopital Armand Trousseau à Paris.
+Voici la page personnelle du docteur Pauline Lallemant Dudek, chef de service du service de Médecine Physique et Réadaptation de l'hopital Armand Trousseau à Paris.
