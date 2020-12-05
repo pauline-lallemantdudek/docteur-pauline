@@ -1,11 +1,11 @@
 main:
-  - name: "Services"
+  - name: "Mes travaux"
     url: "/services/"
     weight: 2
-  - name: "Team"
+  - name: "Mon service"
     url: "/team/"
     weight: 3
-  - name: "About"
+  - name: "À propos"
     url: "/about/"
     weight: 4
   - name: "Contact"
@@ -13,7 +13,7 @@ main:
     weight: 5
 
 footer:
-  - name: "Home"
+  - name: "Accueil"
     url: "/"
     weight: 1
   - name: "Contact"
