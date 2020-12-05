@@ -1,4 +1,4 @@
-baseurl: ''
+baseurl: 'https://pauline-lallemantdudek.github.io/docteur-pauline/'
 exclude: ['README.md']
 permalink: pretty
 title: 'Docteur Pauline'
