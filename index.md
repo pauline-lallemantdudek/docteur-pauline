@@ -1,12 +1,12 @@
 ---
-title: Jekyll Serif Theme
+title: docteur Pauline
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: docteur-Pauline est la page personnelle du docteur Pauline Lallemant Dudek, chef de service du service de Médecine Physique et Réadaptation de l'hopital Armand Trousseau à Paris.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# docteur-Pauline - Page personnelle du docteur Pauline Lallemant-Dudek
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+docteur-Pauline est la page personnelle du docteur Pauline Lallemant Dudek, chef de service du service de Médecine Physique et Réadaptation de l'hopital Armand Trousseau à Paris.
