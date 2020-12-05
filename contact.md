@@ -4,13 +4,18 @@ layout: contact
 bodyClass: page-contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+Vous pouvez me contacter à tout moment à l'adresse suivante : pauline.lallemant@aphp.fr et prendre rendez-vous pour une consultation en suivant ce ![https://www.doctolib.fr/medecine-physique-et-de-readaptation/paris/pauline-lallemant](lien).
 
-| Day       | Opening Hours   |
+Mes consultations à l'hopital 
+
+| Jour      | Heures de consultation   |
 | --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+| Lundi     | 8:30am - 5:00pm |
+| Mardi     | 8:30am - 5:00pm |
+| Mercredi  | 8:30am - 5:00pm |
+| Jeudi     | 8:30am - 5:00pm |
+| Vendredi  | 10:am - 4:00pm  |
+
+Service de Médecine physique et réadaptation fonctionnelle pédiatrique
+Hôpital Armand-Trousseau - AP-HP
+26 Avenue du Docteur Arnold Netter, 75012 Paris
