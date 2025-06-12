@@ -4,12 +4,11 @@ layout: default
 
 ![Banner](assets/photoPLD_v2.jpg)
 
-
 # Dr. Pauline Lallemant-Dudek
 
-**Email** : pauline.lallemant@aphp.fr
-
-**N° RPPS** : 10101093945 
+- **Email** : pauline.lallemant@aphp.fr
+- **N° RPPS** : 10101093945 
+- **[Lien vers ma page APHP](https://www.aphp.fr/offre-de-soin/medecin/4036203/088/42)** 
 
 ---
 
@@ -66,7 +65,7 @@ layout: default
 
 ## 📚 Publications
 
-### Publications scientifiques majeures (extrait)
+### Publications scientifiques majeures
 
 1. Dugas A., Guilbaud L., de Saint-Denis T., **Lallemant-Dudek P.**, Simonnet H., Vande Perre S. et al, 2025. Outcome of Children With Prenatally Diagnosed Saccular Limited Dorsal Myeloschisis: The Importance of Accurate Diagnosis. *‘Prenatal Diagnosis’*.
 
@@ -156,13 +155,79 @@ Charles P., Ewenczyk C., Fenu S., Monin ML, Corcia P., Depienne C., Mochel F., B
 
 ---
 
-## 🗣️ Communications orales (extraits)
+## 🗣️ Communications orales
 
-- *Paraparésies spastiques héréditaires et troubles vésico-sphinctériens*, SOFMER Toulouse, 2024  
-- *BUD en pédiatrie*, SIFUD 2023 & 2024  
-- *Myéloméningocèle et cellules souches*, BJOG, 2023  
-- *Modifspa : facteurs environnementaux*, ERN-RND, 2022  
-*(et plus de 30 autres)*
+- **Lallemant-Dudek P.** Les paraparésies spastiques héréditaires, quand s'attendre à des troubles vésico-sphinctériens ? Etude génétique et urodynamique. Congrès de la SOFMER, Toulouse (France), 2024.
+
+- **Lallemant-Dudek P.** BUD : particularités en pédiatrie. Prise en charge urologique des pathologies pédiatriques.
+Congrès de la SIFUD, Antibes (France), 2024.
+
+
+- **Lallemant-Dudek P.** BUD en pédiatrie : spécificités techniques et d'interprétation. Congrès de la SIFUD, Toulouse (France), 2023.
+
+- **Lallemant-Dudek P.** Les MUST de la MPR : rapport du congrès de l'European Academy Child Disability (Barcelone, mai 2022). Congrès de la SOFMER, Rennes (France), 2022.
+
+- **Lallemant-Dudek P.** Facteurs externes influençant la raideur des membres inférieurs dans les paraparésies spastiques héréditaires : point de vue du patient. Congrès de la SOFMER, Rennes (France), 2022.
+
+- Welniarz A., **Lallemant-Dudek P.** Correlation entre la symetrie des hemi-moelles et le deficit sensitivo-moteur des membres inferieurs dans une population pediatrique de diastematomyelies. Congrès de la SOFMER, Rennes (France), 2022.
+
+- Thépot M., **Lallemant-Dudek P.** Syndrome de régression caudale et vessie neurologique : une étude rétrospective. Congrès de la SOFMER, Rennes (France), 2022.
+
+- **Lallemant-Dudek P.** Les consultations para sport santé dédiées aux enfants. 34ème entretiens annuels de Garches (Paris), 2022.
+
+- **Lallemant-Dudek P.** Table ronde : Dysraphisme spinal : prise en charge pelvipérinéale de l'enfant à l'adulte - Transition enfant - adulte. Congrès de la SIFUD, Saint-Malo (France), 2022.
+
+- **Lallemant-Dudek P.**, Crétolle C., Valancogne G. Malformations anorectales : point de vue pluridisciplinaire. Congrès de la SIFUD, Saint-Malo (France), 2022.
+
+- **Lallemant-Dudek P.** Rachis et paralysie cérébrale chez l'enfant : prévention et traitements. Congrès As de Pique, Annecy (France), 2022.
+
+- **Lallemant-Dudek P.**, Tezenas du Montcel S., Durr A. \ Environmental modifiers in Hereditary Spastic Paraplegia. Webinar European Reference Network for Rare Neurological Diseases (ERN-RND), 2022.
+
+- **Lallemant-Dudek P.** Le bilan urodynamique en pédiatrie. Congrès de la SIFUD, Perpignan (France), 2021.
+
+- **Lallemant-Dudek P.** Rachis et paralysie cérébrale. Congrès As de Pique, Annecy (France), 2021.
+
+- Fouquerelle C., Béaud N., Audry G., **Lallemant-Dudek P.** De la fuite urinaire à l’entérocystoplastie : parcours thérapeutique en MPR pédiatrique de 24 patients avec vessie neurologique sur atteinte médullaire. Congrès de la SOFMER, Lille (France), 2021.
+
+- **Lallemant-Dudek P.**, Tezenas du Montcel S., Durr A. \ Modifspa: Environmental modifiers in Hereditary Spastic Paraplegia. Webinar European Reference Network for Rare Neurological Diseases (ERN-RND), 2020.
+
+- **Lallemant-Dudek P.**, Forin V. \'{E}valuation multicentrique de l'adhérence à l'irrigation colique trans anale par le matériel Peristeen chez l'enfant. Congrès de la SOFMER, Bordeaux (France), 2019.
+
+- Geoffroy T., Forin V., **Lallemant-Dudek P.** Favoriser la pratique du sport chez l'enfant handicapé avec une consultation spécialisée. Congrès de la SOFMER, Bordeaux (France), 2019.
+
+- **Lallemant-Dudek P.**, Maurel N., Diop A., Hérisson O., Fitoussi F. Shoulder Kinematic in obstetric brachial plexus palsy: Database, repeatability study for Mallet scale and Kinematic evolution after tendon transfer. Journée de la Société Française d'Orthopédie Pédiatrique, Bruxelles (Belgique), 2019.
+
+- **Lallemant-Dudek P.** Croissance et appareillage. Forum du Val de Grâce, Paris (France), 2019.
+
+- **Lallemant-Dudek P.** Revue de la littérature de l'insuffisance sphinctérienne neurologique de l'enfant. GENULF, Paris (France), 2018.
+
+- Madec FX., **Lallemant-Dudek P.** Revue à long terme des injections du détrusor par toxine botulique chez l'enfant. GENULF, Paris (France), 2018.
+
+- **Lallemant-Dudek P.** Actualités sur le spina bifida : "Médecine Physique et de Réadaptation : premier contact" et "la prise en charge ne peut être que pluridisciplinaire". Journée CRMR C-MAVEM, Montrouge (France), 2018.
+
+- **Lallemant-Dudek P.** Fragilités osseuses dans l'Ostéogenèse Imparfaite. Journées Parisiennes de Pédiatrie, Faculté de médecine Pierre et Marie Curie, Paris (France), 2018.
+
+- **Lallemant-Dudek P.** Malformations ano-rectales et maladie de Hirschsprung : devenir à long terme et apport d'un service de Médecine Physique et Rééducation. Journées Parisiennes de Pédiatrie, Faculté de médecine Pierre et Marie Curie, Paris (France), 2018.
+
+- **Lallemant-Dudek P.** Des ultrasons pour visualiser la capacité musculaire et tendineuse. Journées nationales de l'innovation en santé, Cité des sciences et de l'industrie, Paris (France), 2018.
+
+- **Lallemant-Dudek P.** Lipome du cône médullaire : une étude de 546 enfants du suivi neurochirurgical à la prise en charge en médecine physique et de réadaptation. Congrès de la SOFMER, Nancy (France), 2017.
+
+- Le Liepvre H., **Lallemant-Dudek P.**, Haddad R., Robain G., Zerah M., Forin V. Transition ado-adulte d'une cohorte de patients suivis pour dysraphisme : intérêts d'une consultation pluri-disciplinaire. Congrès de la SOFMER, Nancy (France), 2017.
+
+- Vergnaud N., Forin V., **Lallemant-Dudek P.** Observance et tolérance des orthèses de nuit anti-équin chez l'enfant : étude épidémiologique prospective. Congrès de la SFERHE, Saint-Malo (France), 2017.
+
+- **Lallemant-Dudek P.** Lipome du cône médullaire : une étude de 546 enfants du suivi neurochirurgical à la prise en charge en médecine physique et de réadaptation. Centre de Référence des Maladies Rares "Spina", Rennes (France), 2016.
+
+- **Lallemant-Dudek P.** Lipome du cône médullaire : une étude de 546 enfants du suivi neurochirurgical à la prise en charge en médecine physique et de réadaptation. GENULF, Paris (France), 2016.
+
+- **Lallemant-Dudek P.** A shearwave elastography muscles comparison between children with cerebral palsy and control children. International Conference on Cerebral Palsy and other Childhood-onset Disabilities, Stockholm (Suède), 2016.
+
+- **Lallemant-Dudek P.** Neuro sphincter effects of an Acute Disseminated EncephaloMyelitis. 3rd International Conference on Pediatrics, San Antonio (Etats-Unis), 2015.
+
+- **Lallemant-Dudek P.** Etude de reproductibilité de l'élastographie musculaire par ultrasons chez l'enfant. Les journées de la Société Française d'Orthopédie Pédiatrique, Paris (France), 2015.
+
+-**Lallemant P.** et Forin V. Le zolédronate chez l'enfant porteur d'une ostéogenèse imparfaite. 9ème Congrès de la Société Algérienne de Rhumatologie, Alger (Algérie), 2013.
 
 ---
 
