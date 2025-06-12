@@ -227,7 +227,7 @@ Congrès de la SIFUD, Antibes (France), 2024.
 
 - **Lallemant-Dudek P.** Etude de reproductibilité de l'élastographie musculaire par ultrasons chez l'enfant. Les journées de la Société Française d'Orthopédie Pédiatrique, Paris (France), 2015.
 
--**Lallemant P.** et Forin V. Le zolédronate chez l'enfant porteur d'une ostéogenèse imparfaite. 9ème Congrès de la Société Algérienne de Rhumatologie, Alger (Algérie), 2013.
+- **Lallemant P.** et Forin V. Le zolédronate chez l'enfant porteur d'une ostéogenèse imparfaite. 9ème Congrès de la Société Algérienne de Rhumatologie, Alger (Algérie), 2013.
 
 ---
 
