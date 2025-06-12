@@ -130,7 +130,8 @@ hr {
 }
 
 .container img, .container iframe {
-  max-width: 100%;
+  max-width: 75%;
+  border-radius: 50%;
 }
 
 .container img {
@@ -168,7 +169,7 @@ pre > code {
 }
 
 .container {
-  max-width: 30rem;
+  max-width: 50%;
   margin: 0 auto;
   padding: 0 1rem;
 }

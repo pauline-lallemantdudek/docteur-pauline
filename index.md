@@ -5,11 +5,10 @@ layout: default
 ![Banner](assets/photoPLD_v2.jpg)
 
 
-# Dr. Pauline Lallemant-Dudek - Curriculum Vitae
+# Dr. Pauline Lallemant-Dudek
 
-**Email** : pauline.lallemant@gmail.com  
-**N° RPPS** : 10101093945  
-**Date de naissance** : 5 mai 1987, Chartres (France)
+**Email** : pauline.lallemant@aphp.fr
+**N° RPPS** : 10101093945 
 
 ---
 
@@ -138,6 +137,3 @@ layout: default
 
 ---
 
-~~~python
-import os,time
-~~~
