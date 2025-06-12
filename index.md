@@ -14,7 +14,7 @@ layout: default
 
 ## 🧑‍⚕️ Poste actuel
 
-- **Depuis sept. 2023** : Professeur associé - Praticien hospitalier, Sorbonne Université (Paris)
+- **Depuis sept. 2023** : Maître de conférence universitaire - Praticien hospitalier, Sorbonne Université (Paris)
 - **Depuis oct. 2020** : Cheffe de service - Médecine Physique et Réadaptation Pédiatrique, Hôpital Armand Trousseau (APHP)
 
 ---
