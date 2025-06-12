@@ -6,7 +6,7 @@ layout: default
 
 # Dr. Pauline Lallemant-Dudek
 
-- **Email** : pauline.lallemant@aphp.fr
+- **Email** : [pauline.lallemant@aphp.fr](mailto:pauline.lallemant@aphp.fr)
 - **N° RPPS** : 10101093945 
 - **[Lien vers ma page APHP](https://www.aphp.fr/offre-de-soin/medecin/4036203/088/42)** 
 
