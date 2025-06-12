@@ -1,38 +1,15 @@
-baseurl: ''
-exclude: ['README.md']
-permalink: pretty
-title: 'Docteur Pauline'
-
-google_analytics_id: ""
-homepage:
-  show_call_box: true
-logo:
-  mobile: "images/logo/logo-mobile.svg"
-  desktop: "images/logo/logo.svg"
-  desktop_height: "36px"
-footer:
-  copyright_text: ''
-
-seo:
-  meta_og_title: "Docteur Pauline"
-  meta_og_type: "website"
-  meta_og_url: ""
-  meta_og_image: ""
-  meta_og_description: ""
-  meta_twitter_card: ""
-  meta_twitter_site: ""
-  meta_twitter_creator: ""
-
-collections:
-  services:
-    output: true
-  team:
-    output: true
-
-sass:
-  indentWidth: 4
-  style: compact # possible values: nested expanded compact compressed
-  precision: 10
+# Site settings
+title: Docteur Pauline
+tag_text: MPR Pédiatrique
+description: Présentation de l'activité du docteur Pauline Lallemant-Dudek.
+# baseurl: "/blog" # the subpath of your site, e.g. /blog
+# url: "https://example.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 plugins:
-  - jekyll-environment-variables
+  - jekyll-seo-tag
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
