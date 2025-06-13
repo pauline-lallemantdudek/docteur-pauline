@@ -73,7 +73,7 @@ layout: default
 
 3. Maurel N., Diop A., **Lallemant-Dudek P.**, Fitoussi F., 2025.  Upper limb kinematics in patients with neonatal brachial plexus palsy with different levels of palsy. *'Clinical Biomechanics'*.
 
-4. Bedoux A, **Lallemant-Dudek P.**, Bensidhoum, M, Potier, E, Larochette, N, Mary P. et al., 2024. Effects of shear stress on mesenchymal stem cells of patients with osteogenesis imperfecta. *‘Orthopaedics \& Traumatology: Surgery \& Research*.
+4. Bedoux A, **Lallemant-Dudek P.**, Bensidhoum, M, Potier, E, Larochette, N, Mary P. et al., 2024. Effects of shear stress on mesenchymal stem cells of patients with osteogenesis imperfecta. *‘Orthopaedics & Traumatology: Surgery & Research*.
 
 5. Jouannic JM, Blondiaux E., de Saint-Denis T., **Lallemant P.**, Garel C, 2024. Response to: Prenatal Diagnosis and Postnatal Outcome of Closed Spinal Dysraphism, by Bedei et al., *'Prenatal diagnosis'*. 
 
@@ -181,7 +181,7 @@ Congrès de la SIFUD, Antibes (France), 2024.
 
 - **Lallemant-Dudek P.** Rachis et paralysie cérébrale chez l'enfant : prévention et traitements. Congrès As de Pique, Annecy (France), 2022.
 
-- **Lallemant-Dudek P.**, Tezenas du Montcel S., Durr A. \ Environmental modifiers in Hereditary Spastic Paraplegia. Webinar European Reference Network for Rare Neurological Diseases (ERN-RND), 2022.
+- **Lallemant-Dudek P.**, Tezenas du Montcel S., Durr A.  Environmental modifiers in Hereditary Spastic Paraplegia. Webinar European Reference Network for Rare Neurological Diseases (ERN-RND), 2022.
 
 - **Lallemant-Dudek P.** Le bilan urodynamique en pédiatrie. Congrès de la SIFUD, Perpignan (France), 2021.
 
@@ -189,9 +189,9 @@ Congrès de la SIFUD, Antibes (France), 2024.
 
 - Fouquerelle C., Béaud N., Audry G., **Lallemant-Dudek P.** De la fuite urinaire à l’entérocystoplastie : parcours thérapeutique en MPR pédiatrique de 24 patients avec vessie neurologique sur atteinte médullaire. Congrès de la SOFMER, Lille (France), 2021.
 
-- **Lallemant-Dudek P.**, Tezenas du Montcel S., Durr A. \ Modifspa: Environmental modifiers in Hereditary Spastic Paraplegia. Webinar European Reference Network for Rare Neurological Diseases (ERN-RND), 2020.
+- **Lallemant-Dudek P.**, Tezenas du Montcel S., Durr A.  Modifspa: Environmental modifiers in Hereditary Spastic Paraplegia. Webinar European Reference Network for Rare Neurological Diseases (ERN-RND), 2020.
 
-- **Lallemant-Dudek P.**, Forin V. \'{E}valuation multicentrique de l'adhérence à l'irrigation colique trans anale par le matériel Peristeen chez l'enfant. Congrès de la SOFMER, Bordeaux (France), 2019.
+- **Lallemant-Dudek P.**, Forin V. Évaluation multicentrique de l'adhérence à l'irrigation colique trans anale par le matériel Peristeen chez l'enfant. Congrès de la SOFMER, Bordeaux (France), 2019.
 
 - Geoffroy T., Forin V., **Lallemant-Dudek P.** Favoriser la pratique du sport chez l'enfant handicapé avec une consultation spécialisée. Congrès de la SOFMER, Bordeaux (France), 2019.
 
