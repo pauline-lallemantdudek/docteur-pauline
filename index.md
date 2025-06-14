@@ -4,7 +4,7 @@ layout: default
 
 ![Banner](assets/photoPLD_v2.jpg)
 
-# Dr. Pauline Lallemant-Dudek
+# Dr. Pauline Lallemant&#x2011;Dudek
 
 - **Email** : [pauline.lallemant@aphp.fr](mailto:pauline.lallemant@aphp.fr)
 - **N° RPPS** : 10101093945 
