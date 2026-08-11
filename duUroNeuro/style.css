@@ -1,0 +1,195 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,400&family=Google+Sans:wght@400;500;700&display=swap');
+
+/* Style Général inspiré de Google Design */
+.reveal img {
+    max-height: 100% !important;
+}
+
+.reveal {
+  font-family: 'Lato', sans-serif;
+  font-size: 28px;
+  color: #1A235E;
+  background-color: #ffffff;
+}
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4 {
+  font-family: 'Lato', 'Google Sans', sans-serif;
+  font-weight: 700;
+  color: #1A235E;
+  text-transform: none;
+  letter-spacing: -0.3px;
+}
+
+.reveal h1 { 
+  font-size: 1.8em; 
+}
+
+.reveal h2 { 
+  font-size: 1.35em; 
+  margin-bottom: 0.4em; 
+  border-bottom: 2px solid #e8eaed; 
+  padding-bottom: 8px; 
+}
+
+.reveal h3 { 
+  font-size: 1.1em; 
+  color: #3c4043; 
+  font-weight: 700; 
+  margin-top: 5px;
+  margin-bottom: 8px;
+}
+
+.reveal p, .reveal li {
+  line-height: 1.35;
+  color: #3c4043;
+}
+
+/* Base commune pour toutes les cartes */
+.g-card, .g-card-blue, .g-card-red, .g-card-green {
+  /* Bordure : uniquement à gauche, plus épaisse (8px) */
+  border-top: none !important;
+  border-right: none !important;
+  border-bottom: none !important;
+  border-left-width: 8px !important;
+  border-left-style: solid !important;
+
+  /* Arrondi asymétrique : [Haut-Gauche] [Haut-Droit] [Bas-Droit] [Bas-Gauche] */
+  border-radius: 3px 50px 3px 3px !important;
+
+  /* Remplissage et espacement */
+  padding: 18px 24px !important;
+  margin-bottom: 20px !important;
+
+  /* Ombre subtile pour le relief moderne */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06) !important;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* 1. Carte Grise (Générique) */
+.g-card {
+  background-color: #f8f9fa !important;
+  border-left-color: #6c757d !important;
+}
+
+/* 2. Carte Bleue (Objectifs / Informations) */
+.g-card-blue {
+  background-color: #edf5ff !important; /* Bleu très doux en fond */
+  border-left-color: #1A235E !important; /* Bleu soutenu à gauche */
+}
+
+/* 3. Carte Rouge / Rosée (Alertes / Moyen) */
+.g-card-red {
+  background-color: #fdf2f2 !important; /* Rouge/rose très doux en fond */
+  border-left-color: #AC172F !important; /* Rouge dynamique à gauche */
+}
+
+.g-card-green {
+  background-color: #f2fdf2 !important; /* Vert très doux en fond */
+  border-left-color: #17ac28 !important; /* Vert dynamique à gauche */
+}
+
+/* Petit effet au survol (Optionnel mais très élégant) */
+.g-card:hover, .g-card-blue:hover, .g-card-red:hover, g-card-green:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1) !important;
+}
+
+/* Images */
+.reveal img {
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  max-height: 220px;
+  object-fit: contain;
+}
+
+.small-text {
+  font-size: 0.8em;
+  color: #5f6368;
+}
+
+/* Positionnement du logo Reveal.js en haut à droite */
+.reveal .slide-logo {
+  position: absolute !important;
+  top: 20px !important;
+  right: 30px !important;
+  left: auto !important;
+  bottom: auto !important;
+  max-height: 50px !important; /* Ajustez la hauteur selon votre préférence */
+  width: auto !important;
+  z-index: 1000;
+}
+
+/* 2. Repositionner le numéro de diapositive EN BAS À DROITE */
+.reveal .slide-number {
+  position: fixed !important;
+  bottom: 20px !important;
+  right: 30px !important;
+  top: auto !important;
+  left: auto !important;
+  font-size: 16px !important;
+  z-index: 999 !important;
+}
+
+/* Dégradé bleu -> rouge basé sur la charte du logo */
+.bg-gradient-section {
+  background: linear-gradient(135deg, #002d62 0%, #0056b3 45%, #d9232a 100%) !important;
+  color: #ffffff !important;
+}
+
+/* Masquer le petit logo haut-droit sur la première slide et sur les slides de section */
+.reveal .title-slide .slide-logo,
+.reveal .bg-gradient-section .slide-logo {
+  display: none !important;
+}
+
+/* Style pour le grand logo sur la diapositive de section */
+.big-section-logo {
+  max-width: 320px;
+  height: auto;
+  margin-bottom: 2rem;
+  background-color: rgba(255, 255, 255, 0.95); /* Fond blanc semi-opaque pour faire ressortir le SVG */
+  padding: 12px 24px;
+  border-radius: 8px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+/* Couleur des titres sur fond dégradé */
+.reveal section.bg-gradient-section h1 {
+  color: #ffffff !important;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+/* Couleur blanche pour les titres et textes sur les slides de section */
+.reveal section.section-slide h1,
+.reveal section.section-slide h2,
+.reveal section.section-slide p,
+.reveal section.section-slide li {
+  color: #1A235E !important;
+  /*text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);*/
+}
+
+/* Masquer le petit logo haut-droit sur les slides de section */
+.reveal section.section-slide ~ .slide-logo,
+.reveal section[data-background-gradient] ~ .slide-logo,
+.reveal .has-dark-background ~ .slide-logo {
+  display: none !important;
+}
+
+/* Alternative CSS pure pour masquer le logo sur la slide courante si elle a un dégradé */
+.reveal .slides section.has-dark-background .slide-logo {
+  display: none !important;
+}
+
+.reveal .controls {
+  color: #1A235E !important; /* Remplacez par la couleur de votre choix */
+}
+
+/* Couleur des flèches lors du survol (hover) */
+.reveal .controls:hover {
+  color: #AC172F !important; /* Couleur au survol */
+}
+
+/* Optionnel : couleur des flèches désactivées (ex: flèche gauche sur la slide 1) */
+.reveal .controls button:disabled {
+  opacity: 0.2 !important;
+}
