@@ -27,8 +27,6 @@ toc-depth: 3
 :::
 :::
 
----
-
 ## 📍 Postes & Responsabilités cliniques
 
 ::: {.timeline-warm}
@@ -94,8 +92,6 @@ Sept. 2020 — Sept. 2023
 :::
 
 :::
-
----
 
 ## 🎓 Formation & Diplômes
 
@@ -211,8 +207,6 @@ Juin 2016
 
 :::
 
----
-
 ## 📘 Pédagogie, Enseignement & Encadrement
 
 ::: {.grid .mb-4}
@@ -249,8 +243,6 @@ Encadrement de **6 thèses d'exercice** (MPR, chirurgie pédiatrique) axées sur
 - Ostéogenèse imparfaite
 - Continence chez l’enfant
 
----
-
 ## 🏅 Bourse, Distinctions & Affiliations
 
 ::: {.grid .mb-4}
@@ -277,8 +269,6 @@ Encadrement de **6 thèses d'exercice** (MPR, chirurgie pédiatrique) axées sur
 :::
 
 :::
-
----
 
 ## 📚 Publications
 
