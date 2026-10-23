@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 720" width="100%" height="100%" style="background-color: #FFFFFF; font-family: &#39;Plus Jakarta Sans&#39;, system-ui, -apple-system, sans-serif;">
+  
+  <defs>
+    <!-- Filtre d'ombre douce -->
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#2C221E" flood-opacity="0.06" />
+    </filter>
+
+    <!-- Connecteurs Flèches -->
+    <marker id="arrow-terracotta" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 8 5 L 0 9 z" fill="#C85A32" />
+    </marker>
+  </defs>
+
+  <!-- CONNECTEURS DISCONTINUS -->
+  <!-- Flèche 1 -> 2 (Horizontal) -->
+  <path d="M 390, 160 L 450, 160" stroke="#C85A32" stroke-width="2" marker-end="url(#arrow-terracotta)" />
+  <rect x="398" y="142" width="44" height="16" rx="3" fill="#C85A32" />
+  <text x="420" y="153" text-anchor="middle" fill="#FFFFFF" font-size="8" font-weight="700">ÉCHEC</text>
+
+  <!-- Flèche 2 -> 3 (Vertical vers le bas) -->
+  <path d="M 640, 310 L 640, 390" stroke="#C85A32" stroke-width="2" marker-end="url(#arrow-terracotta)" />
+  <rect x="616" y="340" width="48" height="16" rx="3" fill="#8F3B1D" />
+  <text x="640" y="351" text-anchor="middle" fill="#FFFFFF" font-size="8" font-weight="700">ÉCHEC</text>
+
+  <!-- Flèche 3 -> 4 (Horizontal vers la gauche) -->
+  <path d="M 450, 540 L 390, 540" stroke="#C85A32" stroke-width="2" marker-end="url(#arrow-terracotta)" />
+  <rect x="398" y="522" width="48" height="16" rx="3" fill="#2C221E" />
+  <text x="422" y="533" text-anchor="middle" fill="#FFFFFF" font-size="8" font-weight="700">PERSIST.</text>
+
+
+  <!-- ÉTAPE 1 : RÈGLES HYGIÉNO-DIÉTÉTIQUES (Haut Gauche) -->
+  <g transform="translate(30, 30)" filter="url(#shadow)">
+    <rect x="0" y="0" width="360" height="260" rx="12" fill="#FFFFFF" stroke="#5C7063" stroke-width="1.5" />
+    <rect x="0" y="0" width="360" height="38" rx="12" fill="#5C7063" />
+    <rect x="0" y="26" width="360" height="12" fill="#5C7063" />
+    <text x="180" y="24" text-anchor="middle" fill="#FFFFFF" font-size="12" font-weight="700" letter-spacing="0.5">1. MESURES INITIALES</text>
+    
+    <text x="180" y="65" text-anchor="middle" fill="#2C221E" font-size="14" font-weight="700">Règles hygiéno-diététiques</text>
+    
+    <line x1="20" y1="78" x2="340" y2="78" stroke="rgba(92, 112, 99, 0.2)" stroke-width="1" />
+    
+    <text x="30" y="104" fill="#6E655F" font-size="12">• Boissons régulières la journée</text>
+    <text x="30" y="126" fill="#6E655F" font-size="12">• Restriction des apports le soir</text>
+    <text x="30" y="148" fill="#6E655F" font-size="12">• Mictions régulières et programmées</text>
+    <text x="30" y="170" fill="#6E655F" font-size="12">• Prise en charge d'une constipation associée</text>
+    
+    <rect x="20" y="198" width="320" height="38" rx="6" fill="#FAF7F2" />
+    <text x="180" y="222" text-anchor="middle" fill="#5C7063" font-size="12" font-weight="700">Socle indispensable</text>
+  </g>
+
+
+  <!-- ÉTAPE 2 : TRAITEMENT DE 1ÈRE INTENTION (Haut Droit) -->
+  <g transform="translate(460, 30)" filter="url(#shadow)">
+    <rect x="0" y="0" width="360" height="260" rx="12" fill="#FFFFFF" stroke="#C85A32" stroke-width="1.5" />
+    <rect x="0" y="0" width="360" height="38" rx="12" fill="#C85A32" />
+    <rect x="0" y="26" width="360" height="12" fill="#C85A32" />
+    <text x="180" y="24" text-anchor="middle" fill="#FFFFFF" font-size="12" font-weight="700" letter-spacing="0.5">2. PREMIÈRE INTENTION</text>
+    
+    <text x="180" y="62" text-anchor="middle" fill="#8F3B1D" font-size="14" font-weight="700">Traitements de 1re ligne</text>
+    <text x="180" y="78" text-anchor="middle" fill="#6E655F" font-size="11">(seuls ou en association)</text>
+    
+    <line x1="20" y1="88" x2="340" y2="88" stroke="rgba(200, 90, 50, 0.2)" stroke-width="1" />
+    
+    <rect x="20" y="100" width="320" height="52" rx="6" fill="#FAF7F2" stroke="rgba(200, 90, 50, 0.2)" />
+    <text x="180" y="122" text-anchor="middle" fill="#2C221E" font-size="12" font-weight="700">Desmopressine</text>
+    <text x="180" y="138" text-anchor="middle" fill="#6E655F" font-size="11">(Polyurie nocturne)</text>
+    
+    <text x="180" y="169" text-anchor="middle" fill="#8F3B1D" font-size="11" font-weight="700">et / ou</text>
+    
+    <rect x="20" y="178" width="320" height="52" rx="6" fill="#FAF7F2" stroke="rgba(200, 90, 50, 0.2)" />
+    <text x="180" y="200" text-anchor="middle" fill="#2C221E" font-size="12" font-weight="700">Alarme Pipi-Stop</text>
+    <text x="180" y="216" text-anchor="middle" fill="#6E655F" font-size="11">(Trouble du réveil)</text>
+  </g>
+
+
+  <!-- ÉTAPE 3 : ANTICHOLINERGIQUE (Bas Droit) -->
+  <g transform="translate(460, 410)" filter="url(#shadow)">
+    <rect x="0" y="0" width="360" height="260" rx="12" fill="#FFFFFF" stroke="#D98A4B" stroke-width="1.5" />
+    <rect x="0" y="0" width="360" height="38" rx="12" fill="#D98A4B" />
+    <rect x="0" y="26" width="360" height="12" fill="#D98A4B" />
+    <text x="180" y="24" text-anchor="middle" fill="#FFFFFF" font-size="12" font-weight="700" letter-spacing="0.5">3. DEUXIÈME INTENTION</text>
+    
+    <text x="180" y="65" text-anchor="middle" fill="#2C221E" font-size="14" font-weight="700">Traitement Anticholinergique</text>
+    
+    <line x1="20" y1="80" x2="340" y2="80" stroke="rgba(217, 138, 75, 0.2)" stroke-width="1" />
+    
+    <text x="30" y="106" fill="#8F4B1D" font-size="12" font-weight="700">Indications :</text>
+    <text x="30" y="132" fill="#6E655F" font-size="12">• Échec des thérapies initiales en association</text>
+    <text x="30" y="158" fill="#6E655F" font-size="12">• Possibilité d'essayer en présence d'une</text>
+    <text x="42" y="178" fill="#6E655F" font-size="12">composante d'hyperactivité vésicale</text>
+  </g>
+
+
+  <!-- ÉTAPE 4 : RECOURS SPÉCIALISÉ (Bas Gauche) -->
+  <g transform="translate(30, 410)" filter="url(#shadow)">
+    <rect x="0" y="0" width="360" height="260" rx="12" fill="#FFFFFF" stroke="#2C221E" stroke-width="1.5" />
+    <rect x="0" y="0" width="360" height="38" rx="12" fill="#2C221E" />
+    <rect x="0" y="26" width="360" height="12" fill="#2C221E" />
+    <text x="180" y="24" text-anchor="middle" fill="#FFFFFF" font-size="12" font-weight="700" letter-spacing="0.5">4. DERNIER RECOURS</text>
+    
+    <text x="180" y="65" text-anchor="middle" fill="#2C221E" font-size="14" font-weight="700">Traitement Anti-dépresseur</text>
+    
+    <line x1="20" y1="80" x2="340" y2="80" stroke="rgba(44, 34, 30, 0.2)" stroke-width="1" />
+    
+    <rect x="20" y="96" width="320" height="52" rx="6" fill="#FAF7F2" stroke="rgba(200, 90, 50, 0.3)" />
+    <text x="180" y="118" text-anchor="middle" fill="#C85A32" font-size="12" font-weight="700">⚠️ AVIS SPÉCIALISÉ OBLIGATOIRE</text>
+    <text x="180" y="134" text-anchor="middle" fill="#C85A32" font-size="11">(Avis auprès d'un spécialiste requis)</text>
+    
+    <text x="30" y="172" fill="#6E655F" font-size="12">• Option réservée au dernier recours</text>
+    <text x="30" y="196" fill="#6E655F" font-size="12">• Indiqué uniquement après échec complet</text>
+  </g>
+
+</svg>
