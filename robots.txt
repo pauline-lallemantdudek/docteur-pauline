@@ -1,1 +1,1 @@
-Sitemap: https://www.docteur-pauline.fr/sitemap.xml
+Sitemap: https://docteur-pauline.fr/sitemap.xml
