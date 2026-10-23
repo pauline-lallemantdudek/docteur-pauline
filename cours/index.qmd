@@ -1,0 +1,27 @@
+---
+title: "Cours & Supports d'Enseignement"
+subtitle: "Sorbonne Université"
+toc: false
+---
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100 .p-4}
+::: {.mb-2}
+<span class="badge-academic badge-terracotta">DIU Neuro-urologie</span>
+<span class="badge-academic badge-sage">Nouveau</span>
+:::
+
+### Énurésie de l'enfant
+Définition, prévalence, démarche diagnostique et prises en charge thérapeutiques chez l'enfant.
+
+- **Format :** Présentation interactive Reveal.js
+- **Durée :** 30 minutes
+
+::: {.d-flex .gap-2 .mt-3}
+[Consulter](enuresie.qmd){.btn .btn-sm .btn-outline-primary target="_blank"}
+[Version PDF ↗](enuresie.html?print-pdf){.btn .btn-sm .btn-secondary target="_blank"}
+:::
+:::
+:::

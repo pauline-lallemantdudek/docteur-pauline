@@ -1,0 +1,222 @@
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,700;1,400&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap');
+
+// Palette Terracotta, Ambre & Sauge
+$warm-bg: #F2F2F2;
+$warm-card: #FFFFFF;
+$terracotta: #3296c8;
+$terracotta-dark: #1d568f;
+$sage: #5C7063;
+$amber-soft: #E09F67;
+$text-dark: #333333;
+$text-muted: #6E655F;
+
+// Application des variables Quarto / Bootstrap
+$body-bg: $warm-bg;
+$body-color: $text-dark;
+$link-color: $terracotta;
+$link-hover-color: $terracotta-dark;
+
+$font-family-sans-serif: 'Plus Jakarta Sans', system-ui, sans-serif;
+$headings-font-family: 'Playfair Display', Georgia, serif;
+
+/*-- scss:rules --*/
+
+// Navigation élégante et sobre
+.navbar {
+  border-bottom: 2px solid $terracotta;
+  padding: 0.8rem 1rem;
+  
+  .navbar-brand {
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    color: #FAF7F2 !important;
+  }
+
+  .nav-link {
+    color: #E3DCD6 !important;
+    font-weight: 500;
+    transition: color 0.2s ease;
+
+    &:hover, &.active {
+      color: $amber-soft !important;
+    }
+  }
+}
+
+// Typographie des titres
+h1, h2, h3 {
+  color: $text-dark;
+  font-weight: 700;
+  letter-spacing: -0.3px;
+}
+
+h1 {
+  font-size: 2.3rem;
+  color: $terracotta-dark;
+}
+
+h2 {
+  font-size: 1.6rem;
+  margin-top: 2.5rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid rgba(200, 90, 50, 0.2);
+}
+
+// Cartes avec ombres douces et organiques
+.card {
+  background: $warm-card !important;
+  border: 1px solid rgba(200, 90, 50, 0.12) !important;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(44, 34, 30, 0.04);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba(44, 34, 30, 0.08);
+  }
+}
+
+// Badges académiques doux
+.badge-academic {
+  display: inline-block;
+  padding: 0.35em 0.8em;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 0.75rem;
+  font-weight: 600;
+  border-radius: 20px;
+  margin-right: 6px;
+  margin-bottom: 6px;
+}
+
+.badge-terracotta {
+  background: rgba(200, 90, 50, 0.12);
+  color: $terracotta-dark;
+  border: 1px solid rgba(200, 90, 50, 0.25);
+}
+
+.badge-sage {
+  background: rgba(92, 112, 99, 0.12);
+  color: $sage;
+  border: 1px solid rgba(92, 112, 99, 0.25);
+}
+
+// Chronologie médicale / universitaire
+.timeline-warm {
+  position: relative;
+  padding-left: 28px;
+  margin: 2rem 0;
+  border-left: 2px solid rgba(200, 90, 50, 0.25);
+
+  .timeline-item {
+    position: relative;
+    margin-bottom: 2rem;
+
+    &::before {
+      content: '';
+      position: absolute;
+      left: -34px;
+      top: 5px;
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: $terracotta;
+      border: 2px solid $warm-bg;
+    }
+  }
+
+  .timeline-date {
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: $terracotta;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 0.2rem;
+  }
+
+  .timeline-content {
+    background: $warm-card;
+    border: 1px solid rgba(200, 90, 50, 0.1);
+    border-radius: 8px;
+    padding: 1.2rem;
+
+    h4 {
+      font-family: 'Playfair Display', serif;
+      margin-top: 0;
+      margin-bottom: 0.4rem;
+      font-size: 1.15rem;
+      color: $text-dark;
+    }
+  }
+}
+
+// Formatage des présentations Reveal.js intégrées
+.reveal-wrapper {
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid rgba(200, 90, 50, 0.2);
+  background: $warm-card;
+  box-shadow: 0 6px 20px rgba(44, 34, 30, 0.06);
+
+  .reveal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 18px;
+    background: #F2EBE1;
+    border-bottom: 1px solid rgba(200, 90, 50, 0.15);
+    font-weight: 600;
+    font-size: 0.85rem;
+    color: $text-dark;
+  }
+
+  iframe {
+    width: 100%;
+    height: 580px;
+    border: none;
+  }
+}
+
+// Boutons aux teintes Terracotta
+.btn-outline-primary {
+  color: #C85A32;
+  border-color: #C85A32;
+  font-weight: 600;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+
+  &:hover {
+    background-color: #C85A32;
+    border-color: #C85A32;
+    color: #FFFFFF;
+    box-shadow: 0 4px 12px rgba(200, 90, 50, 0.25);
+  }
+}
+
+.btn-primary {
+  background-color: #C85A32;
+  border-color: #C85A32;
+  color: #FFFFFF;
+  font-weight: 600;
+  border-radius: 6px;
+
+  &:hover {
+    background-color: #8F3B1D;
+    border-color: #8F3B1D;
+  }
+}
+
+.btn-secondary {
+  background-color: #C85A32;
+  border-color: #C85A32;
+  color: #FFFFFF;
+  font-weight: 600;
+  border-radius: 6px;
+
+  &:hover {
+    background-color: #FFFFFF;
+    border-color: #8F3B1D;
+    color: #8F3B1D;
+  }
+}

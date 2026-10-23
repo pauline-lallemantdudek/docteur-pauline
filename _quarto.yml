@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Dr Pauline Lallemant-Dudek"
+  site-url: "https://www.docteur-pauline.fr"
+  favicon: "assets/favicon.svg"
+  
+  navbar:
+    background: "#1d568f"
+    search: true
+    left:
+      - href: index.qmd
+        text: "Accueil"
+      - href: cv.qmd
+        text: "Parcours & CV"
+      - href: cours/index.qmd
+        text: "Cours & Ressources"
+    right:
+      - icon: envelope-fill
+        href: mailto:pauline.lallemant@aphp.fr
+
+  page-footer:
+    border: true
+    background: "#3296c8"
+    left: "© 2026 Dr Pauline Lallemant-Dudek"
+    center: "Sorbonne Université — AP-HP"
+    right: ""
+
+format:
+  html:
+    theme: [cosmo, custom.scss]
+    toc: true
+    toc-depth: 3
+    toc-title: "Sur cette page"
+    smooth-scroll: true
+    grid:
+      body-width: 1200px

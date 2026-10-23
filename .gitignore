@@ -20,3 +20,6 @@ Thumbs.db
 .Spotlight-V100
 .Trashes
 .idea
+
+/.quarto/
+**/*.quarto_ipynb

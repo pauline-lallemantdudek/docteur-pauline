@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 55 900 370" width="100%" height="100%" style="background-color: #FFFFFF; font-family: &#39;Plus Jakarta Sans&#39;, system-ui, -apple-system, sans-serif;">
+  
+  <defs>
+    <!-- Marqueurs de flèches -->
+    <marker id="arrow-terracotta" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 8 5 L 0 9 z" fill="#C85A32" />
+    </marker>
+    <marker id="arrow-sage" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 8 5 L 0 9 z" fill="#5C7063" />
+    </marker>
+    <marker id="arrow-amber" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 8 5 L 0 9 z" fill="#D98A4B" />
+    </marker>
+  </defs>
+
+  <!-- LÉGENDE ABRÉVIATIONS (Haut Droit) -->
+  <g transform="translate(670, 60)" filter="url(#soft-shadow)">
+    <rect x="0" y="0" width="200" height="70" rx="8" fill="#FFFFFF" stroke="rgba(200, 90, 50, 0.2)" stroke-width="1" />
+    <text x="14" y="28" fill="#8F3B1D" font-size="12" font-weight="700">PN : Polyurie Nocturne</text>
+    <text x="14" y="50" fill="#8F3B1D" font-size="12" font-weight="700">HAD : Vessie Hyperactive</text>
+  </g>
+
+  <!-- DIAGRAMME DE VENN (CENTRE) -->
+  <g transform="translate(450, 310)">
+    <!-- Cercle PN (Sauge / Haut) -->
+    <circle cx="0" cy="-65" r="80" fill="#5C7063" fill-opacity="0.45" stroke="#5C7063" stroke-width="2.5" />
+    <!-- Cercle Troubles de l'éveil (Terracotta / Gauche) -->
+    <circle cx="-55" cy="30" r="80" fill="#C85A32" fill-opacity="0.45" stroke="#C85A32" stroke-width="2.5" />
+    <!-- Cercle VHV (Ambre / Droite) -->
+    <circle cx="55" cy="30" r="80" fill="#D98A4B" fill-opacity="0.45" stroke="#D98A4B" stroke-width="2.5" />
+
+    <!-- ÉTIQUETTES DES INTERSECTIONS DANS LES CERCLES -->
+    <text x="0" y="-70" text-anchor="middle" fill="#1E2822" font-size="15" font-weight="700">PN</text>
+    <text x="-70" y="35" text-anchor="middle" fill="#4A1C0E" font-size="13" font-weight="700">
+      <tspan x="-70" dy="0">Troubles de</tspan>
+      <tspan x="-70" dy="16">l'éveil</tspan>
+    </text>
+    <text x="70" y="35" text-anchor="middle" fill="#543110" font-size="14" font-weight="700">HAD</text>
+  </g>
+
+  <!-- FLÈCHES CONNECTEURS -->
+  <!-- Flèche Haut (PN / Sauge) -->
+  <path d="M 450, 155 L 450, 222" stroke="#5C7063" stroke-width="2" stroke-dasharray="4 4" marker-end="url(#arrow-sage)" />
+  <!-- Flèche Gauche (Éveil / Terracotta) -->
+  <path d="M 280, 310 L 372, 325" stroke="#C85A32" stroke-width="2" stroke-dasharray="4 4" marker-end="url(#arrow-terracotta)" />
+  <!-- Flèche Droite (VHV / Ambre) -->
+  <path d="M 620, 310 L 528, 325" stroke="#D98A4B" stroke-width="2" stroke-dasharray="4 4" marker-end="url(#arrow-amber)" />
+
+  <!-- ENCADRÉ HAUT : POLYURIE NOCTURNE -->
+  <g transform="translate(260, 75)" filter="url(#soft-shadow)">
+    <rect x="0" y="0" width="380" height="75" rx="10" fill="#FFFFFF" stroke="#5C7063" stroke-width="1.5" />
+    <rect x="0" y="0" width="380" height="75" rx="10" fill="#5C7063" fill-opacity="0.05" />
+    <text x="190" y="30" text-anchor="middle" fill="#2C221E" font-size="14" font-weight="700">
+      Sécrétion nocturne anormale
+    </text>
+    <text x="190" y="50" text-anchor="middle" fill="#2C221E" font-size="14" font-weight="700">
+      de vasopressine (ADH)
+    </text>
+  </g>
+
+  <!-- ENCADRÉ GAUCHE : TROUBLES DU RÉVEIL -->
+  <g transform="translate(30, 220)" filter="url(#soft-shadow)">
+    <rect x="0" y="0" width="250" height="175" rx="10" fill="#FFFFFF" stroke="#C85A32" stroke-width="1.5" />
+    <rect x="0" y="0" width="250" height="175" rx="10" fill="#C85A32" fill-opacity="0.05" />
+    <text x="125" y="32" text-anchor="middle" fill="#8F3B1D" font-size="14" font-weight="700">
+      Déficit d'éveil nocturne
+    </text>
+    <line x1="20" y1="44" x2="230" y2="44" stroke="rgba(200, 90, 50, 0.2)" stroke-width="1" />
+    <text x="125" y="68" text-anchor="middle" fill="#6E655F" font-size="12">Absence de réveil en réponse</text>
+    <text x="125" y="86" text-anchor="middle" fill="#6E655F" font-size="12">aux sensations vésicales ;</text>
+    <text x="125" y="112" text-anchor="middle" fill="#6E655F" font-size="12">Sommeil profond et fragmenté ;</text>
+    <text x="125" y="138" text-anchor="middle" fill="#6E655F" font-size="12">Somnolence diurne excessive.</text>
+  </g>
+
+  <!-- ENCADRÉ DROIT : VESSIE HYPERACTIVE -->
+  <g transform="translate(620, 220)" filter="url(#soft-shadow)">
+    <rect x="0" y="0" width="250" height="175" rx="10" fill="#FFFFFF" stroke="#D98A4B" stroke-width="1.5" />
+    <rect x="0" y="0" width="250" height="175" rx="10" fill="#D98A4B" fill-opacity="0.05" />
+    <text x="125" y="32" text-anchor="middle" fill="#8F4B1D" font-size="14" font-weight="700">
+      Symptômes diurnes
+    </text>
+    <line x1="20" y1="44" x2="230" y2="44" stroke="rgba(217, 138, 75, 0.2)" stroke-width="1" />
+    <text x="125" y="68" text-anchor="middle" fill="#6E655F" font-size="12">Symptômes diurnes associés :</text>
+    <text x="125" y="88" text-anchor="middle" fill="#6E655F" font-size="12">urgenturie, pollakiurie</text>
+    <text x="125" y="106" text-anchor="middle" fill="#6E655F" font-size="12">et incontinence ;</text>
+    <text x="125" y="134" text-anchor="middle" fill="#6E655F" font-size="12">Souvent résistant aux traitements.</text>
+  </g>
+
+</svg>
