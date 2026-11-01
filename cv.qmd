@@ -41,25 +41,28 @@ Depuis sept. 2023
 :::
 :::
 
-::: {.timeline-item}
-::: {.timeline-date}
-Depuis oct. 2020
-:::
-::: {.timeline-content}
-#### Cheffe de service
-*Médecine Physique et Réadaptation Pédiatrique, Hôpital Armand Trousseau (AP-HP)*
-:::
-:::
 
 ::: {.timeline-item}
 ::: {.timeline-date}
-Depuis mars 2021
+De mars 2021 à sept. 2024
 :::
 ::: {.timeline-content}
 #### Co-directrice médicale
 *Plateforme de transition « ESCALE », Hôpital Armand Trousseau (AP-HP)*
 :::
 :::
+
+
+::: {.timeline-item}
+::: {.timeline-date}
+Depuis oct. 2020
+:::
+::: {.timeline-content}
+#### Chef de service
+*Médecine Physique et Réadaptation Pédiatrique, Hôpital Armand Trousseau (AP-HP)*
+:::
+:::
+
 
 ::: {.timeline-item}
 ::: {.timeline-date}
@@ -103,7 +106,7 @@ Déc. 2024
 :::
 ::: {.timeline-content}
 #### Doctorat en Neurosciences (Ph.D.)
-*Institut du Cerveau (ICM) — Équipe « Neurogénétique de la motricité » (Pr A. Dürr)*
+*Institut du Cerveau (ICM) — Équipe « Basic to translational neurogenetics » (Pr A. Durr)*
 :::
 :::
 
@@ -112,19 +115,11 @@ Déc. 2024
 2022 — 2023
 :::
 ::: {.timeline-content}
-#### DU Pédagogie médicale
+#### DIU de Pédagogie médicale
 *Sorbonne Université*
 :::
 :::
 
-::: {.timeline-item}
-::: {.timeline-date}
-Nov. 2022
-:::
-::: {.timeline-content}
-#### Certification Bonnes Pratiques Cliniques (BPC)
-:::
-:::
 
 ::: {.timeline-item}
 ::: {.timeline-date}
@@ -141,7 +136,7 @@ Oct. 2022
 2019 — 2020
 :::
 ::: {.timeline-content}
-#### DIU Maladies génétiques
+#### DIU Maladies génétiques : approche transdisciplinaire
 *Université de Paris*
 :::
 :::
@@ -172,6 +167,7 @@ Juin 2016
 :::
 ::: {.timeline-content}
 #### DES Médecine Physique et de Réadaptation
+*Université Paris Descartes*
 :::
 :::
 
@@ -180,7 +176,7 @@ Juin 2016
 2013 — 2014
 :::
 ::: {.timeline-content}
-#### Master 2 Ingénierie Biomédicale
+#### Master 2, BioMedical Engineering
 *ENSAM / Université Paris Descartes*
 :::
 :::
@@ -214,29 +210,32 @@ Juin 2016
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card .p-3 .h-100}
 ### 🏛️ Responsabilités pédagogiques
-- **Depuis sept. 2023 :** Responsable de l’UE « Santé, maladie, handicap », IFMS — Sorbonne Université
-- **Depuis sept. 2023 :** Responsable du comité pédagogique du DU Orthèses, Sorbonne Université
-- **Depuis 2018 :** Co-organisation du module pédiatrie du DES de MPR
+- **Depuis nov. 2026 :**Représentante nationale de la MPR pédiatrique auprès du Collège des Enseignants de Médecine Physique et de Réadaptation (COFEMER)
+- **Depuis nov. 2025 :** Coordination nationale du module pédiatrie du DES de MPR 
+- **De sept. 2023 à aout 2026 :** Responsable de l’UE « Santé, maladie, handicap », IFSI — Sorbonne Université
+- **Depuis sept. 2023 :** Participation au COPIL du Service Sanitaire, Sorbonne Université
+- **Depuis sept. 2023 :** Responsable du comité pédagogique du DU Appareillage, Sorbonne Université
+- **De 2018 à 2026 :** Co-organisation du module pédiatrie du DES de MPR
 :::
 :::
 
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card .p-3 .h-100}
 ### 👩‍🏫 Activités d'enseignement
-**> 60 heures/an** destinées aux étudiants en médecine et médecins praticiens, notamment dans les cursus :
+**> 60 heures/an** destinées aux étudiants en médecine et médecins praticiens, notamment dans les thématiques :
 
 - MPR pédiatrique
 - Dysraphismes spinaux
 - Neuro-urologie
 - Urodynamique
-- Orthèses
+- Appareillage et Orthèses
 :::
 :::
 
 :::
 
-### 🎓 Encadrement de thèses
-Encadrement de **6 thèses d'exercice** (MPR, chirurgie pédiatrique) axées sur :
+### 🎓 Encadrement de travaux universitaires
+Encadrement de **6 thèses d'exercice** (MPR, chirurgie pédiatrique) et **3 mémoires de spécialité** axées sur :
 
 - Dysraphismes spinaux
 - Vessie neurologique
@@ -250,17 +249,20 @@ Encadrement de **6 thèses d'exercice** (MPR, chirurgie pédiatrique) axées sur
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card .p-3 .h-100}
 ### 🏆 Bourses & Prix
-- **Nov. 2023 :** Contrat Sorbonne Université — Étude *Walk-up* (10 000 €)
+- **Oct. 2026 :** Appel à projets CRMR (8 000 €)
+- **Nov. 2023 :** Contrat Sorbonne Université — Étude *Walk-up*  (10 000 €)
+- **Déc. 2021 :** Appel à projets les Laurétas du Clostridium - IPSEN (15 000 €)
 - **Sept. 2021 :** Bourse Brainteam — Maladies rares (50 000 €)
-- **Oct. 2019 :** Bourse SOFMER — IPSEN
-- **Nov. 2016 :** Prix de thèse ASBH
+- **Oct. 2019 :** Bourse SOFMER — IPSEN (3 000 €)
+- **Nov. 2016 :** Prix de thèse ASBH - (1 000 €)
 :::
 :::
 
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card .p-3 .h-100}
 ### 🤝 Sociétés savantes & Partenariats
-- **Comité Urologie de l’enfant (AFU)** — Depuis 2024
+- **Responsable scientifique du congrès SFERHE 2027**, Paris
+- **Comité Urologie de l’enfant et de l'adolescent de l'Association Française d'Urologie (AFU)** — Depuis 2024
 - **Comité scientifique du congrès SFERHE** — 2024
 - **Groupe d’étude neuro-urologique francophone (GENULF)** — Depuis 2022
 - **SOFMER & SFERHE** — Depuis 2017
@@ -274,48 +276,58 @@ Encadrement de **6 thèses d'exercice** (MPR, chirurgie pédiatrique) axées sur
 
 ### Publications scientifiques dans des revues à comité de lecture
 
-1. Dugas A., Guilbaud L., de Saint-Denis T., **Lallemant-Dudek P.**, Simonnet H., Vande Perre S. et al., 2025. Outcome of Children With Prenatally Diagnosed Saccular Limited Dorsal Myeloschisis: The Importance of Accurate Diagnosis. *Prenatal Diagnosis*.
-2. **Lallemant-Dudek P.**, Coarelli G., Heinzmann A., Amarenco G., Hentzen C., Denys P., Joussain C., Pichon B., Robain G., Haddad R., Guillaud-Bataille M., Durr A., 2025. Hereditary Spastic Paraplegias, when to expect bladder dysfunction? A genetic and urodynamic study. *European Journal of Neurology*.
-3. Maurel N., Diop A., **Lallemant-Dudek P.**, Fitoussi F., 2025. Upper limb kinematics in patients with neonatal brachial plexus palsy with different levels of palsy. *Clinical Biomechanics*.
-4. Bedoux A., **Lallemant-Dudek P.**, Bensidhoum M., Potier E., Larochette N., Mary P. et al., 2024. Effects of shear stress on mesenchymal stem cells of patients with osteogenesis imperfecta. *Orthopaedics & Traumatology: Surgery & Research*.
-5. Jouannic J.M., Blondiaux E., de Saint-Denis T., **Lallemant P.**, Garel C., 2024. Response to: Prenatal Diagnosis and Postnatal Outcome of Closed Spinal Dysraphism, by Bedei et al. *Prenatal Diagnosis*.
-6. Cogan G., Zaki M.S., Issa M., Keren B., Guillaud-Bataille M., Renaldo F. et al., 2024. Biallelic variants in ERLIN1: a series of 13 individuals with spastic paraparesis. *Human Genetics*.
-7. Lavorgna L., Maida E., Reinhard C., Cras P., Reetz K., Molnar M.J., Nonnekes J., Summa S., Diserens K., Petrarca M., Albanese A., Leocani L., Delussi M., Vinciguerra C., Pagliano E., Kubica J., **Lallemant-Dudek P.** *et al.*, 2024. The growing role of telerehabilitation and teleassessment in the management of movement disorders in rare neurological diseases: a scoping review. *Telemedicine and e-Health*.
-8. Fitoussi F., **Lallemant-Dudek P.**, 2024. The upper limb in children with cerebral palsy. Evaluation and treatment. *Orthopaedics & Traumatology: Surgery & Research*.
-9. Athiel Y., Jouannic J.M., Maufré V., Dehan C., Adam C., Blot S., **Lallemant-Dudek P.** *et al.*, 2023. Allogenic umbilical cord-derived mesenchymal stromal cells improve motor function in prenatal surgical repair of myelomeningocele: An ovine model study. *BJOG*.
-10. **Lallemant-Dudek P.**, Livia P., Coarelli G., Heinzmann A., Charles P., Ewenczyk C., Fenu S., Monin M.L., Corcia P., Depienne C., Mochel F., Benard J., Tezenas du Montcel S., Durr A., 2023. Individual perceptions of environmental factors that influence lower limb spasticity in hereditary spastic paraparesis. *Annals of Physical and Rehabilitation Medicine*.
-11. Tezenas du Montcel S., Petit E., Titilayo O., Faber J., **Lallemant-Dudek P.** *et al.*, 2023. Baseline Clinical and Blood Biomarkers in Patients With Preataxic and Early-Stage Disease Spinocerebellar Ataxia 1 and 3. *Neurology*.
-12. Parodi L., Barbier M., Jacoupy M., Pujol C., Lejeune F.X., **Lallemant-Dudek P.** *et al.*, 2022. The mitochondrial seryl-tRNA synthetase SARS2 modifies onset in spastic paraplegia type 4. *Journal of Genetic Medicine*.
-13. Guilbaud L., Dugas A., Weber M., Deflers C., **Lallemant-Dudek P.**, Lilin T., Adam C., Cras A., Mebarki M., Zerah M., Faivre L., Larghero J., Jouannic J.M., 2022. In utero treatment of myelomeningocele with allogenic umbilical cord-derived mesenchymal stromal cells in an ovine model. *Current Research in Translational Medicine*.
-14. Madec F.X., Chamond O., Audry G., **Lallemant-Dudek P.**, 2021. Repeated detrusor injection of botulinum toxin A for neurogenic bladder in children: a long term option? *Progrès en Urologie*.
-15. Vande Perre S., Guilbaud L., de Saint Denis T., Maurice P., **Lallemant-Dudek P.**, Maisonneuve E., Dhombres F., Blondiaux E., Ducou le Pointe H., Zerah M., Jouannic J.M., Garel C., 2021. The myelic Limited Dorsal Malformation: prenatal ultrasonic characteristics of an intermediate form of dysraphism. *Fetal Diagnosis and Therapy*.
-16. Maurel N., Diop A., **Lallemant-Dudek P.**, Fitoussi F., 2021. Upper limb kinematics after Latissimus Dorsi transfer in children with brachial plexus birth palsy. *Clinical Biomechanics*.
-17. Bachy M., **Lallemant-Dudek P.**, Grimberg J., Fitoussi F., 2021. Palliative shoulder and elbow surgery in obstetrical brachial plexus birth palsy. *Hand Surgery and Rehabilitation*.
-18. **Lallemant-Dudek P.**, Vergari C., Dubois G., Forin V., Vialle R., Skalli W., 2021. Ultrasound shearwave elastography to characterize muscles of healthy and cerebral palsy children. *Scientific Reports*.
-19. Léguillier T., Favier R., Harroche A., Lasne D., Bachelot-Loza C., Borgel D., Boussaroque A., Pascreau T., **Lallemant-Dudek P.**, Gkalea V., Haguet M.C., Cormier-Daire V., Beaudeux J.L., Monnot S., Lapillonne H., Baujat G., Forin V., Nivet-Antoine V., 2021. Assessing bleeding risk in 18 children with osteogenesis imperfecta. *British Journal of Haematology*.
-20. **Lallemant-Dudek P.**, Darios F., Durr A., 2021. Recent advances in understanding hereditary spastic paraplegias and emerging therapies. *F1000Research*.
-21. **Lallemant-Dudek P.**, Durr A., 2021. Clinical and genetic update of hereditary spastic paraparesis. *Revue Neurologique*.
-22. Guilbaud L., Maurice P., **Lallemant-Dudek P.**, de Saint Denis T., Maisonneuve E., Dhombres F., Friszer S., Di Rocco F., Garel C., Moutard M.L., Lachtar M.A., Rigouzzo A., Forin V., Zerah M., Jouannic J.M., 2021. Open fetal surgery for myelomeningocele repair in France. *Journal of Gynecology Obstetrics and Human Reproduction*.
-23. de la Fournière B., Dhombres F., Maurice P., de Foucaud S., **Lallemant P.**, Zérah M., Guilbaud L., Jouannic J.M., 2020. Prevention of neural tube defects by folic acid supplementation: a national population-based study. *Nutrients*.
-24. **Lallemant-Dudek P.**, Crétolle C., Hameury F., Lemelle J.L., Louis-Borrione C. et Forin V., 2020. Multicenter evaluation of the adherence to Peristeen transanal irrigation system in children. *Annals of Physical and Rehabilitation Medicine*.
-25. Léotard A., Taytard J., Aouate M., Boule M., Forin V., **Lallemant-Dudek P.**, 2018. Diagnosis, follow-up and management of sleep disordered breathing in children with Osteogenesis Imperfecta. *Annals of Physical and Rehabilitation Medicine*.
-26. Faure A., Peycelon M., **Lallemant P.**, Audry G., Forin V., 2016. Pros and cons of transurethral self-catheterization in boys: long-term teaching experience in a pediatric rehabilitation centre. *Urology Journal*, 1-8.
-27. Usami K., **Lallemant P.**, Roujeau T., James S., Beccaria K., Levy R., Di Rocco F., Sainte-Rose C., Zerah M., 2016. Spinal lipoma of the filum terminale: review of 174 consecutive patients. *Child's Nervous System*, 13(2), 2622-8.
-28. **Lallemant P.** et Forin V., 2015. Les sinus dermiques : une urgence neurochirurgicale. *Archives de Pédiatrie*, 22(3), 272-275.
-29. Dariane C., Peycelon M., **Lallemant P.**, Forin V. et Audry G., 2014. Prise en charge endoscopique de l'incontinence des vessies neurologiques d'origine médullaire de l'enfant. *Progrès en Urologie*, 24(1), 39-45.
+- **Lallemant-Dudek P.**, Di Folco C., Coarelli G., Heinzmann A., Petit E., Ewenczyk C., Pierron L., Tezenas du Montcel S., Durr A., 2026, Lower limb spasticity in hereditary spastic paraplegia: a vicious circle of sphincter disturbances, depression and fatigue. Submitted in *European Journal of Physical and Rehabilitation Medicine*.
+- Dugas A., Guilbaud L., de Saint-Denis T., **Lallemant-Dudek P.**, Simonnet H., Vande Perre S. et al., 2025. Outcome of Children With Prenatally Diagnosed Saccular Limited Dorsal Myeloschisis: The Importance of Accurate Diagnosis. *Prenatal Diagnosis*.
+- **Lallemant-Dudek P.**, Coarelli G., Heinzmann A., Amarenco G., Hentzen C., Denys P., Joussain C., Pichon B., Robain G., Haddad R., Guillaud-Bataille M., Durr A., 2025. Hereditary Spastic Paraplegias, when to expect bladder dysfunction? A genetic and urodynamic study. *European Journal of Neurology*.
+- Maurel N., Diop A., **Lallemant-Dudek P.**, Fitoussi F., 2025. Upper limb kinematics in patients with neonatal brachial plexus palsy with different levels of palsy. *Clinical Biomechanics*.
+- Bedoux A., **Lallemant-Dudek P.**, Bensidhoum M., Potier E., Larochette N., Mary P. et al., 2024. Effects of shear stress on mesenchymal stem cells of patients with osteogenesis imperfecta. *Orthopaedics & Traumatology: Surgery & Research*.
+- Jouannic J.M., Blondiaux E., de Saint-Denis T., **Lallemant P.**, Garel C., 2024. Response to: Prenatal Diagnosis and Postnatal Outcome of Closed Spinal Dysraphism, by Bedei et al. *Prenatal Diagnosis*.
+- Cogan G., Zaki M.S., Issa M., Keren B., Guillaud-Bataille M., Renaldo F. et al., 2024. Biallelic variants in ERLIN1: a series of 13 individuals with spastic paraparesis. *Human Genetics*.
+- Lavorgna L., Maida E., Reinhard C., Cras P., Reetz K., Molnar M.J., Nonnekes J., Summa S., Diserens K., Petrarca M., Albanese A., Leocani L., Delussi M., Vinciguerra C., Pagliano E., Kubica J., **Lallemant-Dudek P.** *et al.*, 2024. The growing role of telerehabilitation and teleassessment in the management of movement disorders in rare neurological diseases: a scoping review. *Telemedicine and e-Health*.
+- Fitoussi F., **Lallemant-Dudek P.**, 2024. The upper limb in children with cerebral palsy. Evaluation and treatment. *Orthopaedics & Traumatology: Surgery & Research*.
+- Athiel Y., Jouannic J.M., Maufré V., Dehan C., Adam C., Blot S., **Lallemant-Dudek P.** *et al.*, 2023. Allogenic umbilical cord-derived mesenchymal stromal cells improve motor function in prenatal surgical repair of myelomeningocele: An ovine model study. *BJOG*.
+- **Lallemant-Dudek P.**, Livia P., Coarelli G., Heinzmann A., Charles P., Ewenczyk C., Fenu S., Monin M.L., Corcia P., Depienne C., Mochel F., Benard J., Tezenas du Montcel S., Durr A., 2023. Individual perceptions of environmental factors that influence lower limb spasticity in hereditary spastic paraparesis. *Annals of Physical and Rehabilitation Medicine*.
+- Tezenas du Montcel S., Petit E., Titilayo O., Faber J., **Lallemant-Dudek P.** *et al.*, 2023. Baseline Clinical and Blood Biomarkers in Patients With Preataxic and Early-Stage Disease Spinocerebellar Ataxia 1 and 3. *Neurology*.
+- Parodi L., Barbier M., Jacoupy M., Pujol C., Lejeune F.X., **Lallemant-Dudek P.** *et al.*, 2022. The mitochondrial seryl-tRNA synthetase SARS2 modifies onset in spastic paraplegia type 4. *Journal of Genetic Medicine*.
+- Guilbaud L., Dugas A., Weber M., Deflers C., **Lallemant-Dudek P.**, Lilin T., Adam C., Cras A., Mebarki M., Zerah M., Faivre L., Larghero J., Jouannic J.M., 2022. In utero treatment of myelomeningocele with allogenic umbilical cord-derived mesenchymal stromal cells in an ovine model. *Current Research in Translational Medicine*.
+- Madec F.X., Chamond O., Audry G., **Lallemant-Dudek P.**, 2021. Repeated detrusor injection of botulinum toxin A for neurogenic bladder in children: a long term option? *Progrès en Urologie*.
+- Vande Perre S., Guilbaud L., de Saint Denis T., Maurice P., **Lallemant-Dudek P.**, Maisonneuve E., Dhombres F., Blondiaux E., Ducou le Pointe H., Zerah M., Jouannic J.M., Garel C., 2021. The myelic Limited Dorsal Malformation: prenatal ultrasonic characteristics of an intermediate form of dysraphism. *Fetal Diagnosis and Therapy*.
+- Maurel N., Diop A., **Lallemant-Dudek P.**, Fitoussi F., 2021. Upper limb kinematics after Latissimus Dorsi transfer in children with brachial plexus birth palsy. *Clinical Biomechanics*.
+- Bachy M., **Lallemant-Dudek P.**, Grimberg J., Fitoussi F., 2021. Palliative shoulder and elbow surgery in obstetrical brachial plexus birth palsy. *Hand Surgery and Rehabilitation*.
+- **Lallemant-Dudek P.**, Vergari C., Dubois G., Forin V., Vialle R., Skalli W., 2021. Ultrasound shearwave elastography to characterize muscles of healthy and cerebral palsy children. *Scientific Reports*.
+- Léguillier T., Favier R., Harroche A., Lasne D., Bachelot-Loza C., Borgel D., Boussaroque A., Pascreau T., **Lallemant-Dudek P.**, Gkalea V., Haguet M.C., Cormier-Daire V., Beaudeux J.L., Monnot S., Lapillonne H., Baujat G., Forin V., Nivet-Antoine V., 2021. Assessing bleeding risk in 18 children with osteogenesis imperfecta. *British Journal of Haematology*.
+- **Lallemant-Dudek P.**, Darios F., Durr A., 2021. Recent advances in understanding hereditary spastic paraplegias and emerging therapies. *F1000Research*.
+- **Lallemant-Dudek P.**, Durr A., 2021. Clinical and genetic update of hereditary spastic paraparesis. *Revue Neurologique*.
+- Guilbaud L., Maurice P., **Lallemant-Dudek P.**, de Saint Denis T., Maisonneuve E., Dhombres F., Friszer S., Di Rocco F., Garel C., Moutard M.L., Lachtar M.A., Rigouzzo A., Forin V., Zerah M., Jouannic J.M., 2021. Open fetal surgery for myelomeningocele repair in France. *Journal of Gynecology Obstetrics and Human Reproduction*.
+- de la Fournière B., Dhombres F., Maurice P., de Foucaud S., **Lallemant P.**, Zérah M., Guilbaud L., Jouannic J.M., 2020. Prevention of neural tube defects by folic acid supplementation: a national population-based study. *Nutrients*.
+- **Lallemant-Dudek P.**, Crétolle C., Hameury F., Lemelle J.L., Louis-Borrione C. et Forin V., 2020. Multicenter evaluation of the adherence to Peristeen transanal irrigation system in children. *Annals of Physical and Rehabilitation Medicine*.
+- Léotard A., Taytard J., Aouate M., Boule M., Forin V., **Lallemant-Dudek P.**, 2018. Diagnosis, follow-up and management of sleep disordered breathing in children with Osteogenesis Imperfecta. *Annals of Physical and Rehabilitation Medicine*.
+- Faure A., Peycelon M., **Lallemant P.**, Audry G., Forin V., 2016. Pros and cons of transurethral self-catheterization in boys: long-term teaching experience in a pediatric rehabilitation centre. *Urology Journal*, 1-8.
+- Usami K., **Lallemant P.**, Roujeau T., James S., Beccaria K., Levy R., Di Rocco F., Sainte-Rose C., Zerah M., 2016. Spinal lipoma of the filum terminale: review of 174 consecutive patients. *Child's Nervous System*, 13(2), 2622-8.
+- **Lallemant P.** et Forin V., 2015. Les sinus dermiques : une urgence neurochirurgicale. *Archives de Pédiatrie*, 22(3), 272-275.
+- Dariane C., Peycelon M., **Lallemant P.**, Forin V. et Audry G., 2014. Prise en charge endoscopique de l'incontinence des vessies neurologiques d'origine médullaire de l'enfant. *Progrès en Urologie*, 24(1), 39-45.
 
 ### Ouvrages & Chapitres pédagogiques
 
-- **Coéditrice :** *Handicaps et rééducation de l’enfant*, Elsevier, 2025.
+- Coordination à la rédaction du livre : **"Handicaps et rééducation de l’enfant"**, Elsevier, 2025.
+- Participation à la rédaction du livre **"ECOS la compil'1"**, Elsevier, 2025
+- Rédaction du livre **"ECOS en Médecine Physique et de Réadaptation"**, pour la collection "ECOS à la carte", Elsevier, 2024
 - **Auteure de chapitres :**
-  - *Dysraphismes spinaux*
-  - *Enfants et bilan urodynamique*
-  - *Troubles vésico-sphinctériens en pathologie neurologique*
+  - *Troubles vésico-sphinctériens en pathologie neurologique* et *Disraphismes spinaux*, pour l'ouvrage "Tout en un de MPR", 2027.
+  - *Dysraphismes spinaux*, pour l'ouvrage "Handicaps et rééducation de l'enfant", 2025.
+  - *Enfants et bilan urodynamique*, pour l'ouvrage "Urodynamique pratique", 2025.
 
 ---
 
 ## 🗣️ Communications orales & Interventions
 
+- **Lallemant-Dudek P.** Mise à jour sur les myéloméningocèles. Congrès du GENULF, Marseille, 2026.
+- **Lallemant-Dudek P.** Table ronde : Hyperactivité du détrusor chez l’enfant avec dysraphisme spinal. Congrès de la SIFUD, Rennes, 2026.
+- **Lallemant-Dudek P.** Transition enfant-adulte dans les dysraphismes sacrés, Congrès de la SIFUD, Rennes, 2026.
+- **Lallemant-Dudek P.** Troubles vésico-sphinctériens dans les PSH : prévenir, dépister et prendre en charge. Journées de Neurologie de Langue Française, Marseille, 2026.
+- Chatelain R., **Lallemant-Dudek P.** État des lieux des troubles vésico-sphinctériens de patients atteints de moelle dédoublée : étude rétrospective d'une cohorte pédiatrique. Congrès de la SOFMER, Strasbourg, 2025.
+- Muong J., **Lallemant-Dudek P.** Le vieillissement musculaire chez les dysraphismes spinaux : une étude transversale. Congrès de la SOFMER, Strasbourg, 2025.  
+- **Lallemant-Dudek P.** Cercle vicieux : fatigue, dépression et troubles vésico-sphinctériens dans les Paraparésies Spastiques Héréditaires.  Congrès de la SOFMER, Strasbourg, 2025.  
 - **Lallemant-Dudek P.** Les paraparésies spastiques héréditaires, quand s'attendre à des troubles vésico-sphinctériens ? Étude génétique et urodynamique. *Congrès de la SOFMER*, Toulouse, 2024.
 - **Lallemant-Dudek P.** BUD : particularités en pédiatrie. Prise en charge urologique des pathologies pédiatriques. *Congrès de la SIFUD*, Antibes, 2024.
 - **Lallemant-Dudek P.** BUD en pédiatrie : spécificités techniques et d'interprétation. *Congrès de la SIFUD*, Toulouse, 2023.
@@ -354,6 +366,7 @@ Encadrement de **6 thèses d'exercice** (MPR, chirurgie pédiatrique) axées sur
 
 ### 🎤 Modérations de sessions scientifiques
 
+- **2026 :** Congrès de la SOFMER, Marseille
 - **2025 :** Colloque Les Massues, Lyon
 - **2024 :** Congrès de la SOFMER, Toulouse
 - **2023 :** Congrès de la SOFMER, Le Havre
