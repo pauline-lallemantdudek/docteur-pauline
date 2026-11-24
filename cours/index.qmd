@@ -25,3 +25,24 @@ Définition, prévalence, démarche diagnostique et prises en charge thérapeuti
 :::
 :::
 :::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100 .p-4}
+::: {.mb-2}
+<span class="badge-academic badge-terracotta">Congrès SFUPA 2026</span>
+<span class="badge-academic badge-sage">Nouveau</span>
+:::
+
+### Le bilan urodynamique
+Particularités en pédiatrie.
+
+- **Format :** Présentation interactive Reveal.js
+- **Durée :** 30 minutes
+
+::: {.d-flex .gap-2 .mt-3}
+[Consulter](bilanUroPed.qmd){.btn .btn-sm .btn-outline-primary target="_blank"}
+[Version PDF ↗](bilanUroPed.html?print-pdf){.btn .btn-sm .btn-secondary target="_blank"}
+:::
+:::
+:::
+

@@ -64,9 +64,8 @@ Généralement réalisée après la cystomanométrie, elle permet de mesurer la 
 
 # Ce qui est différent chez l'enfant et l'adulte {.center .section-slide}
 
-- Les normes permettant l'interprétation des examens urodynamiques
-- La consultation préalable à l’examen
-- L'installation de l'enfant le jour de l'examen
+- Informations et consultation préalable à l’examen
+- Interprétation et normes
 
 ## La capacité vésicale théorique
 
@@ -156,6 +155,19 @@ Une consultation préalable à l’examen est indispensable pour :
 
 - obtenir le consentement éclairé de l’enfant (selon son âge) et de ses parents.
 
+
+# Le bilan minimal nécessaire
+
+## L'interrogatoire
+
+1. identifier MNE et NMNE
+2. enquêter sur l’histoire familiale
+3. évaluer les troubles urinaires diurnes
+4. éliminer un diabète 
+5. repérer des troubles du transit : constipation +++
+6. dépister des troubles du sommeil, et respiratoires
+7. repérer des troubles du comportement ou des intéractions sociales : violences …
+8. lister les traitements déjà testés pour ces symptômes
 
 ## L'examen clinique
 
