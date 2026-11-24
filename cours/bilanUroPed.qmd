@@ -113,12 +113,47 @@ Chez le tout-petit, le résidu post-mictionnel est physiologique : les mictions 
 	 1 mesure : + de 20 ml ou + de 15% de la CVT,
 	 2 mesures : + de 10 ml ou ou + de 6% de la CVT,
 
+Tableau
 
 ## La vitesse de remplissage vésical
 
 Définie par l'ICCS, par la CVT / 20 en mL/min.
 
 Un remplissage vésical supérieur à la vitesse de remplissage vésical théorique est peut entrainer une hyperactivité vésicale. Si un 1er remplissage vésical retrouve un résultat discordant avec la clinique, il est recommandé de réaliser un second remplissage vésical.
+
+Tableau
+
+## L'évaluation des besoins mictionnels
+
+Pas de norme définies pour l'évaluation des besoins mictionnels chez l'enfant. Il est recommandé de se baser sur le calendrier mictionnel et les symptômes urinaires.
+normal, increased (hypersensitive), reduced (hyposensitive), or absent.
+
+## Les changements de pression détrusorienne
+
+Pour les CNID : 
+- la définition est identique à celle de l'adulte
+- une augmentation de pression détrusorienne > 40 cmH2O est considérée comme à risque de lésion rénale. 
+- 10% de la population pédiatrique a des CNID au cours du remplissage de leur vessie sans qu’ils souffrent d’un dysfonctionnement neurologique, 
+- l’apparition de contractions à l’approche de la CVT doit être interprétée comme normale 
+
+Le trouble de compliance a la même définition que chez l’adulte : une compliance < 20 mL/cmH2O est considérée comme anormale.
+
+Un détrusor hypoactif est défini comme : 
+- absence de contraction oou contraction insuffisante avec un remplissage > à 150% de la CVT.
+
+## Consultation préalable à l’examen
+
+Une consultation préalable à l’examen est indispensable pour :
+- réaliser un interrogatoire et un examen clinique,
+- vérifier l'indication du bilan uro-dynamique,
+- obtenir ou expliquer un calendrier mictionnel,
+
+- expliquer l’examen à l’enfant et à ses parents,
+- répondre aux premièresquestions de l'enfant et ses parents,
+- vérifier que la question posée par le médecin prescripteur pourra être répondue par l’examen,
+- vérifier l’absence de constipation,
+
+- obtenir le consentement éclairé de l’enfant (selon son âge) et de ses parents.
 
 
 # Le bilan minimal nécessaire
@@ -138,11 +173,12 @@ Un remplissage vésical supérieur à la vitesse de remplissage vésical théori
 
 Les principaux éléments à rechercher sont : 
 
-- à l’examen neurologique : déficit musculaires ou asymétrie
-- malformations des organes génitaux externes
-- signe de dysraphisme sur le raphée médian
+- signe de dysraphisme sur le raphée médian,
+- à l’examen neurologique : déficit musculaires ou asymétrie pouvant orienter vers une atteinte neurologique,
+- malformations des organes génitaux externes.
 
-## Calendrier mictionnel
+
+## Le calendrier mictionnel
 
 Pour : 
 
@@ -150,11 +186,52 @@ Pour :
 - Vérifier l’absence de trouble urinaire diurne
 - Évaluer les volumes urinés au cours de la nuit : recherche de polyurie nocturne.
 
-::: {.g-card-green}
-Et rien d’autre dans le cadre d’une énurésie monosymptomatique primaire.
-:::
+
+# Le jour du BUD
+
+- L'ECBU pré-BUD
+- L'installation de l'enfant
+- La prémédication
+
+## L'ECBU pré-BUD
+
+Il s'agit d'une mesure de précaution, actuellement discutée.
 
 
+## L'installation de l'enfant
+
+Il est important de redire à l’enfant et ses parents le déroulé de l’examen, de le rassurer et de lui demander si des questions persistent.
+
+En pratique :
+- l'enfant est allongé sur le dos, pas forcément en position gynécologique,
+- un parent est invité à rester à côté si l'enfant de souhaite,
+- respect de l'intimité autant que possible : paravant, recouvrir le périnée.
+
+## La prémédication
+
+Pour les enfants en miction spontanée, les prémédications possibles sont :
+- le saccharose (sucre) pour les nourrissons,
+- l'inhalation de protoxyde d'azote (MEOPA) lors de la pose des sondes,
+- la distraction (livres, chants, bulles, vidéo, tablette ...),
+- la prémédication orale par midazolam (buccolam(R)),
+
+
+# 2 points pour examen particuliers :
+
+- Les examens vidéo-urodynamiques
+- Les courbes débit-pression
+
+## Les examens vidéo-urodynamiques
+
+Cet examen combine une cystographie rétrograde à un BUD. Lors d’une vidéo-urodynamique, c’est un produit de contraste qui est instillé. L’association de ces 2 examens permet de savoir pour quel volume précisément et surtout quelle pression intra-vésicale apparait le reflux vésico-urétéral. Les informations sont donc fonctionnelles et morphologiques.
+
+Il est recommandé en pédiatrie pour le suivi des vessies à risque en cas de reflux vésico-urétéral ou d’infection urinaire haute par EAU et ESPU.
+
+[@anding2016should]
+
+## Les courbes débit-pression
+
+# Conclusions {.center .section-slide}
 
 # Bibliographie {.center}
 
