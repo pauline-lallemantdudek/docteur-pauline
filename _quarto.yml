@@ -1,10 +1,13 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - CNAME
+    - .nojekyll
 
 website:
   title: "Dr Pauline Lallemant-Dudek"
-  site-url: "https://www.docteur-pauline.fr"
+  site-url: "https://docteur-pauline.fr"
   favicon: "assets/favicon.svg"
   
   navbar:
