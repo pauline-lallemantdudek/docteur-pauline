@@ -44,6 +44,7 @@ Photo
 Le principe de recueil de pression est le même chez l'enfant et l'adulte. 
 
 La technique de la cystomanométrie est identique :
+
 - cathéter transurétral double (4-6 French) ou triple lumière (à partir de 8 French)
 - sonde rectale à ballonnet, à air ou à eau (4-6 French)
 - connectés aux capteurs de pression après mise à zéro des lignes,
@@ -193,7 +194,10 @@ Une consultation préalable à l’examen est indispensable pour :
 - obtenir le consentement éclairé de l’enfant (selon son âge) et de ses parents.
 
 
-## L'interrogatoire
+
+## L'interrogatoire et l'examen clinique
+
+Les principaux éléments à rechercher sont : 
 
 1. identifier MNE et NMNE
 2. enquêter sur l’histoire familiale
@@ -203,10 +207,6 @@ Une consultation préalable à l’examen est indispensable pour :
 6. dépister des troubles du sommeil, et respiratoires
 7. repérer des troubles du comportement ou des intéractions sociales : violences …
 8. lister les traitements déjà testés pour ces symptômes
-
-## L'examen clinique
-
-Les principaux éléments à rechercher sont : 
 
 - signe de dysraphisme sur le raphée médian,
 - à l’examen neurologique : déficit musculaires ou asymétrie pouvant orienter vers une atteinte neurologique,
@@ -238,6 +238,7 @@ Il s'agit d'une mesure de précaution, actuellement discutée.
 Il est important de redire à l’enfant et ses parents le déroulé de l’examen, de le rassurer et de lui demander si des questions persistent.
 
 En pratique :
+
 - l'enfant est allongé sur le dos, pas forcément en position gynécologique,
 - un parent est invité à rester à côté si l'enfant de souhaite,
 - respect de l'intimité autant que possible : paravant, recouvrir le périnée.
@@ -245,6 +246,7 @@ En pratique :
 ## La prémédication
 
 Pour les enfants en miction spontanée, les prémédications possibles sont :
+
 - le saccharose (sucre) pour les nourrissons,
 - l'inhalation de protoxyde d'azote (MEOPA) lors de la pose des sondes,
 - la distraction (livres, chants, bulles, vidéo, tablette ...),
