@@ -1,0 +1,7 @@
+<script>
+  // Autorise le zoom sur mobile dans les diaporamas (WCAG 1.4.4).
+  (function () {
+    var m = document.querySelector('meta[name="viewport"]');
+    if (m) m.setAttribute('content', 'width=device-width, initial-scale=1.0');
+  })();
+</script>

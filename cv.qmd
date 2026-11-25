@@ -1,6 +1,7 @@
 ---
 title: "Curriculum Vitae"
 subtitle: "Dr Pauline Lallemant‑Dudek — Maître de conférences & Praticien hospitalier"
+description: "Parcours, publications, enseignement et responsabilités cliniques du Dr Pauline Lallemant-Dudek, MCU-PH en médecine physique et réadaptation pédiatrique (Sorbonne Université, AP-HP)."
 toc: true
 toc-depth: 3
 ---
@@ -9,7 +10,7 @@ toc-depth: 3
 ::: {.grid .align-items-center}
 
 ::: {.g-col-12 .g-col-md-3 .text-center}
-![](assets/photoPLD_v2.jpg){width=250px}
+![](assets/photoPLD_v2.jpg){width=250px fig-alt="Portrait du Dr Pauline Lallemant-Dudek"}
 :::
 
 ::: {.g-col-12 .g-col-md-9}
@@ -21,13 +22,13 @@ toc-depth: 3
 
 - **Courriel :** [pauline.lallemant@aphp.fr](mailto:pauline.lallemant@aphp.fr)
 - **N° RPPS :** 10101093945
-- **Affiliation AP-HP :** [Consulter la page médecin ↗](https://www.aphp.fr/offre-de-soin/medecin/4036203/088/42){target="_blank"}
+- **Affiliation AP-HP :** [Consulter la page médecin ↗[ (nouvel onglet)]{.visually-hidden}](https://www.aphp.fr/offre-de-soin/medecin/4036203/088/42){target="_blank"}
 :::
 
 :::
 :::
 
-## 📍 Postes & Responsabilités cliniques
+## [📍]{aria-hidden="true"} Postes & Responsabilités cliniques
 
 ::: {.timeline-warm}
 
@@ -96,7 +97,7 @@ Sept. 2020 — Sept. 2023
 
 :::
 
-## 🎓 Formation & Diplômes
+## [🎓]{aria-hidden="true"} Formation & Diplômes
 
 ::: {.timeline-warm}
 
@@ -203,13 +204,13 @@ Juin 2016
 
 :::
 
-## 📘 Pédagogie, Enseignement & Encadrement
+## [📘]{aria-hidden="true"} Pédagogie, Enseignement & Encadrement
 
 ::: {.grid .mb-4}
 
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card .p-3 .h-100}
-### 🏛️ Responsabilités pédagogiques
+### [🏛️]{aria-hidden="true"} Responsabilités pédagogiques
 - **Depuis nov. 2026 :**Représentante nationale de la MPR pédiatrique auprès du Collège des Enseignants de Médecine Physique et de Réadaptation (COFEMER)
 - **Depuis nov. 2025 :** Coordination nationale du module pédiatrie du DES de MPR 
 - **De sept. 2023 à aout 2026 :** Responsable de l’UE « Santé, maladie, handicap », IFSI — Sorbonne Université
@@ -221,7 +222,7 @@ Juin 2016
 
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card .p-3 .h-100}
-### 👩‍🏫 Activités d'enseignement
+### [👩‍🏫]{aria-hidden="true"} Activités d'enseignement
 **> 60 heures/an** destinées aux étudiants en médecine et médecins praticiens, notamment dans les thématiques :
 
 - MPR pédiatrique
@@ -234,7 +235,7 @@ Juin 2016
 
 :::
 
-### 🎓 Encadrement de travaux universitaires
+### [🎓]{aria-hidden="true"} Encadrement de travaux universitaires
 Encadrement de **6 thèses d'exercice** (MPR, chirurgie pédiatrique) et **3 mémoires de spécialité** axées sur :
 
 - Dysraphismes spinaux
@@ -242,13 +243,13 @@ Encadrement de **6 thèses d'exercice** (MPR, chirurgie pédiatrique) et **3 mé
 - Ostéogenèse imparfaite
 - Continence chez l’enfant
 
-## 🏅 Bourse, Distinctions & Affiliations
+## [🏅]{aria-hidden="true"} Bourse, Distinctions & Affiliations
 
 ::: {.grid .mb-4}
 
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card .p-3 .h-100}
-### 🏆 Bourses & Prix
+### [🏆]{aria-hidden="true"} Bourses & Prix
 - **Oct. 2026 :** Appel à projets CRMR (8 000 €)
 - **Nov. 2023 :** Contrat Sorbonne Université — Étude *Walk-up*  (10 000 €)
 - **Déc. 2021 :** Appel à projets les Laurétas du Clostridium - IPSEN (15 000 €)
@@ -260,7 +261,7 @@ Encadrement de **6 thèses d'exercice** (MPR, chirurgie pédiatrique) et **3 mé
 
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card .p-3 .h-100}
-### 🤝 Sociétés savantes & Partenariats
+### [🤝]{aria-hidden="true"} Sociétés savantes & Partenariats
 - **Responsable scientifique du congrès SFERHE 2027**, Paris
 - **Comité Urologie de l’enfant et de l'adolescent de l'Association Française d'Urologie (AFU)** — Depuis 2024
 - **Comité scientifique du congrès SFERHE** — 2024
@@ -272,7 +273,7 @@ Encadrement de **6 thèses d'exercice** (MPR, chirurgie pédiatrique) et **3 mé
 
 :::
 
-## 📚 Publications
+## [📚]{aria-hidden="true"} Publications
 
 ### Publications scientifiques dans des revues à comité de lecture
 
@@ -319,7 +320,7 @@ Encadrement de **6 thèses d'exercice** (MPR, chirurgie pédiatrique) et **3 mé
 
 ---
 
-## 🗣️ Communications orales & Interventions
+## [🗣️]{aria-hidden="true"} Communications orales & Interventions
 
 - **Lallemant-Dudek P.** Mise à jour sur les myéloméningocèles. Congrès du GENULF, Marseille, 2026.
 - **Lallemant-Dudek P.** Table ronde : Hyperactivité du détrusor chez l’enfant avec dysraphisme spinal. Congrès de la SIFUD, Rennes, 2026.
@@ -364,7 +365,7 @@ Encadrement de **6 thèses d'exercice** (MPR, chirurgie pédiatrique) et **3 mé
 - **Lallemant-Dudek P.** Étude de reproductibilité de l'élastographie musculaire par ultrasons chez l'enfant. *Journées de la Société Française d'Orthopédie Pédiatrique*, Paris, 2015.
 - **Lallemant P.** et Forin V. Le zolédronate chez l'enfant porteur d'une ostéogenèse imparfaite. *9ᵉ Congrès de la Société Algérienne de Rhumatologie*, Alger, 2013.
 
-### 🎤 Modérations de sessions scientifiques
+### [🎤]{aria-hidden="true"} Modérations de sessions scientifiques
 
 - **2026 :** Congrès de la SOFMER, Marseille
 - **2025 :** Colloque Les Massues, Lyon

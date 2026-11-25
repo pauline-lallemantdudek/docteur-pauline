@@ -5,11 +5,21 @@ project:
     - CNAME
     - .nojekyll
 
+lang: fr
+# Rétablit le zoom sur mobile dans les diaporamas (sans effet sur les pages HTML).
+include-after-body: assets/revealjs-zoom.html
+
 website:
   title: "Dr Pauline Lallemant-Dudek"
+  description: "Dr Pauline Lallemant-Dudek, médecin MPR pédiatrique (MCU-PH), Hôpital Armand-Trousseau AP-HP et Sorbonne Université, Paris."
   site-url: "https://docteur-pauline.fr"
   favicon: "assets/favicon.svg"
-  
+  image: "/assets/photoPLD_v2.jpg"
+  open-graph:
+    locale: fr_FR
+    site-name: "Dr Pauline Lallemant-Dudek"
+  twitter-card: true
+
   navbar:
     background: "#1d568f"
     search: true
@@ -23,17 +33,21 @@ website:
     right:
       - icon: envelope-fill
         href: mailto:pauline.lallemant@aphp.fr
+        aria-label: "Écrire par courriel"
 
   page-footer:
     border: true
     background: "#3296c8"
     left: "© 2026 Dr Pauline Lallemant-Dudek"
     center: "Sorbonne Université — AP-HP"
-    right: ""
+    right:
+      - text: "Mentions légales"
+        href: mentions-legales.qmd
 
 format:
   html:
     theme: [cosmo, custom.scss]
+    canonical-url: true
     toc: true
     toc-depth: 3
     toc-title: "Sur cette page"
