@@ -1,0 +1,1077 @@
+<!DOCTYPE html>
+<html lang="fr"><head>
+<link href="../assets/favicon.svg" rel="icon" type="image/svg+xml">
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-html/tabby.min.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.10.18">
+
+  <meta name="author" content="Dr Pauline Lallemant-Dudek">
+  <title>Dr Pauline Lallemant-Dudek – Le bilan urodynamique</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/reveal.css">
+  <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: 1.5em;}
+    div.column{flex: auto;}
+    @media screen {
+    div.columns{gap: min(4vw, 1.5em);}
+    div.column{overflow-x: auto;}
+    }
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+      vertical-align: middle;
+    }
+    /* CSS for citations */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+      margin-bottom: 0em;
+    }
+    .hanging-indent div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }  </style>
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-2740581606dc327e82f18f789b69d8a0.css">
+  <link rel="stylesheet" href="style.css">
+  <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+  <style type="text/css">
+    .reveal div.sourceCode {
+      margin: 0;
+      overflow: auto;
+    }
+    .reveal div.hanging-indent {
+      margin-left: 1em;
+      text-indent: -1em;
+    }
+    .reveal .slide:not(.center) {
+      height: 100%;
+    }
+    .reveal .slide.scrollable {
+      overflow-y: auto;
+    }
+    .reveal .footnotes {
+      height: 100%;
+      overflow-y: auto;
+    }
+    .reveal .slide .absolute {
+      position: absolute;
+      display: block;
+    }
+    .reveal .footnotes ol {
+      counter-reset: ol;
+      list-style-type: none; 
+      margin-left: 0;
+    }
+    .reveal .footnotes ol li:before {
+      counter-increment: ol;
+      content: counter(ol) ". "; 
+    }
+    .reveal .footnotes ol li > p:first-child {
+      display: inline-block;
+    }
+    .reveal .slide ul,
+    .reveal .slide ol {
+      margin-bottom: 0.5em;
+    }
+    .reveal .slide ul li,
+    .reveal .slide ol li {
+      margin-top: 0.4em;
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide ul[role="tablist"] li {
+      margin-bottom: 0;
+    }
+    .reveal .slide ul li > *:first-child,
+    .reveal .slide ol li > *:first-child {
+      margin-block-start: 0;
+    }
+    .reveal .slide ul li > *:last-child,
+    .reveal .slide ol li > *:last-child {
+      margin-block-end: 0;
+    }
+    .reveal .slide .columns:nth-child(3) {
+      margin-block-start: 0.8em;
+    }
+    .reveal blockquote {
+      box-shadow: none;
+    }
+    .reveal .tippy-content>* {
+      margin-top: 0.2em;
+      margin-bottom: 0.7em;
+    }
+    .reveal .tippy-content>*:last-child {
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide > img.stretch.quarto-figure-center,
+    .reveal .slide > img.r-stretch.quarto-figure-center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-left,
+    .reveal .slide > img.r-stretch.quarto-figure-left  {
+      display: block;
+      margin-left: 0;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-right,
+    .reveal .slide > img.r-stretch.quarto-figure-right  {
+      display: block;
+      margin-left: auto;
+      margin-right: 0; 
+    }
+  </style>
+  <style>
+    /* Bannière du congrès SFUPA 2026 en bas de la diapositive de titre, sous tout le reste */
+    .reveal #title-slide::after {
+      content: "";
+      display: block;
+      width: 100%;
+      height: 170px;
+      margin-top: 32px;
+      background: url("https://www.sfupa.fr/wp-content/uploads/2026/07/banner_seminaire_sfupa_2026-scaled.jpg") center / contain no-repeat;
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+    /* Tableaux aux couleurs du site (bleus) */
+    .reveal .table-modern table {
+      border: 1px solid rgba(50, 150, 200, 0.35) !important;
+      box-shadow: 0 4px 14px rgba(29, 86, 143, 0.08) !important;
+    }
+    .reveal .table-modern table thead th {
+      background-color: #1d568f !important;
+      color: #FFFFFF !important;
+      border-bottom: 2px solid #3296c8 !important;
+    }
+    .reveal .table-modern table tbody td {
+      color: #333333 !important;
+      border-bottom: 1px solid rgba(50, 150, 200, 0.15) !important;
+    }
+    .reveal .table-modern table tbody tr:nth-child(odd) td {
+      background-color: #FFFFFF !important;
+    }
+    .reveal .table-modern table tbody tr:nth-child(even) td {
+      background-color: #EAF4FA !important;
+    }
+    /* Bibliographie : liens en rouge Sorbonne au lieu de l'orangé */
+    .reveal #refs .csl-entry a {
+      color: #d9232a !important;
+    }
+  </style>
+<meta property="og:title" content="Le bilan urodynamique – Dr Pauline Lallemant-Dudek">
+<meta property="og:description" content="Particularités en pédiatrie">
+<meta property="og:image" content="https://docteur-pauline.fr/assets/photoPLD_v2.jpg">
+<meta property="og:site_name" content="Dr Pauline Lallemant-Dudek">
+<meta property="og:locale" content="fr_FR">
+<meta name="twitter:title" content="Le bilan urodynamique – Dr Pauline Lallemant-Dudek">
+<meta name="twitter:description" content="Particularités en pédiatrie">
+<meta name="twitter:image" content="https://docteur-pauline.fr/assets/photoPLD_v2.jpg">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+<body class="quarto-light">
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide" class="quarto-title-block center">
+  <h1 class="title">Le bilan urodynamique</h1>
+  <p class="subtitle">Particularités en pédiatrie</p>
+
+<div class="quarto-title-authors">
+<div class="quarto-title-author">
+<div class="quarto-title-author-name">
+Dr Pauline Lallemant-Dudek
+</div>
+        <p class="quarto-title-affiliation">
+            Service de MPR pédiatrique — Hôpital Armand Trousseau (Paris) | Sorbonne Université
+          </p>
+    </div>
+</div>
+
+</section>
+<section>
+<section id="ce-qui-est-identique-chez-lenfant-et-ladulte" class="title-slide slide level1 center section-slide">
+<h1>Ce qui est identique chez l’enfant et l’adulte</h1>
+
+</section>
+<section id="la-débitmétrie" class="slide level2">
+<h2>La débitmétrie</h2>
+<p>Pour les enfants en miction spontanée, elle peut être réalisée avant et / ou après la cystomanométrie.</p>
+<p>Un EMG périnéal peut être ajouté pour dépister une dyssynergie vésico-sphinctérienne.</p>
+<p>Le résidu post-mictionnel peut être mesuré par échographie, <em>bladder-scan</em>, ou lors du sondage vésical en début de cystomanométrie.</p>
+<div class="g-card-red">
+<p>Pour une interprétation juste, selon l’ICCS :</p>
+<ul>
+<li>un lieu qui ressemble au domicile, ou plusieurs mesures,</li>
+<li>un marche-pied, pour un plancher périnéal relâché,</li>
+<li>l’envie mictionnelle et le délai depuis la dernière miction sont notés,</li>
+<li>débitmétrie interprétable si le volume uriné est &gt; 50 % de la CVT.</li>
+</ul>
+</div>
+<p><span class="citation" data-cites="austin2014standardisation">(<a href="#/bibliographie" role="doc-biblioref" onclick=""><span class="nocase">Austin <em>et al.</em></span>, 2016</a>)</span></p>
+</section>
+<section id="la-technique-de-cystomanométrie." class="slide level2">
+<h2>La technique de cystomanométrie.</h2>
+<p>Le principe de recueil de pression est le même chez l’enfant et l’adulte.</p>
+<p>La technique de la cystomanométrie est identique :</p>
+<ul>
+<li>cathéter transurétral double (4-6 French) ou triple lumière (à partir de 8 French)</li>
+<li>sonde rectale à ballonnet, à air ou à eau (4-6 French)</li>
+<li>connectés aux capteurs de pression après mise à zéro des lignes,</li>
+<li>EMG peut être enregistré grâce à deux électrodes de surface périnéales et une électrode neutre positionnée sur une surface osseuse.</li>
+</ul>
+<p>Il est nécessaire de respecter les mêmes règles d’hygiène et de sécurité.</p>
+</section>
+<section id="la-profilométrie" class="slide level2">
+<h2>La profilométrie</h2>
+<p>Généralement réalisée après la cystomanométrie, elle permet de mesurer la pression de fermeture urétrale et le profil de pression urétrale.</p>
+<p>Elle se fait au moyen d’une sonde de perfusion à débit constant de 2 mL/min, retirée progressivement par un bras mécanique ou manuellement.</p>
+<p>La réaliser après la cystomanométrie, évite de sonder une nouvelle fois l’urètre, ce qui est plus confortable pour l’enfant.</p>
+</section></section>
+<section>
+<section id="ce-qui-est-différent-chez-lenfant-et-ladulte" class="title-slide slide level1 center section-slide">
+<h1>Ce qui est différent chez l’enfant et l’adulte</h1>
+<ul>
+<li>L’nterprétation et les normes</li>
+<li>La consultation préalable à l’examen</li>
+<li>La réalisation en pratique de l’examen</li>
+</ul>
+</section>
+<section id="la-capacité-vésicale-théorique-cvt" class="slide level2">
+<h2>La capacité vésicale théorique (CVT)</h2>
+<p>La CVT est indispensable pour :</p>
+<ul>
+<li>interpréter le calendrier mictionnel,</li>
+<li>authentifier un résidu post-mictionnel,</li>
+<li>calculer la vitesse de remplissage vésical,</li>
+<li>interpréter de la cystomanométrie.</li>
+</ul>
+<p>Des normes sont fixées par l’<strong>International Continence Child Society (ICCS)</strong> en fonction de l’âge de l’enfant.</p>
+</section>
+<section id="la-capacité-vésicale-théorique-cvt-1" class="slide level2">
+<h2>La capacité vésicale théorique (CVT)</h2>
+<div class="g-card-red">
+<p>Après 3 ans : <span class="math display">\[ \text{CVT} = (\text{âge} + 1) \times 30 \]</span></p>
+<div class="small-text">
+<p><em>La CVT est exprimée en mL et l’âge est exprimé en années.</em></p>
+</div>
+<p>Au-delà de 12 ans : capacité vésicale adulte.</p>
+</div>
+<div class="g-card-red">
+<p>Avant 3 ans : <span class="math display">\[ \text{CVT} = (\text{âge} \times 2.5) + 38 \]</span></p>
+<div class="small-text">
+<p><em>La CVT est exprimée en mL et l’âge est exprimé en mois.</em></p>
+</div>
+</div>
+<p><span class="citation" data-cites="bauer2015international">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Bauer <em>et al.</em>, 2015</a>)</span> <span class="citation" data-cites="austin2014standardisation">(<a href="#/bibliographie" role="doc-biblioref" onclick=""><span class="nocase">Austin <em>et al.</em></span>, 2016</a>)</span></p>
+</section>
+<section id="le-résidu-post-mictionnel-rpm" class="slide level2">
+<h2>Le résidu post-mictionnel (RPM)</h2>
+<p>Chez le tout-petit, le résidu post-mictionnel est physiologique : les mictions sont généralement incomplètes. Il diminue au fur et à mesure de la croissance de l’enfant, les normes sont définies par l’ICCS.</p>
+<div class="g-card-red">
+<p>Le résidu post-mictionnel :</p>
+<ul>
+<li><p>de 4 à 6 ans :</p>
+<ul>
+<li>1 mesure : + de 30 ml ou + de 21% de la CVT,
+<ul>
+<li>2 mesures : + de 20 ml ou ou + de 10% de la CVT,</li>
+</ul></li>
+</ul></li>
+<li><p>de 7 à 12 ans :</p>
+<ul>
+<li>1 mesure : + de 20 ml ou + de 15% de la CVT,
+<ul>
+<li>2 mesures : + de 10 ml ou ou + de 6% de la CVT,</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+</section>
+<section id="la-vitesse-de-remplissage-vésical" class="slide level2">
+<h2>La vitesse de remplissage vésical</h2>
+<p>La vitesse dépend de l’âge de l’enfant. Elle est définie par l’ICCS, par : CVT / 20 en mL/min.</p>
+<p>Un remplissage vésical supérieur à la vitesse théorique peut entrainer une hyperactivité détrusorienne. Si un 1er remplissage vésical retrouve un résultat discordant avec la clinique, il est recommandé de réaliser un second remplissage vésical.</p>
+<div class="columns font-small">
+<div class="column" style="width:48%;">
+<div class="table-modern">
+<table class="caption-top">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Âge</th>
+<th style="text-align: center;">CVT (mL)</th>
+<th style="text-align: center;">Débit (mL/min)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">6 mois</td>
+<td style="text-align: center;">53</td>
+<td style="text-align: center;">2</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">12 mois</td>
+<td style="text-align: center;">68</td>
+<td style="text-align: center;">3</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">18 mois</td>
+<td style="text-align: center;">83</td>
+<td style="text-align: center;">4</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">24 mois</td>
+<td style="text-align: center;">98</td>
+<td style="text-align: center;">5</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">36 mois</td>
+<td style="text-align: center;">128</td>
+<td style="text-align: center;">6</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">4 ans</td>
+<td style="text-align: center;">150</td>
+<td style="text-align: center;">7</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">5 ans</td>
+<td style="text-align: center;">180</td>
+<td style="text-align: center;">9</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div><div class="column" style="width:4%;">
+
+</div><div class="column" style="width:48%;">
+<div class="table-modern">
+<table class="caption-top">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Âge</th>
+<th style="text-align: center;">CVT (mL)</th>
+<th style="text-align: center;">Débit (mL/min)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">6 ans</td>
+<td style="text-align: center;">210</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">7 ans</td>
+<td style="text-align: center;">240</td>
+<td style="text-align: center;">12</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">8 ans</td>
+<td style="text-align: center;">270</td>
+<td style="text-align: center;">13</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">9 ans</td>
+<td style="text-align: center;">300</td>
+<td style="text-align: center;">15</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">10 ans</td>
+<td style="text-align: center;">330</td>
+<td style="text-align: center;">16</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">11 ans</td>
+<td style="text-align: center;">360</td>
+<td style="text-align: center;">18</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">12 ans</td>
+<td style="text-align: center;">390</td>
+<td style="text-align: center;">20</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div></div>
+<div class="small-text">
+<p><em>CVT et débit de remplissage conseillé pour les cystomanométries selon l’âge, de 6 mois à 12 ans.</em></p>
+</div>
+<p><span class="citation" data-cites="bauer2015international">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Bauer <em>et al.</em>, 2015</a>)</span> <span class="citation" data-cites="austin2014standardisation">(<a href="#/bibliographie" role="doc-biblioref" onclick=""><span class="nocase">Austin <em>et al.</em></span>, 2016</a>)</span></p>
+</section>
+<section id="lévaluation-des-besoins-mictionnels" class="slide level2">
+<h2>L’évaluation des besoins mictionnels</h2>
+<p>Pas de norme définies pour l’évaluation des besoins mictionnels chez l’enfant. Il est recommandé de se baser sur le calendrier mictionnel et les symptômes urinaires.</p>
+<div class="g-card-red">
+<p>Le besoin peut être décrit comme :</p>
+<ul>
+<li>normal,</li>
+<li>augmentés ou hypersensible,</li>
+<li>diminués ou hyposensible,</li>
+<li>absent.</li>
+</ul>
+<p>L’évaluation des besoins mictionnels avant l’apprentissage de la continence est impossible ou presque, plus facile après 6 ans.</p>
+</div>
+<p><span class="citation" data-cites="bauer2015international">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Bauer <em>et al.</em>, 2015</a>)</span></p>
+</section>
+<section id="les-changements-de-pression-détrusorienne" class="slide level2">
+<h2>Les changements de pression détrusorienne</h2>
+<div class="g-card-red">
+<p>Pour les CNID :</p>
+<ul>
+<li>la définition est identique à celle de l’adulte,</li>
+<li>une augmentation de pression détrusorienne &gt; 40 cmH2O est considérée comme à risque de lésion rénale,</li>
+</ul>
+<p>Mais chez l’enfant, il est important de noter que :</p>
+<ul>
+<li>10% de la population pédiatrique a des CNID au cours du remplissage de leur vessie sans qu’ils souffrent d’un dysfonctionnement neurologique,</li>
+<li>l’apparition de contractions à l’approche de la CVT doit être interprétée comme normale</li>
+</ul>
+</div>
+</section>
+<section id="les-changements-de-pression-détrusorienne-1" class="slide level2">
+<h2>Les changements de pression détrusorienne</h2>
+<div class="g-card-blue">
+<p>Le trouble de compliance a la même définition que chez l’adulte : une compliance &lt; 20 mL/cmH2O est considérée comme anormale.</p>
+</div>
+<div class="g-card-red">
+<p>Un <strong>détrusor hypoactif</strong> est défini comme :</p>
+<ul>
+<li>une absence de contraction ou contraction insuffisante avec un remplissage &gt; à 150% de la CVT.</li>
+</ul>
+</div>
+<p><span class="citation" data-cites="bauer2015international">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Bauer <em>et al.</em>, 2015</a>)</span> <span class="citation" data-cites="abrams2010standardization">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Abrams <em>et al.</em>, 2010</a>)</span> <span class="citation" data-cites="ergun2022results">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Ergun <em>et al.</em>, 2022</a>)</span></p>
+</section>
+<section id="pendant-le-remplissage" class="slide level2">
+<h2>Pendant le remplissage</h2>
+<p>L’enfant doit rester le plus calme possible pendant les 20 minutes de remplissage. Selon son âge et ses capacités, il informe le soignant :</p>
+<ul>
+<li>d’une <strong>envie mictionnelle</strong> : subjective chez l’enfant ; les soignants observent les comportements (flexion des orteils, jambes croisées…),</li>
+<li>de l’apparition de <strong>fuites</strong> : le <em>Leak Point Pressure</em> (LPP) est considéré comme peu à risque pour les reins si &lt; 40 cmH2O,</li>
+<li>l’incontinence doit être recherchée et provoquée : <em>Valsalva Leak Point Pressure</em> (VLPP), sans norme pédiatrique spécifique.</li>
+</ul>
+<p>La fin du remplissage est décidée selon les symptômes (fuite, envie urgente, douleur) et la CVT ou la capacité maximale du calendrier mictionnel.</p>
+<div class="g-card-green">
+<p>Le soignant doit être présent et observer l’enfant tout au long de l’examen, <strong>d’autant plus chez le tout-petit</strong>.</p>
+</div>
+<p><span class="citation" data-cites="bauer2015international">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Bauer <em>et al.</em>, 2015</a>)</span> <span class="citation" data-cites="meier_expert_2024">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Meier <em>et al.</em>, 2024</a>)</span> <span class="citation" data-cites="li_nomogram_2022">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Li <em>et al.</em>, 2022</a>)</span></p>
+</section>
+<section id="consultation-préalable-à-lexamen" class="slide level2">
+<h2>Consultation préalable à l’examen</h2>
+<p>Une consultation préalable à l’examen est indispensable pour :</p>
+<ul>
+<li>réaliser un interrogatoire et un examen clinique,</li>
+<li>vérifier l’indication du bilan uro-dynamique,</li>
+<li>obtenir ou expliquer un calendrier mictionnel,</li>
+<li>expliquer l’examen à l’enfant et à ses parents,</li>
+<li>répondre aux premières questions de l’enfant et ses parents,</li>
+<li>vérifier que la question posée par le médecin prescripteur pourra être répondue par l’examen,</li>
+<li>vérifier l’absence de constipation,</li>
+<li>obtenir le consentement éclairé de l’enfant (selon son âge) et de ses parents.</li>
+</ul>
+</section>
+<section id="linterrogatoire-et-lexamen-clinique" class="slide level2">
+<h2>L’interrogatoire et l’examen clinique</h2>
+<p>Les principaux éléments à rechercher sont :</p>
+<ol type="1">
+<li>un signe de dysraphisme sur le raphée médian,</li>
+<li>à l’examen neurologique : déficit musculaire ou asymétrie pouvant orienter vers une atteinte neurologique,</li>
+<li>des malformations des organes génitaux externes.</li>
+</ol>
+</section>
+<section id="le-calendrier-mictionnel" class="slide level2">
+<h2>Le calendrier mictionnel</h2>
+<p>Il est important de réaliser un calendrier mictionnel <strong>avant le bilan urodynamique</strong> pour :</p>
+<ol type="1">
+<li>Évaluer la capacité vésicale par rapport à la capacité vésicale théorique</li>
+<li>Vérifier l’absence de trouble urinaire diurne</li>
+<li>Évaluer les volumes urinés au cours de la nuit : → recherche de polyurie nocturne.</li>
+</ol>
+</section></section>
+<section>
+<section id="le-jour-du-bud" class="title-slide slide level1 center">
+<h1>Le jour du BUD</h1>
+<ul>
+<li>L’ECBU pré-BUD</li>
+<li>L’installation de l’enfant</li>
+<li>La prémédication</li>
+</ul>
+</section>
+<section id="lecbu-pré-bud" class="slide level2">
+<h2>L’ECBU pré-BUD</h2>
+<p>Il s’agit d’une mesure de précaution, actuellement discutée.</p>
+<div class="g-card-red">
+<p>La dernière revue systématique recommande de réaliser le BUD en pédiatrie sur des <strong>urines stériles ou traitées</strong>, pour diminuer le risque de bactériurie, sans modification du risque d’infection après l’examen.</p>
+<p>Ce prérequis est repris dans les dernières recommandations, mais il est en débat actuellement.</p>
+</div>
+<p><span class="citation" data-cites="foon_prophylactic_nodate">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Foon <em>et al.</em>, s.&nbsp;d.</a>)</span> <span class="citation" data-cites="tekgul_eau-espu_2020">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Tekgul <em>et al.</em>, 2020</a>)</span></p>
+</section>
+<section id="linstallation-de-lenfant" class="slide level2">
+<h2>L’installation de l’enfant</h2>
+<p>Il est important de redire à l’enfant et ses parents le déroulé de l’examen, de le rassurer et de lui demander si des questions persistent.</p>
+<div class="g-card-blue">
+<p>En pratique :</p>
+<ul>
+<li>l’enfant est allongé sur le dos, pas forcément en position gynécologique,</li>
+<li>un parent est invité à rester à côté si l’enfant le souhaite,</li>
+<li>les soignants respectent l’intimité autant que possible :
+<ul>
+<li>paravent,</li>
+<li>recouvrir le périnée.</li>
+</ul></li>
+</ul>
+</div>
+<p><span class="citation" data-cites="abdellaoui2025methodologie">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Abdellaoui <em>et al.</em>, 2025</a>)</span></p>
+</section>
+<section id="la-prémédication" class="slide level2">
+<h2>La prémédication</h2>
+<p>Pour les enfants en miction spontanée, les prémédications possibles sont :</p>
+<ul>
+<li>le saccharose (sucre) pour les nourrissons,</li>
+<li>l’inhalation de protoxyde d’azote (MEOPA) lors de la pose des sondes,</li>
+<li>la distraction (livres, chants, bulles, vidéo, tablette …),</li>
+<li>la prémédication orale par midazolam (BUCCOLAM®).</li>
+</ul>
+<div class="g-card-red">
+<p>En France, le MEOPA est utilisé de manière quasi systématique lors de la pose des sondes. Sur prescription médicale, il est possible d’ajouter du gel à la xylocaïne, un anxiolytique ou une benzodiazépine à effet rapide.</p>
+<p><strong>Attention</strong> : la rétention urinaire est un effet indésirable connu des benzodiazépines. Leur sécurité et leur innocuité pour l’interprétation du BUD ont toutefois été vérifiées.</p>
+</div>
+<p><span class="citation" data-cites="bozkurt_effects_1996">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Bozkurt <em>et al.</em>, 1996</a>)</span> <span class="citation" data-cites="thevaraja_comparison_2013">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Thevaraja <em>et al.</em>, 2013</a>)</span> <span class="citation" data-cites="keidan_sedation_2005">(<a href="#/bibliographie" role="doc-biblioref" onclick="">KEIDAN <em>et al.</em>, 2005</a>)</span></p>
+</section></section>
+<section>
+<section id="points-pour-examen-particuliers" class="title-slide slide level1 center">
+<h1>2 points pour examen particuliers :</h1>
+<ul>
+<li>Les examens vidéo-urodynamiques</li>
+<li>Les courbes débit-pression</li>
+</ul>
+</section>
+<section id="les-examens-vidéo-urodynamiques" class="slide level2">
+<h2>Les examens vidéo-urodynamiques</h2>
+<p>Cet examen combine une cystographie rétrograde à un BUD.</p>
+<p>Lors d’une vidéo-urodynamique, c’est un produit de contraste qui est instillé.</p>
+<p>L’association de ces 2 examens permet de savoir pour quel volume précisément et surtout pour <strong>quelle pression intra-vésicale</strong> apparait le reflux vésico-urétéral. Les informations sont donc <strong>fonctionnelles et morphologiques</strong>.</p>
+<div class="g-card-blue">
+<p>Le vidéo BUD est recommandé en pédiatrie pour le suivi des vessies à risque en cas de reflux vésico-urétéral ou d’infection urinaire haute par EAU et ESPU.</p>
+</div>
+<div class="g-card-red">
+<p>En pédiatrie, il est demandé d’exposer les enfants le moins possible aux rayonnements, selon la recommandation « <em>As low as reasonable</em> » (ALARA).</p>
+</div>
+<p><span class="citation" data-cites="anding2016should">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Anding <em>et al.</em>, 2016</a>)</span> <span class="citation" data-cites="stein_eauespu_2020">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Stein <em>et al.</em>, 2020</a>)</span> <span class="citation" data-cites="kennady_novel_2024">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Kennady <em>et al.</em>, 2024</a>)</span></p>
+</section>
+<section id="les-courbes-débit-pression" class="slide level2">
+<h2>Les courbes débit-pression</h2>
+<p>La miction volontaire sur table est très difficile à obtenir chez un enfant avec une sonde urinaire en place, jeune ou anxieux.</p>
+<div class="g-card-red">
+<p>Les pressions détrusoriennes mictionnelles décrites comme normales sont <strong>plus élevées chez l’enfant que chez l’adulte</strong> :</p>
+<ul>
+<li>garçon : entre 118 et 127 cmH2O,</li>
+<li>fille : entre 72 et 75 cmH2O.</li>
+</ul>
+</div>
+<p><span class="citation" data-cites="bachelard_urodynamic_1999">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Bachelard <em>et al.</em>, 1999</a>)</span> <span class="citation" data-cites="yeung_new_1995">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Yeung <em>et al.</em>, 1995</a>)</span></p>
+</section></section>
+<section>
+<section id="conclusion" class="title-slide slide level1 center section-slide">
+<h1>Conclusion</h1>
+
+</section>
+<section id="en-conclusion" class="slide level2">
+<h2>En conclusion</h2>
+<div class="g-card-green">
+<ul>
+<li>Le BUD est faisable chez l’enfant, à tout âge.</li>
+<li>Les grands principes de l’examen sont les mêmes que chez l’adulte.</li>
+<li>Un environnement adapté est indispensable pour que l’enfant et ses accompagnants soient en confiance.</li>
+<li>Les normes de l’ICCS sont à connaître pour réaliser et interpréter les courbes.</li>
+</ul>
+</div>
+<p>Les courbes ne peuvent être lues sans connaître l’évaluation clinique préalable :</p>
+<ul>
+<li>l’âge du patient,</li>
+<li>son statut mictionnel (continence acquise ou non).</li>
+</ul>
+<p>Examen invasif, le BUD ne doit pas être réalisé sans le consentement de l’enfant ni sous contention → il faut souvent adapter les distractions et prémédications, voire reporter l’examen.</p>
+<div class="g-card-red">
+<p>La littérature pédiatrique est moins étoffée que chez l’adulte.</p>
+</div>
+</section></section>
+<section id="bibliographie" class="title-slide slide level1 smaller scrollable">
+<h1>Bibliographie</h1>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-abdellaoui2025methodologie" class="csl-entry" role="listitem">
+Abdellaoui S, Phé V, Lallemant-Dudek P. M<span>é</span>thodologie et interpr<span>é</span>tation du bilan urodynamique chez l’enfant: enjeux et sp<span>é</span>cificit<span>é</span>s. <em>Progr<span class="nocase">è</span>s en Urologie-FMC</em> 2025; Elsevier.
+</div>
+<div id="ref-abrams2010standardization" class="csl-entry" role="listitem">
+Abrams P, Cardozo L, Fall M, Griffiths D, Rosier P, Ulmsten U, Van Kerrebroeck P, Victor A, Wein AJ. The standardization of terminology of lower urinary tract function: report from the standardization sub-committee of International Continence Society. <em>Textbook of female urology and urogynecology</em> 2010;, p. 1098‑1108. CRC Press.
+</div>
+<div id="ref-anding2016should" class="csl-entry" role="listitem">
+Anding R, Smith P, Jong T de, Constantinou C, Cardozo L, Rosier P. When should video and EMG be added to urodynamics in children with lower urinary tract dysfunction and is this justified by the evidence? ICI-RS 2014. <em>Neurourology and Urodynamics</em> 2016;<strong>35</strong>:331‑335. Wiley Online Library.
+</div>
+<div id="ref-austin2014standardisation" class="csl-entry" role="listitem">
+<span class="nocase">Austin PF, Bauer SB, Bower W, Chase J, Franco I, Hoebeke P, Rittig S, Walle JV, Gontard A von, Wright A, <em>et al.</em></span> The standardization of terminology of lower urinary tract function in children and adolescents: Update report from the standardization committee of the International Children’s Continence Society. <em>Neurourology and urodynamics</em> 2016;<strong>35</strong>:471‑481. Wiley Online Library.
+</div>
+<div id="ref-bachelard_urodynamic_1999" class="csl-entry" role="listitem">
+Bachelard M, Sillén U, Hansson S, Hermansson G, Jodal U, Jacobsson B. <a href="https://doi.org/10.1016/s0022-5347(05)68226-2">Urodynamic pattern in asymptomatic infants: siblings of children with vesicoureteral reflux</a>. <em>J Urol</em> 1999;<strong>162</strong>:1733-1737; discussion 1737-1738.
+</div>
+<div id="ref-bauer2015international" class="csl-entry" role="listitem">
+Bauer SB, Nijman RJ, Drzewiecki BA, Sillen U, Hoebeke P. International Children’s Continence Society standardization report on urodynamic studies of the lower urinary tract in children. <em>Neurourology and urodynamics</em> 2015;<strong>34</strong>:640‑647. Wiley Online Library.
+</div>
+<div id="ref-bozkurt_effects_1996" class="csl-entry" role="listitem">
+Bozkurt P, Kiliç N, Kaya G, Yeker Y, Eliçevik M, Söylet Y. <a href="https://doi.org/10.1046/j.1464-410X.1996.04325.x">The effects of intranasal midazolam on urodynamic</a>. <em>British Journal of Urology</em> [Internet] 1996;<strong>78</strong>:282‑286.
+</div>
+<div id="ref-ergun2022results" class="csl-entry" role="listitem">
+Ergun R, Sekerci CA, Tanidir Y, Ozturk Nİ, Tarcan T, Yucel S. The results of three times repeated filling cystometry and pressure flow studies in children with non-neurogenic lower urinary tract dysfunction. <em>Neurourology and Urodynamics</em> 2022;<strong>41</strong>:1157‑1164. Wiley Online Library.
+</div>
+<div id="ref-foon_prophylactic_nodate" class="csl-entry" role="listitem">
+Foon R, Toozs‐Hobson P, Latthe P. Prophylactic antibiotics to reduce the risk of urinary tract infections after urodynamic studies - <span>Foon</span>, <span>R</span> - 2012 <span></span> <span>Cochrane</span> <span>Library</span>Available from: <a href="https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008224.pub2/abstract">https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008224.pub2/abstract</a>.
+</div>
+<div id="ref-keidan_sedation_2005" class="csl-entry" role="listitem">
+KEIDAN I, ZASLANSKY R, WEINBERG M, BEN-SHLUSH A, JACOBSON JM, AUGARTEN A, MOR Y. <span>SEDATION</span> <span>DURING</span> <span>VOIDING</span> <span>CYSTOURETHROGRAPHY</span>: <span>COMPARISON</span> <span>OF</span> <span>THE</span> <span>EFFICACY</span> <span>AND</span> <span>SAFETY</span> <span>OF</span> <span>USING</span> <span>ORAL</span> <span>MIDAZOLAM</span> <span>AND</span> <span>CONTINUOUS</span> <span>FLOW</span> <span>NITROUS</span> <span>OXIDE</span>. <em>The Journal of Urology</em> [Internet] 2005;Available from: <a href="https://www.auajournals.org/doi/10.1097/01.ju.0000176595.49213.13">https://www.auajournals.org/doi/10.1097/01.ju.0000176595.49213.13</a>.
+</div>
+<div id="ref-kennady_novel_2024" class="csl-entry" role="listitem">
+Kennady E, Hutchison D, Corbett ST, Leroy S, Morgan K, Daugherty R, Kapral N, Kern NG. <a href="https://doi.org/10.1002/nau.25422">Novel use of contrast enhanced ultrasonography with urodynamics in children: <span>A</span> comparison study to fluoroscopy</a>. <em>Neurourol Urodyn</em> 2024;<strong>43</strong>:711‑718.
+</div>
+<div id="ref-li_nomogram_2022" class="csl-entry" role="listitem">
+Li Q, Cai M, Pu Q, Wu S, Liu X, Lin T, He D, Wen J, Wei G. <a href="https://doi.org/10.3389/fped.2022.1050013">A nomogram for predicting upper urinary tract damage risk in children with neurogenic bladder</a>. <em>Front Pediatr</em> 2022;<strong>10</strong>:1050013.
+</div>
+<div id="ref-meier_expert_2024" class="csl-entry" role="listitem">
+Meier KM, Mata C, Kaar JL, Rensing AJ, Dudley AG, Carrasco A, Drzewiecki BA, VanderBrink BA, Streur CS, Bagli DJ, <em>et al.</em> <a href="https://doi.org/10.1097/JU.0000000000004000">Expert <span>Consensus</span> on <span>Pediatric</span> <span>Urodynamics</span> <span>Reporting</span> <span>Using</span> <span>Modified</span> <span>Delphi</span> <span>Technique</span></a>. <em>J Urol</em> 2024;<strong>212</strong>:165‑174.
+</div>
+<div id="ref-stein_eauespu_2020" class="csl-entry" role="listitem">
+Stein R, Bogaert G, Dogan HS, Hoen L, Kocvara R, Nijman RJM, Quadackers JSLT, Rawashdeh YF, Silay MS, Tekgul S, <em>et al.</em> <a href="https://doi.org/10.1002/nau.24211"><span>EAU</span>/<span>ESPU</span> guidelines on the management of neurogenic bladder in children and adolescent part <span>I</span> diagnostics and conservative treatment</a>. <em>Neurourol Urodyn</em> 2020;<strong>39</strong>:45‑57.
+</div>
+<div id="ref-tekgul_eau-espu_2020" class="csl-entry" role="listitem">
+Tekgul S, Stein R, Bogaert G, Undre S, Nijman RJM, Quaedackers J, Hoen L ‘T, Kocvara R, Silay MS, Radmayr C, <em>et al.</em> <a href="https://doi.org/10.1007/s00431-020-03681-w"><span>EAU</span>-<span>ESPU</span> guidelines recommendations for daytime lower urinary tract conditions in children</a>. <em>Eur J Pediatr</em> [Internet] 2020;<strong>179</strong>:1069‑1077.
+</div>
+<div id="ref-thevaraja_comparison_2013" class="csl-entry" role="listitem">
+Thevaraja AK, Batra YK, Rakesh SV, Panda NB, Rao KLN, Chhabra M, Aggarwal M. <a href="https://doi.org/10.1111/pan.12046">Comparison of low-dose ketamine to midazolam for sedation during pediatric urodynamic study</a>. <em>Pediatric Anesthesia</em> [Internet] 2013;<strong>23</strong>:415‑421.
+</div>
+<div id="ref-yeung_new_1995" class="csl-entry" role="listitem">
+Yeung CK, Godley ML, Ho CK, Ransley PG, Duffy PG, Chen CN, Li AK. <a href="https://doi.org/10.1111/j.1464-410x.1995.tb07682.x">Some new insights into bladder function in infancy</a>. <em>Br J Urol</em> 1995;<strong>76</strong>:235‑240.
+</div>
+</div>
+
+
+</section>
+    </div>
+  <div class="quarto-auto-generated-content" style="display: none;">
+<p><img src="https://sante.sorbonne-universite.fr/sites/default/files/media/2023-07/logo_sante_horiz_rvb.svg" class="slide-logo"></p>
+<div class="footer footer-default">
+<p>Dr Pauline Lallemant-Dudek — Le bilan urodynamique - Les particularités en pédiatrie</p>
+</div>
+</div></div>
+
+  <script>window.backupDefine = window.define; window.define = undefined;</script>
+  <script src="../site_libs/revealjs/dist/reveal.js"></script>
+  <!-- reveal.js plugins -->
+  <script src="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
+  <script src="../site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
+  <script src="../site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
+  <script src="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="../site_libs/revealjs/plugin/quarto-support/support.js"></script>
+  
+
+  <script src="../site_libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="../site_libs/revealjs/plugin/search/search.js"></script>
+  <script src="../site_libs/revealjs/plugin/zoom/zoom.js"></script>
+  <script src="../site_libs/revealjs/plugin/math/math.js"></script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+'controlsAuto': false,
+'previewLinksAuto': false,
+'pdfSeparateFragments': false,
+'autoAnimateEasing': "ease",
+'autoAnimateDuration': 1,
+'autoAnimateUnmatched': true,
+'jumpToSlide': true,
+'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\"><kbd>r</kbd> Scroll View Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
+'smaller': false,
+ 
+        // Display controls in the bottom right corner
+        controls: true,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: false,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'edges',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Display the page number of the current slide
+        slideNumber: 'c/t',
+
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
+
+        // Push each slide change to the browser history
+        history: true,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Vertical centering of slides
+        center: false,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'linear',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: false,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'fade',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'slow',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'none',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // The "normal" size of the presentation, aspect ratio will be preserved
+        // when the presentation is scaled to fit different resolutions. Can be
+        // specified using percentage units.
+        width: 1280,
+
+        height: 720,
+
+        // Factor of the display size that should remain empty around the content
+        margin: 0.1,
+
+        math: {
+          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
+          config: 'TeX-AMS_HTML-full',
+          tex2jax: {
+            inlineMath: [['\\(','\\)']],
+            displayMath: [['\\[','\\]']],
+            balanceBraces: true,
+            processEscapes: false,
+            processRefs: true,
+            processEnvironments: true,
+            preview: 'TeX',
+            skipTags: ['script','noscript','style','textarea','pre','code'],
+            ignoreClass: 'tex2jax_ignore',
+            processClass: 'tex2jax_process'
+          },
+        },
+
+        // reveal.js plugins
+        plugins: [QuartoLineHighlight, PdfExport, RevealMenu, QuartoSupport,
+
+          RevealMath,
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    <script>
+      // Autorise le zoom sur mobile dans les diaporamas (WCAG 1.4.4).
+      (function () {
+        var m = document.querySelector('meta[name="viewport"]');
+        if (m) m.setAttribute('content', 'width=device-width, initial-scale=1.0');
+      })();
+    </script>
+    <script id="quarto-html-after-body" type="application/javascript">
+      window.document.addEventListener("DOMContentLoaded", function (event) {
+        const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
+        tabsets.forEach(function(tabset) {
+          const tabby = new Tabby('#' + tabset.id);
+        });
+        const isCodeAnnotation = (el) => {
+          for (const clz of el.classList) {
+            if (clz.startsWith('code-annotation-')) {                     
+              return true;
+            }
+          }
+          return false;
+        }
+        const onCopySuccess = function(e) {
+          // button target
+          const button = e.trigger;
+          // don't keep focus
+          button.blur();
+          // flash "checked"
+          button.classList.add('code-copy-button-checked');
+          var currentTitle = button.getAttribute("title");
+          button.setAttribute("title", "Copié");
+          let tooltip;
+          if (window.bootstrap) {
+            button.setAttribute("data-bs-toggle", "tooltip");
+            button.setAttribute("data-bs-placement", "left");
+            button.setAttribute("data-bs-title", "Copié");
+            tooltip = new bootstrap.Tooltip(button, 
+              { trigger: "manual", 
+                customClass: "code-copy-button-tooltip",
+                offset: [0, -8]});
+            tooltip.show();    
+          }
+          setTimeout(function() {
+            if (tooltip) {
+              tooltip.hide();
+              button.removeAttribute("data-bs-title");
+              button.removeAttribute("data-bs-toggle");
+              button.removeAttribute("data-bs-placement");
+            }
+            button.setAttribute("title", currentTitle);
+            button.classList.remove('code-copy-button-checked');
+          }, 1000);
+          // clear code selection
+          e.clearSelection();
+        }
+        const getTextToCopy = function(trigger) {
+          const outerScaffold = trigger.parentElement.cloneNode(true);
+          const codeEl = outerScaffold.querySelector('code');
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
+            }
+          }
+          return codeEl.innerText;
+        }
+        const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+          text: getTextToCopy
+        });
+        clipboard.on('success', onCopySuccess);
+        if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+          const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+            text: getTextToCopy,
+            container: window.document.getElementById('quarto-embedded-source-code-modal')
+          });
+          clipboardModal.on('success', onCopySuccess);
+        }
+          var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+          var mailtoRegex = new RegExp(/^mailto:/);
+            var filterRegex = new RegExp("https:\/\/docteur-pauline\.fr");
+          var isInternal = (href) => {
+              return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+          }
+          // Inspect non-navigation links and adorn them if external
+         var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+          for (var i=0; i<links.length; i++) {
+            const link = links[i];
+            if (!isInternal(link.href)) {
+              // undo the damage that might have been done by quarto-nav.js in the case of
+              // links that we want to consider external
+              if (link.dataset.originalHref !== undefined) {
+                link.href = link.dataset.originalHref;
+              }
+            }
+          }
+        function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+          const config = {
+            allowHTML: true,
+            maxWidth: 500,
+            delay: 100,
+            arrow: false,
+            appendTo: function(el) {
+                return el.closest('section.slide') || el.parentElement;
+            },
+            interactive: true,
+            interactiveBorder: 10,
+            theme: 'light-border',
+            placement: 'bottom-start',
+          };
+          if (contentFn) {
+            config.content = contentFn;
+          }
+          if (onTriggerFn) {
+            config.onTrigger = onTriggerFn;
+          }
+          if (onUntriggerFn) {
+            config.onUntrigger = onUntriggerFn;
+          }
+            config['offset'] = [0,0];
+            config['maxWidth'] = 700;
+          window.tippy(el, config); 
+        }
+        const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+        for (var i=0; i<noterefs.length; i++) {
+          const ref = noterefs[i];
+          tippyHover(ref, function() {
+            // use id or data attribute instead here
+            let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+            try { href = new URL(href).hash; } catch {}
+            const id = href.replace(/^#\/?/, "");
+            const note = window.document.getElementById(id);
+            if (note) {
+              return note.innerHTML;
+            } else {
+              return "";
+            }
+          });
+        }
+        const findCites = (el) => {
+          const parentEl = el.parentElement;
+          if (parentEl) {
+            const cites = parentEl.dataset.cites;
+            if (cites) {
+              return {
+                el,
+                cites: cites.split(' ')
+              };
+            } else {
+              return findCites(el.parentElement)
+            }
+          } else {
+            return undefined;
+          }
+        };
+        var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+        for (var i=0; i<bibliorefs.length; i++) {
+          const ref = bibliorefs[i];
+          const citeInfo = findCites(ref);
+          if (citeInfo) {
+            tippyHover(citeInfo.el, function() {
+              var popup = window.document.createElement('div');
+              citeInfo.cites.forEach(function(cite) {
+                var citeDiv = window.document.createElement('div');
+                citeDiv.classList.add('hanging-indent');
+                citeDiv.classList.add('csl-entry');
+                var biblioDiv = window.document.getElementById('ref-' + cite);
+                if (biblioDiv) {
+                  citeDiv.innerHTML = biblioDiv.innerHTML;
+                }
+                popup.appendChild(citeDiv);
+              });
+              return popup.innerHTML;
+            });
+          }
+        }
+      });
+      </script>
+    
+
+</body></html>
