@@ -1,0 +1,437 @@
+---
+title: "Le bilan urodynamique"
+subtitle: "Particularités en pédiatrie"
+author: "Dr Pauline Lallemant-Dudek"
+institute: "Service de MPR pédiatrique — Hôpital Armand Trousseau (Paris) | Sorbonne Université"
+include-in-header:
+  text: |
+    <style>
+      /* Bannière du congrès SFUPA 2026 en bas de la diapositive de titre, sous tout le reste */
+      .reveal #title-slide::after {
+        content: "";
+        display: block;
+        width: 100%;
+        height: 170px;
+        margin-top: 32px;
+        background: url("https://www.sfupa.fr/wp-content/uploads/2026/07/banner_seminaire_sfupa_2026-scaled.jpg") center / contain no-repeat;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+      }
+      /* Tableaux aux couleurs du site (bleus) */
+      .reveal .table-modern table {
+        border: 1px solid rgba(50, 150, 200, 0.35) !important;
+        box-shadow: 0 4px 14px rgba(29, 86, 143, 0.08) !important;
+      }
+      .reveal .table-modern table thead th {
+        background-color: #1d568f !important;
+        color: #FFFFFF !important;
+        border-bottom: 2px solid #3296c8 !important;
+      }
+      .reveal .table-modern table tbody td {
+        color: #333333 !important;
+        border-bottom: 1px solid rgba(50, 150, 200, 0.15) !important;
+      }
+      .reveal .table-modern table tbody tr:nth-child(odd) td {
+        background-color: #FFFFFF !important;
+      }
+      .reveal .table-modern table tbody tr:nth-child(even) td {
+        background-color: #EAF4FA !important;
+      }
+      /* Bibliographie : liens en rouge Sorbonne au lieu de l'orangé */
+      .reveal #refs .csl-entry a {
+        color: #AC172F !important;
+      }
+    </style>
+format:
+  revealjs:
+    incremental: false
+    css: style.css
+    logo: "https://sante.sorbonne-universite.fr/sites/default/files/media/2023-07/logo_sante_horiz_rvb.svg"
+    slide-number: c/t
+    show-slide-number: all
+    controls: true
+    controls-layout: edges
+    hash: true
+    history: true
+    navigation-mode: linear
+    width: 1280
+    height: 720
+    margin: 0.1
+    transition: fade
+    transition-speed: slow
+    background-transition: none
+    footer: "Dr Pauline Lallemant-Dudek — Le bilan urodynamique - Les particularités en pédiatrie"
+    bibliography: references.bib
+    citeproc: true
+    csl: https://www.zotero.org/styles/human-reproduction
+---
+
+# Ce qui est identique chez l'enfant et l'adulte {.center .section-slide}
+
+## La débitmétrie
+
+Pour les enfants en miction spontanée, elle peut être réalisée avant et / ou après la cystomanométrie.
+
+Un EMG périnéal peut être ajouté pour dépister une dyssynergie vésico-sphinctérienne.
+
+Le résidu post-mictionnel peut être mesuré par échographie, *bladder-scan*, ou lors du sondage vésical en début de cystomanométrie.
+
+::: {.g-card-red}
+Pour une interprétation juste, selon l'ICCS :
+
+- un lieu qui ressemble au domicile, ou plusieurs mesures,
+- un marche-pied, pour un plancher périnéal relâché,
+- l'envie mictionnelle et le délai depuis la dernière miction sont notés,
+- débitmétrie interprétable si le volume uriné est > 50 % de la CVT.
+:::
+
+[@austin2014standardisation]
+
+## La technique de cystomanométrie.
+
+Le principe de recueil de pression est le même chez l'enfant et l'adulte. 
+
+La technique de la cystomanométrie est identique :
+
+- cathéter transurétral double (4-6 French) ou triple lumière (à partir de 8 French)
+- sonde rectale à ballonnet, à air ou à eau (4-6 French)
+- connectés aux capteurs de pression après mise à zéro des lignes,
+- EMG peut être enregistré grâce à deux électrodes de surface périnéales et une électrode neutre positionnée sur une surface osseuse.
+
+Il est nécessaire de respecter les mêmes règles d’hygiène et de sécurité.
+
+## La profilométrie
+
+Généralement réalisée après la cystomanométrie, elle permet de mesurer la pression de fermeture urétrale et le profil de pression urétrale.
+
+ Elle se fait au moyen d’une sonde de perfusion à débit constant de 2 mL/min, retirée progressivement par un bras mécanique ou manuellement.
+
+ La réaliser après la cystomanométrie, évite de sonder une nouvelle fois l’urètre, ce qui est plus confortable pour l’enfant.
+
+
+# Ce qui est différent chez l'enfant et l'adulte {.center .section-slide}
+
+- L'nterprétation et les normes
+- La consultation préalable à l’examen
+- La réalisation en pratique de l'examen
+
+## La capacité vésicale théorique (CVT)
+
+La CVT est indispensable pour :
+
+- interpréter le calendrier mictionnel,
+- authentifier un résidu post-mictionnel,
+- calculer la vitesse de remplissage vésical,
+- interpréter de la cystomanométrie.
+
+Des normes sont fixées par l'**International Continence Child Society (ICCS)** en fonction de l'âge de l'enfant.
+
+## La capacité vésicale théorique (CVT)
+
+::: {.g-card-red}
+ Après 3 ans : 
+$$ \text{CVT} = (\text{âge} + 1) \times 30 $$
+
+::: {.small-text}
+*La CVT est exprimée en mL et l'âge est exprimé en années.*
+:::
+
+Au-delà de 12 ans : capacité vésicale adulte.
+:::
+
+::: {.g-card-red}
+ Avant 3 ans : 
+ $$ \text{CVT} = (\text{âge} \times 2.5) + 38 $$
+
+::: {.small-text}
+*La CVT est exprimée en mL et l'âge est exprimé en mois.*
+:::
+:::
+
+
+[@bauer2015international]
+[@austin2014standardisation]
+
+
+## Le résidu post-mictionnel (RPM)
+
+Chez le tout-petit, le résidu post-mictionnel est physiologique : les mictions sont généralement incomplètes. Il diminue au fur et à mesure de la croissance de l'enfant, les normes sont définies par l'ICCS. 
+  
+::: {.g-card-red}
+
+Le résidu post-mictionnel : 
+	
+- de 4 à 6 ans :
+	
+  - 1 mesure : + de 30 ml ou + de 21% de la CVT,
+	- 2 mesures : + de 20 ml ou ou + de 10% de la CVT,
+
+	
+- de 7 à 12 ans :
+	
+  - 1 mesure : + de 20 ml ou + de 15% de la CVT,
+	- 2 mesures : + de 10 ml ou ou + de 6% de la CVT,
+:::
+
+## La vitesse de remplissage vésical
+
+La vitesse dépend de l'âge de l'enfant. Elle est définie par l'ICCS, par :
+CVT / 20 en mL/min.
+
+Un remplissage vésical supérieur à la vitesse théorique peut entrainer une hyperactivité détrusorienne. Si un 1er remplissage vésical retrouve un résultat discordant avec la clinique, il est recommandé de réaliser un second remplissage vésical.
+
+:::: {.columns .font-small}
+::: {.column width="48%"}
+::: {.table-modern}
+| Âge | CVT (mL) | Débit (mL/min) |
+|:----|:--------:|:--------------:|
+| 6 mois | 53 | 2 |
+| 12 mois | 68 | 3 |
+| 18 mois | 83 | 4 |
+| 24 mois | 98 | 5 |
+| 36 mois | 128 | 6 |
+| 4 ans | 150 | 7 |
+| 5 ans | 180 | 9 |
+:::
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="48%"}
+::: {.table-modern}
+| Âge | CVT (mL) | Débit (mL/min) |
+|:----|:--------:|:--------------:|
+| 6 ans | 210 | 10 |
+| 7 ans | 240 | 12 |
+| 8 ans | 270 | 13 |
+| 9 ans | 300 | 15 |
+| 10 ans | 330 | 16 |
+| 11 ans | 360 | 18 |
+| 12 ans | 390 | 20 |
+:::
+:::
+::::
+
+::: {.small-text}
+*CVT et débit de remplissage conseillé pour les cystomanométries selon l'âge, de 6 mois à 12 ans.*
+:::
+
+[@bauer2015international]
+[@austin2014standardisation]
+
+## L'évaluation des besoins mictionnels
+
+Pas de norme définies pour l'évaluation des besoins mictionnels chez l'enfant. Il est recommandé de se baser sur le calendrier mictionnel et les symptômes urinaires.
+
+
+::: {.g-card-red}
+Le besoin peut être décrit comme :
+
+- normal, 
+- augmentés ou hypersensible,
+- diminués ou hyposensible,
+- absent.
+
+L'évaluation des besoins mictionnels avant l'apprentissage de la continence est impossible ou presque, plus facile après 6 ans.
+
+:::
+
+[@bauer2015international]
+
+## Les changements de pression détrusorienne
+
+::: {.g-card-red}
+Pour les CNID : 
+
+- la définition est identique à celle de l'adulte,
+- une augmentation de pression détrusorienne > 40 cmH2O est considérée comme à risque de lésion rénale,
+
+Mais chez l'enfant, il est important de noter que :
+
+- 10% de la population pédiatrique a des CNID au cours du remplissage de leur vessie sans qu’ils souffrent d’un dysfonctionnement neurologique, 
+- l’apparition de contractions à l’approche de la CVT doit être interprétée comme normale 
+:::
+
+## Les changements de pression détrusorienne
+
+::: {.g-card-blue}
+Le trouble de compliance a la même définition que chez l’adulte : une compliance < 20 mL/cmH2O est considérée comme anormale.
+:::
+
+::: {.g-card-red}
+Un **détrusor hypoactif** est défini comme : 
+
+- une absence de contraction ou contraction insuffisante avec un remplissage > à 150% de la CVT.
+:::
+[@bauer2015international]
+[@abrams2010standardization]
+[@ergun2022results]
+
+## Pendant le remplissage
+
+L'enfant doit rester le plus calme possible pendant les 20 minutes de remplissage. Selon son âge et ses capacités, il informe le soignant :
+
+- d'une **envie mictionnelle** : subjective chez l'enfant ; les soignants observent les comportements (flexion des orteils, jambes croisées...),
+- de l'apparition de **fuites** : le *Leak Point Pressure* (LPP) est considéré comme peu à risque pour les reins si < 40 cmH2O,
+- l'incontinence doit être recherchée et provoquée : *Valsalva Leak Point Pressure* (VLPP), sans norme pédiatrique spécifique.
+
+La fin du remplissage est décidée selon les symptômes (fuite, envie urgente, douleur) et la CVT ou la capacité maximale du calendrier mictionnel.
+
+::: {.g-card-green}
+Le soignant doit être présent et observer l'enfant tout au long de l'examen, **d'autant plus chez le tout-petit**.
+:::
+
+[@bauer2015international]
+[@meier_expert_2024]
+[@li_nomogram_2022]
+
+## Consultation préalable à l’examen
+
+Une consultation préalable à l’examen est indispensable pour :
+
+- réaliser un interrogatoire et un examen clinique,
+- vérifier l'indication du bilan uro-dynamique,
+- obtenir ou expliquer un calendrier mictionnel,
+- expliquer l’examen à l’enfant et à ses parents,
+- répondre aux premières questions de l'enfant et ses parents,
+- vérifier que la question posée par le médecin prescripteur pourra être répondue par l’examen,
+- vérifier l’absence de constipation,
+- obtenir le consentement éclairé de l’enfant (selon son âge) et de ses parents.
+
+## L'interrogatoire et l'examen clinique
+
+Les principaux éléments à rechercher sont : 
+
+1. un signe de dysraphisme sur le raphée médian,
+2. à l’examen neurologique : déficit musculaire ou asymétrie pouvant orienter vers une atteinte neurologique,
+3. des malformations des organes génitaux externes.
+
+
+## Le calendrier mictionnel
+
+Il est important de réaliser un calendrier mictionnel **avant le bilan urodynamique** pour : 
+
+1. Évaluer la capacité vésicale par rapport à la capacité vésicale théorique
+2. Vérifier l’absence de trouble urinaire diurne
+3. Évaluer les volumes urinés au cours de la nuit : → recherche de polyurie nocturne.
+
+# Le jour du BUD
+
+- L'ECBU pré-BUD
+- L'installation de l'enfant
+- La prémédication
+
+## L'ECBU pré-BUD
+
+Il s'agit d'une mesure de précaution, actuellement discutée.
+
+::: {.g-card-red}
+La dernière revue systématique recommande de réaliser le BUD en pédiatrie sur des **urines stériles ou traitées**, pour diminuer le risque de bactériurie, sans modification du risque d'infection après l'examen.
+
+Ce prérequis est repris dans les dernières recommandations, mais il est en débat actuellement.
+:::
+
+[@foon_prophylactic_nodate]
+[@tekgul_eau-espu_2020]
+
+
+## L'installation de l'enfant
+
+Il est important de redire à l’enfant et ses parents le déroulé de l’examen, de le rassurer et de lui demander si des questions persistent.
+
+::: {.g-card-blue}
+En pratique :
+
+- l'enfant est allongé sur le dos, pas forcément en position gynécologique,
+- un parent est invité à rester à côté si l'enfant le souhaite,
+- les soignants respectent l'intimité autant que possible : 
+  - paravent, 
+  - recouvrir le périnée.
+:::
+
+## La prémédication
+
+Pour les enfants en miction spontanée, les prémédications possibles sont :
+
+- le saccharose (sucre) pour les nourrissons,
+- l'inhalation de protoxyde d'azote (MEOPA) lors de la pose des sondes,
+- la distraction (livres, chants, bulles, vidéo, tablette ...),
+- la prémédication orale par midazolam (BUCCOLAM®).
+
+::: {.g-card-red}
+En France, le MEOPA est utilisé de manière quasi systématique lors de la pose des sondes. Sur prescription médicale, il est possible d'ajouter du gel à la xylocaïne, un anxiolytique ou une benzodiazépine à effet rapide.
+
+**Attention** : la rétention urinaire est un effet indésirable connu des benzodiazépines. Leur sécurité et leur innocuité pour l'interprétation du BUD ont toutefois été vérifiées.
+:::
+
+[@bozkurt_effects_1996]
+[@thevaraja_comparison_2013]
+[@keidan_sedation_2005]
+
+
+# 2 points pour examen particuliers :
+
+- Les examens vidéo-urodynamiques
+- Les courbes débit-pression
+
+## Les examens vidéo-urodynamiques
+
+Cet examen combine une cystographie rétrograde à un BUD. 
+
+Lors d’une vidéo-urodynamique, c’est un produit de contraste qui est instillé. 
+
+L’association de ces 2 examens permet de savoir pour quel volume précisément et surtout pour **quelle pression intra-vésicale** apparait le reflux vésico-urétéral. Les informations sont donc **fonctionnelles et morphologiques**.
+
+::: {.g-card-blue}
+Le vidéo BUD est recommandé en pédiatrie pour le suivi des vessies à risque en cas de reflux vésico-urétéral ou d’infection urinaire haute par EAU et ESPU.
+:::
+
+::: {.g-card-red}
+En pédiatrie, il est demandé d'exposer les enfants le moins possible aux rayonnements, selon la recommandation « *As low as reasonable* » (ALARA).
+:::
+
+[@anding2016should]
+[@stein_eauespu_2020]
+[@kennady_novel_2024]
+
+## Les courbes débit-pression
+
+La miction volontaire sur table est très difficile à obtenir chez un enfant avec une sonde urinaire en place, jeune ou anxieux.
+
+::: {.g-card-red}
+Les pressions détrusoriennes mictionnelles décrites comme normales sont **plus élevées chez l'enfant que chez l'adulte** :
+
+- garçon : entre 118 et 127 cmH2O,
+- fille : entre 72 et 75 cmH2O.
+:::
+
+[@bachelard_urodynamic_1999]
+[@yeung_new_1995]
+
+# Conclusion {.center .section-slide}
+
+## En conclusion
+
+::: {.g-card-green}
+- Le BUD est faisable chez l'enfant, à tout âge.
+- Les grands principes de l'examen sont les mêmes que chez l'adulte.
+- Un environnement adapté est indispensable pour que l'enfant et ses accompagnants soient en confiance.
+- Les normes de l'ICCS sont à connaître pour réaliser et interpréter les courbes.
+:::
+
+Les courbes ne peuvent être lues sans connaître l'évaluation clinique préalable :
+
+- l'âge du patient,
+- son statut mictionnel (continence acquise ou non).
+
+Examen invasif, le BUD ne doit pas être réalisé sans le consentement de l'enfant ni sous contention → il faut souvent adapter les distractions et prémédications, voire reporter l'examen.
+
+::: {.g-card-red}
+La littérature pédiatrique est moins étoffée que chez l'adulte.
+:::
+
+# Bibliographie {.center}
+
+::: {#refs}
+::: 
