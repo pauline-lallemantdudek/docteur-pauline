@@ -220,3 +220,21 @@ h2 {
     color: #8F3B1D;
   }
 }
+
+// Bouton « Monographie » (page Cours) : vert sauge, assorti au badge « Nouveau »
+.btn.monographie {
+  color: $sage;
+  background-color: transparent;
+  border: 1px solid $sage;
+  font-weight: 600;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+
+  &:hover,
+  &:focus {
+    background-color: $sage;
+    border-color: $sage;
+    color: #FFFFFF;
+    box-shadow: 0 4px 12px rgba(92, 112, 99, 0.25);
+  }
+}

@@ -42,7 +42,7 @@ Particularités en pédiatrie.
 ::: {.d-flex .gap-2 .mt-3}
 [Consulter](bilanUroPed.qmd){.btn .btn-sm .btn-outline-primary target="_blank"}
 [Version PDF ↗](bilanUroPed.html?print-pdf){.btn .btn-sm .btn-secondary target="_blank"}
-[Monographie](monographie-bilan-urodynamique.qmd){.btn .btn-sm .btn-outline-primary}
+[Monographie](monographie-bilan-urodynamique.qmd){.btn .btn-sm .monographie}
 :::
 :::
 :::
