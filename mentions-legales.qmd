@@ -1,0 +1,37 @@
+---
+title: "Mentions légales"
+description: "Mentions légales du site docteur-pauline.fr : éditrice, hébergement, données personnelles et responsabilité."
+toc: false
+---
+
+## Éditrice et directrice de la publication
+
+**Dr Pauline Lallemant-Dudek**  
+Médecin spécialiste en Médecine Physique et de Réadaptation  
+Maître de conférences des universités — Praticien hospitalier (Sorbonne Université, AP-HP)  
+N° RPPS : 10101093945  
+Contact : [pauline.lallemant@aphp.fr](mailto:pauline.lallemant@aphp.fr)
+
+Lieu d'exercice : Service de Médecine Physique et Réadaptation pédiatrique, Hôpital Armand-Trousseau (AP-HP), 26 avenue du Docteur Arnold-Netter, 75012 Paris.
+
+## Hébergement
+
+GitHub Inc. (GitHub Pages)  
+88 Colin P. Kelly Jr Street, San Francisco, CA 94107, États-Unis  
+<https://github.com>
+
+## Nature des informations
+
+Ce site présente le parcours professionnel, les activités d'enseignement et les modalités de consultation du Dr Pauline Lallemant-Dudek. Les informations publiées respectent les règles de communication des médecins prévues par le Code de la santé publique (article R.4127-19-1).
+
+Les contenus médicaux et supports de cours sont destinés à l'information et à la formation. Ils ne remplacent pas une consultation médicale. **En cas d'urgence, appelez le 15 ou le 112.**
+
+## Données personnelles et cookies
+
+Ce site ne dépose aucun cookie, n'utilise aucun outil de mesure d'audience et ne collecte aucune donnée personnelle. Les polices de caractères sont chargées depuis le service Google Fonts, ce qui transmet l'adresse IP du visiteur à Google.
+
+La prise de rendez-vous en ligne s'effectue sur le site Doctolib, qui dispose de sa propre politique de confidentialité.
+
+## Propriété intellectuelle
+
+Les textes et supports de cours sont la propriété de leur autrice. Toute reproduction à des fins commerciales est interdite sans autorisation. Les noms et logos de Sorbonne Université et de l'AP-HP appartiennent à leurs titulaires respectifs.
