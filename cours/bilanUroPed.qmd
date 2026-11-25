@@ -31,7 +31,6 @@ format:
 
 ## La débitmétrie
 
-
 Pour les enfants en miction spontanée, elle peut être réalisée avant et / ou après la cystomanométrie.
 
 Un EMG périnéal peut être ajouté pour dépister une dyssynergie vésico-sphinctérienne.
@@ -45,15 +44,14 @@ Photo
 Le principe de recueil de pression est le même chez l'enfant et l'adulte. 
 
 La technique de la cystomanométrie est identique :
-- cathéter transurétral thermoplastique double (4-6 French) ou triple lumière (à partir de 8 French)
-- sonde rectale à ballonnet, à air ou à liquide (4-6 French)
+- cathéter transurétral double (4-6 French) ou triple lumière (à partir de 8 French)
+- sonde rectale à ballonnet, à air ou à eau (4-6 French)
 - connectés aux capteurs de pression après mise à zéro des lignes,
 - EMG peut être enregistré grâce à deux électrodes de surface périnéales et une électrode neutre positionnée sur une surface osseuse.
 
 Il est nécessaire de respecter les mêmes règles d’hygiène et de sécurité.
 
 ## La profilométrie
-
 
 Généralement réalisée après la cystomanométrie, elle permet de mesurer la pression de fermeture urétrale et le profil de pression urétrale.
 
@@ -64,82 +62,121 @@ Généralement réalisée après la cystomanométrie, elle permet de mesurer la 
 
 # Ce qui est différent chez l'enfant et l'adulte {.center .section-slide}
 
-- Informations et consultation préalable à l’examen
 - Interprétation et normes
+- Consultation préalable à l’examen
+- Réalisation en pratique de l'examen
 
-## La capacité vésicale théorique
+## La capacité vésicale théorique (CVT)
 
 La CVT est indispensable pour :
+
 - interpréter le calendrier mictionnel,
-- authentifer un résidu post-mictionnel,
+- authentifier un résidu post-mictionnel,
 - calculer la vitesse de remplissage vésical,
-- interprétation de la cystomanométrie.
+- interpréter de la cystomanométrie.
 
-Des normes sont fixées par l'International Continence Child Society (ICCS) en fonction de l'âge de l'enfant.
+Des normes sont fixées par l'**International Continence Child Society (ICCS)** en fonction de l'âge de l'enfant.
 
-La **C**apacité **V**ésicale **T**héorique en mL :
-
+::: {.g-card-red}
+ Après 3 ans : 
 $$ \text{CVT} = (\text{âge} + 1) \times 30 $$
 
 ::: {.small-text}
-*L'âge est exprimé en années.*
+*La CVT est exprimée en mL et l'âge est exprimé en années.*
+:::
+
+Au-delà de 13 ans environ, on estime que la capacité vésicale théorique atteint 400 ml environ (capacité vésicale adulte).
 :::
 
 ::: {.g-card-red}
-Cette formule est valide de 3 ans jusqu’à l’âge de 13 ans environ où la capacité vésicale théorique atteint 400 ml environ (capacité vésicale adulte).
-:::
-
  Avant 3 ans : 
  $$ \text{CVT} = (\text{âge} \times 2.5) + 38 $$
 
 ::: {.small-text}
-*L'âge est exprimé en mois.*
+*La CVT est exprimée en mL et l'âge est exprimé en mois.*
+:::
 :::
 
-## Le résidu post-mictionnel
+
+[@bauer2015international]
+[@austin2014standardisation]
+
+
+## Le résidu post-mictionnel (RPM)
 
 Chez le tout-petit, le résidu post-mictionnel est physiologique : les mictions sont généralement incomplètes. Il diminue au fur et à mesure de la croissance de l'enfant, les normes sont définies par l'ICCS. 
   
-	 Le résidu post-mictionnel : 
-	
-	 de 4 à 6 ans :
-	
-	 1 mesure : + de 30 ml ou + de 21% de la CVT,
-	 2 mesures : + de 20 ml ou ou + de 10% de la CVT,
-	
+::: {.g-card-red}
 
-	 de 7 à 12 ans :
+Le résidu post-mictionnel : 
 	
-	 1 mesure : + de 20 ml ou + de 15% de la CVT,
-	 2 mesures : + de 10 ml ou ou + de 6% de la CVT,
+- de 4 à 6 ans :
+	
+  - 1 mesure : + de 30 ml ou + de 21% de la CVT,
+	- 2 mesures : + de 20 ml ou ou + de 10% de la CVT,
+
+	
+- de 7 à 12 ans :
+	
+  - 1 mesure : + de 20 ml ou + de 15% de la CVT,
+	- 2 mesures : + de 10 ml ou ou + de 6% de la CVT,
+:::
 
 Tableau
 
 ## La vitesse de remplissage vésical
 
-Définie par l'ICCS, par la CVT / 20 en mL/min.
+La vitesse dépend de l'âge de l'enfant. Elle est définie par l'ICCS, par :
+CVT / 20 en mL/min.
 
-Un remplissage vésical supérieur à la vitesse de remplissage vésical théorique est peut entrainer une hyperactivité vésicale. Si un 1er remplissage vésical retrouve un résultat discordant avec la clinique, il est recommandé de réaliser un second remplissage vésical.
+Un remplissage vésical supérieur à la vitesse théorique peut entrainer une hyperactivité détrusorienne. Si un 1er remplissage vésical retrouve un résultat discordant avec la clinique, il est recommandé de réaliser un second remplissage vésical.
 
 Tableau
 
 ## L'évaluation des besoins mictionnels
 
 Pas de norme définies pour l'évaluation des besoins mictionnels chez l'enfant. Il est recommandé de se baser sur le calendrier mictionnel et les symptômes urinaires.
-normal, increased (hypersensitive), reduced (hyposensitive), or absent.
+
+
+::: {.g-card-red}
+Le besoin peut être décrit comme :
+
+- normal, 
+- augmentés ou hypersensible,
+- diminués ou hyposensible,
+- absent.
+
+L'évaluation des besoins mictionnels avant l'apprentissage de la continence est impossible ou presque, plus facile après 6 ans.
+
+:::
+
+[@bauer2015international]
 
 ## Les changements de pression détrusorienne
 
+::: {.g-card-red}
 Pour les CNID : 
-- la définition est identique à celle de l'adulte
-- une augmentation de pression détrusorienne > 40 cmH2O est considérée comme à risque de lésion rénale. 
+
+- la définition est identique à celle de l'adulte,
+- une augmentation de pression détrusorienne > 40 cmH2O est considérée comme à risque de lésion rénale,
+
+Mais chez l'enfant, il est important de noter que :
 - 10% de la population pédiatrique a des CNID au cours du remplissage de leur vessie sans qu’ils souffrent d’un dysfonctionnement neurologique, 
 - l’apparition de contractions à l’approche de la CVT doit être interprétée comme normale 
+:::
 
+::: {.g-card-red}
 Le trouble de compliance a la même définition que chez l’adulte : une compliance < 20 mL/cmH2O est considérée comme anormale.
+:::
 
+::: {.g-card-red}
 Un détrusor hypoactif est défini comme : 
-- absence de contraction oou contraction insuffisante avec un remplissage > à 150% de la CVT.
+
+- absence de contraction ou contraction insuffisante avec un remplissage > à 150% de la CVT.
+:::
+[@bauer2015international]
+[@abrams2010standardization]
+[@ergun2022results]
 
 ## Consultation préalable à l’examen
 
@@ -155,8 +192,6 @@ Une consultation préalable à l’examen est indispensable pour :
 
 - obtenir le consentement éclairé de l’enfant (selon son âge) et de ses parents.
 
-
-# Le bilan minimal nécessaire
 
 ## L'interrogatoire
 
