@@ -37,7 +37,18 @@ Un EMG périnéal peut être ajouté pour dépister une dyssynergie vésico-sphi
 
 Le résidu post-mictionnel peut être mesuré par échographie, *bladder-scan*, ou lors du sondage vésical en début de cystomanométrie.
 
+::: {.g-card-red}
+Pour une interprétation juste, selon l'ICCS :
+
+- un lieu qui ressemble au domicile, ou plusieurs mesures,
+- un marche-pied, pour un plancher périnéal relâché,
+- l'envie mictionnelle et le délai depuis la dernière miction sont notés,
+- débitmétrie interprétable si le volume uriné est > 50 % de la CVT.
+:::
+
 Photo
+
+[@austin2014standardisation]
 
 ## La technique de cystomanométrie.
 
@@ -131,7 +142,45 @@ CVT / 20 en mL/min.
 
 Un remplissage vésical supérieur à la vitesse théorique peut entrainer une hyperactivité détrusorienne. Si un 1er remplissage vésical retrouve un résultat discordant avec la clinique, il est recommandé de réaliser un second remplissage vésical.
 
-Tableau
+:::: {.columns .font-small}
+::: {.column width="48%"}
+::: {.table-modern}
+| Âge | CVT (mL) | Débit (mL/min) |
+|:----|:--------:|:--------------:|
+| 6 mois | 53 | 2 |
+| 12 mois | 68 | 3 |
+| 18 mois | 83 | 4 |
+| 24 mois | 98 | 5 |
+| 36 mois | 128 | 6 |
+| 4 ans | 150 | 7 |
+| 5 ans | 180 | 9 |
+:::
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="48%"}
+::: {.table-modern}
+| Âge | CVT (mL) | Débit (mL/min) |
+|:----|:--------:|:--------------:|
+| 6 ans | 210 | 10 |
+| 7 ans | 240 | 12 |
+| 8 ans | 270 | 13 |
+| 9 ans | 300 | 15 |
+| 10 ans | 330 | 16 |
+| 11 ans | 360 | 18 |
+| 12 ans | 390 | 20 |
+:::
+:::
+::::
+
+::: {.small-text}
+*CVT et débit de remplissage conseillé pour les cystomanométries selon l'âge, de 6 mois à 12 ans.*
+:::
+
+[@bauer2015international]
+[@austin2014standardisation]
 
 ## L'évaluation des besoins mictionnels
 
@@ -177,6 +226,24 @@ Un détrusor hypoactif est défini comme :
 [@bauer2015international]
 [@abrams2010standardization]
 [@ergun2022results]
+
+## Pendant le remplissage
+
+L'enfant doit rester le plus calme possible pendant les 20 minutes de remplissage. Selon son âge et ses capacités, il informe le soignant :
+
+::: {.g-card-red}
+- d'une **envie mictionnelle** : subjective chez l'enfant ; les soignants observent les comportements (flexion des orteils, jambes croisées...),
+- de l'apparition de **fuites** : le *Leak Point Pressure* (LPP) est considéré comme peu à risque pour les reins si < 40 cmH2O,
+- l'incontinence doit être recherchée et provoquée : *Valsalva Leak Point Pressure* (VLPP), sans norme pédiatrique spécifique.
+:::
+
+La fin du remplissage est décidée selon les symptômes (fuite, envie urgente, douleur) et la CVT ou la capacité maximale du calendrier mictionnel.
+
+Le soignant doit être présent et observer l'enfant tout au long de l'examen, d'autant plus chez le tout-petit.
+
+[@bauer2015international]
+[@meier_expert_2024]
+[@li_nomogram_2022]
 
 ## Consultation préalable à l’examen
 
@@ -232,6 +299,15 @@ Pour :
 
 Il s'agit d'une mesure de précaution, actuellement discutée.
 
+::: {.g-card-red}
+La dernière revue systématique recommande de réaliser le BUD en pédiatrie sur **urines stériles ou traitées**, pour diminuer le risque de bactériurie, sans modification du risque d'infection après l'examen.
+
+Ce prérequis est repris dans les dernières recommandations, mais il est en débat actuellement.
+:::
+
+[@foon_prophylactic_nodate]
+[@tekgul_eau-espu_2020]
+
 
 ## L'installation de l'enfant
 
@@ -250,6 +326,16 @@ Pour les enfants en miction spontanée, les prémédications possibles sont :
 - la distraction (livres, chants, bulles, vidéo, tablette ...),
 - la prémédication orale par midazolam (buccolam(R)),
 
+::: {.g-card-red}
+En France, le MEOPA est utilisé de manière quasi systématique lors de la pose des sondes. Sur prescription médicale, il est possible d'ajouter du gel à la xylocaïne, un anxiolytique ou une benzodiazépine à effet rapide.
+
+**Attention** : la rétention urinaire est un effet indésirable connu des benzodiazépines. Leur sécurité et leur innocuité pour l'interprétation du BUD ont toutefois été vérifiées.
+:::
+
+[@bozkurt_effects_1996]
+[@thevaraja_comparison_2013]
+[@keidan_sedation_2005]
+
 
 # 2 points pour examen particuliers :
 
@@ -262,11 +348,59 @@ Cet examen combine une cystographie rétrograde à un BUD. Lors d’une vidéo-u
 
 Il est recommandé en pédiatrie pour le suivi des vessies à risque en cas de reflux vésico-urétéral ou d’infection urinaire haute par EAU et ESPU.
 
+::: {.g-card-red}
+En pédiatrie, il est demandé d'exposer les enfants le moins possible aux rayonnements, selon la recommandation « *As low as reasonable* » (ALARA).
+:::
+
 [@anding2016should]
+[@stein_eauespu_2020]
+[@kennady_novel_2024]
 
 ## Les courbes débit-pression
 
+La miction volontaire sur table est très difficile à obtenir chez un enfant jeune ou anxieux, contrairement à la miction sur CNID dans le cadre d'une HAD ou d'une vessie neurologique.
+
+::: {.g-card-red}
+Les pressions détrusoriennes mictionnelles décrites comme normales sont **plus élevées chez l'enfant que chez l'adulte** :
+
+- garçon : entre 118 et 127 cmH2O,
+- fille : entre 72 et 75 cmH2O.
+:::
+
+[@bachelard_urodynamic_1999]
+[@yeung_new_1995]
+
+## Étiologies des troubles urinaires de l'enfant
+
+Les troubles vésico-sphinctériens de l'enfant ont des étiologies différentes de ceux de l'adulte.
+
+::: {.table-modern .font-small}
+| Pathologie | Symptomatologie urinaire | Résultats urodynamiques |
+|:-----------|:-------------------------|:------------------------|
+| Enurésie primaire | Fuites urinaires sur le temps du sommeil uniquement | BUD normal |
+| Hyperactivité détrusorienne idiopathique | Urgenturie, fuites urinaires nuit et jour. Examen neurologique normal | HAD |
+| Constipation | Urgenturies, cystites, fuites urinaires | HAD et DVS possibles |
+| Dysraphisme spinal | Fuites urinaires jour et nuit, dysurie voire rétention urinaire, pyélonéphrites et cystites | HAD, DVS, insuffisance sphinctérienne |
+| Uretère ectopique | Fuites urinaires insensibles jour et nuit en petite quantité | BUD normal |
+| Valves de l'urètre postérieure | Urgenturies, dysurie, fuites urinaires | Débit urinaire diminué avec miction longue, HAD possible |
+:::
+
 # Conclusions {.center .section-slide}
+
+## En résumé
+
+::: {.g-card-red}
+- Le BUD est faisable chez l'enfant, à tout âge.
+- Les grands principes de l'examen sont les mêmes que chez l'adulte.
+- Un environnement adapté est indispensable pour que l'enfant et ses accompagnants soient en confiance.
+- Les normes de l'ICCS sont à connaître pour réaliser et interpréter les courbes.
+:::
+
+Les courbes ne peuvent être lues sans connaître l'évaluation clinique préalable, l'âge du patient et son statut mictionnel (continence acquise ou non).
+
+Examen invasif, le BUD ne doit pas être réalisé sans le consentement de l'enfant ni sous contention : il faut souvent adapter les distractions et prémédications, voire le reporter.
+
+La littérature pédiatrique, moins étoffée que chez l'adulte, nécessite une lecture critique.
 
 # Bibliographie {.center}
 

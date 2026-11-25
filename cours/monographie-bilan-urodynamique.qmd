@@ -62,7 +62,7 @@ format:
 
 Service de Médecine Physique et de Réadaptation pédiatrique, Hôpital Armand Trousseau, APHP, Sorbonne Université
 
-## Abréviations :
+## Abbréviations :
 
 - AG : anesthésie générale
 - BUD : bilan urodynamique
