@@ -95,7 +95,7 @@ Le principe de recueil de pression est le même chez l'enfant et l'adulte.
 
 La technique de la cystomanométrie est identique :
 
-- cathéter transurétral double (4-6 French) ou triple lumière (à partir de 8 French)
+- cathéter transurétral double (6 French)
 - sonde rectale à ballonnet, à air ou à eau (4-6 French)
 - connectés aux capteurs de pression après mise à zéro des lignes,
 - EMG peut être enregistré grâce à deux électrodes de surface périnéales et une électrode neutre positionnée sur une surface osseuse.
@@ -415,7 +415,7 @@ En pédiatrie, il est demandé d'exposer les enfants le moins possible aux rayon
 
 La miction volontaire sur table est très difficile à obtenir chez un enfant avec une sonde urinaire en place, jeune ou anxieux.
 
-::: {.g-card-red}
+::: {.g-card-green}
 Les pressions détrusoriennes mictionnelles décrites comme normales sont **plus élevées chez l'enfant que chez l'adulte** :
 
 - garçon : entre 118 et 127 cmH2O,
@@ -432,6 +432,14 @@ La présence d'un obstacle sous vésical est suspectée en cas de débit urinair
 - pour les filles : > 63 cmH20.
 :::
 [@wen2018ics]
+
+::: {.g-card-red}
+La présence d'une sonde urinaire modifie significativement le débit max et le "flow index" :
+
+- diminution de 19% à 45 % du débit max,
+- débit maximum + diminué chez le garçon que la fille.
+:::
+
 
 # Conclusion {.center .section-slide}
 
