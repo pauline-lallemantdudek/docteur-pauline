@@ -95,7 +95,7 @@ En plus de l'interrogatoire, dans un but de recherche étiologique, il est utile
 
 -   Un examen des organes génitaux externes : recherche d'anomalie anatomique congénitale (par exemple : cryptorchidie, hypospade, phimosis, sténose du méat urinaire chez le garçon circoncis, anus antéposé).
 
-Le BUD étant une méthode d'investigation invasive du bas appareil urinaire, sa prescription ne doit se faire que devant une question urodynamique précise restant sans réponse après avoir analysé les données de l'interrogatoire, de l'examen clinique et des examens complémentaires non invasifs à réaliser de manière systématique (calendrier mictionnel, débitmétrie, échographie vésico-rénale). Le BUD est alors prescrit afin de répondre aux questions encore sans réponse : mécanismes physiopathologiques des symptômes, éléments étiologiques, topographiques ou pronostiques, évaluation d'un effet thérapeutique, recherche de situation à risque rénal. Cette réflexion doit être en lien avec l'âge de l'enfant mais également ses capacités attentionnelles ou de participation (troubles du spectre autistique, polyhandicap...).
+Le BUD étant une méthode d'investigation invasive du bas appareil urinaire, sa prescription ne doit se faire que devant une question urodynamique précise restant sans réponse après avoir analysé les données de l'interrogatoire, de l'examen clinique et des examens complémentaires non invasifs à réaliser de manière systématique (calendrier mictionnel, débitmétrie, échographie vésico-rénale). Le BUD est alors prescrit afin de répondre aux questions encore sans réponse : mécanismes physiopathologiques des symptômes, éléments étiologiques, topographiques ou pronostiques, évaluation d'un effet thérapeutique, recherche de situation à risque rénal. Cette réflexion doit être en lien avec l'âge de l'enfant mais également ses capacités attentionnelles ou de participation (troubles du spectre autistique, polyhandicap...)(21).
 
 ### Information du patient et de sa famille
 
@@ -232,6 +232,8 @@ Les troubles vésico-sphinctériens de l'enfant ont des étiologies différentes
 19\. Anding R, Smith P, de Jong T, Constantinou C, Cardozo L, Rosier P. When should video and EMG be added to urodynamics in children with lower urinary tract dysfunction and is this justified by the evidence? ICI-RS 2014. Neurourol Urodyn. févr 2016;35(2):331‑5.
 
 20\. Kennady E, Hutchison D, Corbett ST, Leroy S, Morgan K, Daugherty R, et al. Novel use of contrast enhanced ultrasonography with urodynamics in children: A comparison study to fluoroscopy. Neurourol Urodyn. mars 2024;43(3):711‑8.
+
+21\. ABDELLAOUI, Sarah, PHÉ, Véronique, et LALLEMANT-DUDEK, Pauline. Méthodologie et interprétation du bilan urodynamique chez l’enfant: enjeux et spécificités. Progrès en Urologie-FMC, 2025.
 
   --------------------------------------------------------------------------------------------------------------
   Age du patient   Capacité Vésicale Théorique (ml)   Débit de remplissage pour la cystomanométrie (en ml/min)
