@@ -130,7 +130,7 @@ Des normes sont fixées par l'**International Continence Child Society (ICCS)** 
 
 ## La capacité vésicale théorique (CVT)
 
-::: {.g-card-red}
+::: {.g-card-green}
  Après 3 ans : 
 $$ \text{CVT} = (\text{âge} + 1) \times 30 $$
 
@@ -141,7 +141,7 @@ $$ \text{CVT} = (\text{âge} + 1) \times 30 $$
 Au-delà de 12 ans : capacité vésicale adulte.
 :::
 
-::: {.g-card-red}
+::: {.g-card-green}
  Avant 3 ans : 
  $$ \text{CVT} = (\text{âge} \times 2.5) + 38 $$
 
@@ -159,26 +159,30 @@ Au-delà de 12 ans : capacité vésicale adulte.
 
 Chez le tout-petit, le résidu post-mictionnel est physiologique : les mictions sont généralement incomplètes. Il diminue au fur et à mesure de la croissance de l'enfant, les normes sont définies par l'ICCS. 
   
-::: {.g-card-red}
+::: {.g-card-green}
 
 Le résidu post-mictionnel : 
 	
 - de 4 à 6 ans :
 	
   - 1 mesure : + de 30 ml ou + de 21% de la CVT,
+  ou
 	- 2 mesures : + de 20 ml ou ou + de 10% de la CVT,
 
 	
 - de 7 à 12 ans :
 	
   - 1 mesure : + de 20 ml ou + de 15% de la CVT,
+  ou
 	- 2 mesures : + de 10 ml ou ou + de 6% de la CVT,
 :::
 
 ## La vitesse de remplissage vésical
 
-La vitesse dépend de l'âge de l'enfant. Elle est définie par l'ICCS, par :
+::: {.g-card-red}
+La vitesse de remplissage dépend de l'âge de l'enfant. Elle est définie par l'ICCS, par :
 CVT / 20 en mL/min.
+:::
 
 Un remplissage vésical supérieur à la vitesse théorique peut entrainer une hyperactivité détrusorienne. Si un 1er remplissage vésical retrouve un résultat discordant avec la clinique, il est recommandé de réaliser un second remplissage vésical.
 
@@ -227,7 +231,7 @@ Un remplissage vésical supérieur à la vitesse théorique peut entrainer une h
 Pas de norme définies pour l'évaluation des besoins mictionnels chez l'enfant. Il est recommandé de se baser sur le calendrier mictionnel et les symptômes urinaires.
 
 
-::: {.g-card-red}
+::: {.g-card-green}
 Le besoin peut être décrit comme :
 
 - normal, 
@@ -243,12 +247,14 @@ L'évaluation des besoins mictionnels avant l'apprentissage de la continence est
 
 ## Les changements de pression détrusorienne
 
-::: {.g-card-red}
+::: {.g-card-green}
 Pour les CNID : 
 
 - la définition est identique à celle de l'adulte,
 - une augmentation de pression détrusorienne > 40 cmH2O est considérée comme à risque de lésion rénale,
+:::
 
+::: {.g-card-red}
 Mais chez l'enfant, il est important de noter que :
 
 - 10% de la population pédiatrique a des CNID au cours du remplissage de leur vessie sans qu’ils souffrent d’un dysfonctionnement neurologique, 
@@ -257,11 +263,11 @@ Mais chez l'enfant, il est important de noter que :
 
 ## Les changements de pression détrusorienne
 
-::: {.g-card-blue}
+::: {.g-card-green}
 Le trouble de compliance a la même définition que chez l’adulte : une compliance < 20 mL/cmH2O est considérée comme anormale.
 :::
 
-::: {.g-card-red}
+::: {.g-card-green}
 Un **détrusor hypoactif** est défini comme : 
 
 - une absence de contraction ou contraction insuffisante avec un remplissage > à 150% de la CVT.
@@ -280,7 +286,7 @@ L'enfant doit rester le plus calme possible pendant les 20 minutes de remplissag
 
 La fin du remplissage est décidée selon les symptômes (fuite, envie urgente, douleur) et la CVT ou la capacité maximale du calendrier mictionnel.
 
-::: {.g-card-green}
+::: {.g-card-red}
 Le soignant doit être présent et observer l'enfant tout au long de l'examen, **d'autant plus chez le tout-petit**.
 :::
 
@@ -294,29 +300,34 @@ Une consultation préalable à l’examen est indispensable pour :
 
 - réaliser un interrogatoire et un examen clinique,
 - vérifier l'indication du bilan uro-dynamique,
-- obtenir ou expliquer un calendrier mictionnel,
+- obtenir ou expliquer **un calendrier mictionnel**,
 - expliquer l’examen à l’enfant et à ses parents,
 - répondre aux premières questions de l'enfant et ses parents,
 - vérifier que la question posée par le médecin prescripteur pourra être répondue par l’examen,
 - vérifier l’absence de constipation,
+
+
+::: {.g-card-green}
 - obtenir le consentement éclairé de l’enfant (selon son âge) et de ses parents.
+:::
 
 ## L'interrogatoire et l'examen clinique
 
 Les principaux éléments à rechercher sont : 
 
-1. un signe de dysraphisme sur le raphée médian,
-2. à l’examen neurologique : déficit musculaire ou asymétrie pouvant orienter vers une atteinte neurologique,
-3. des malformations des organes génitaux externes.
+A l'interrogatoire :
+
+- confirmer les symptômes urinaires diurnes et nocturnes,
+- rechercher des antécédents de malformations, d’infections urinaires, de constipation.
 
 
-## Le calendrier mictionnel
+A l'examen clinique :
 
-Il est important de réaliser un calendrier mictionnel **avant le bilan urodynamique** pour : 
+- un signe de dysraphisme sur le raphée médian,
+- à l’examen neurologique : déficit musculaire ou asymétrie pouvant orienter vers une atteinte neurologique,
+- une malformation des organes génitaux externes.
 
-1. Évaluer la capacité vésicale par rapport à la capacité vésicale théorique
-2. Vérifier l’absence de trouble urinaire diurne
-3. Évaluer les volumes urinés au cours de la nuit : → recherche de polyurie nocturne.
+
 
 # Le jour du BUD
 
@@ -328,7 +339,7 @@ Il est important de réaliser un calendrier mictionnel **avant le bilan urodynam
 
 Il s'agit d'une mesure de précaution, actuellement discutée.
 
-::: {.g-card-red}
+::: {.g-card-blue}
 La dernière revue systématique recommande de réaliser le BUD en pédiatrie sur des **urines stériles ou traitées**, pour diminuer le risque de bactériurie, sans modification du risque d'infection après l'examen.
 
 Ce prérequis est repris dans les dernières recommandations, mais il est en débat actuellement.
@@ -414,6 +425,14 @@ Les pressions détrusoriennes mictionnelles décrites comme normales sont **plus
 [@bachelard_urodynamic_1999]
 [@yeung_new_1995]
 
+::: {.g-card-green}
+La présence d'un obstacle sous vésical est suspectée en cas de débit urinaire lent pour pression détrusorienne élevée soit : 
+
+- pour les garçons : > 74 cmH20, 
+- pour les filles : > 63 cmH20.
+:::
+[@wen2018ics]
+
 # Conclusion {.center .section-slide}
 
 ## En conclusion
@@ -430,10 +449,8 @@ Les courbes ne peuvent être lues sans connaître l'évaluation clinique préala
 - l'âge du patient,
 - son statut mictionnel (continence acquise ou non).
 
-Examen invasif, le BUD ne doit pas être réalisé sans le consentement de l'enfant ni sous contention → il faut souvent adapter les distractions et prémédications, voire reporter l'examen.
-
 ::: {.g-card-red}
-La littérature pédiatrique est moins étoffée que chez l'adulte.
+Examen invasif, le BUD ne doit pas être réalisé sans le consentement de l'enfant ni sous contention → il faut souvent adapter les distractions et prémédications, voire reporter l'examen.
 :::
 
 # Bibliographie {.center}
