@@ -425,6 +425,9 @@ Les pressions détrusoriennes mictionnelles décrites comme normales sont **plus
 [@bachelard_urodynamic_1999]
 [@yeung_new_1995]
 
+
+## Les courbes débit-pression
+
 ::: {.g-card-green}
 La présence d'un obstacle sous vésical est suspectée en cas de débit urinaire lent pour pression détrusorienne élevée soit : 
 
@@ -434,12 +437,12 @@ La présence d'un obstacle sous vésical est suspectée en cas de débit urinair
 [@wen2018ics]
 
 ::: {.g-card-red}
-La présence d'une sonde urinaire modifie significativement le débit max et le "flow index" :
+La présence d'une sonde urinaire modifie significativement le débit max et le "flow index" par rapport à une miction spontanée sur débitmère :
 
 - diminution de 19% à 45 % du débit max,
 - débit maximum + diminué chez le garçon que la fille.
 :::
-
+[@fugaru2023voiding]
 
 # Conclusion {.center .section-slide}
 
