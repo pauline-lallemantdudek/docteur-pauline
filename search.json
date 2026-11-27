@@ -256,7 +256,7 @@
     "href": "cours/bilanUroPed.html#la-technique-de-cystomanométrie.",
     "title": "Le bilan urodynamique",
     "section": "La technique de cystomanométrie.",
-    "text": "La technique de cystomanométrie.\nLe principe de recueil de pression est le même chez l’enfant et l’adulte.\nLa technique de la cystomanométrie est identique :\n\ncathéter transurétral double (4-6 French) ou triple lumière (à partir de 8 French)\nsonde rectale à ballonnet, à air ou à eau (4-6 French)\nconnectés aux capteurs de pression après mise à zéro des lignes,\nEMG peut être enregistré grâce à deux électrodes de surface périnéales et une électrode neutre positionnée sur une surface osseuse.\n\nIl est nécessaire de respecter les mêmes règles d’hygiène et de sécurité."
+    "text": "La technique de cystomanométrie.\nLe principe de recueil de pression est le même chez l’enfant et l’adulte.\nLa technique de la cystomanométrie est identique :\n\ncathéter transurétral double (6 French)\nsonde rectale à ballonnet, à air ou à eau (4-6 French)\nconnectés aux capteurs de pression après mise à zéro des lignes,\nEMG peut être enregistré grâce à deux électrodes de surface périnéales et une électrode neutre positionnée sur une surface osseuse.\n\nIl est nécessaire de respecter les mêmes règles d’hygiène et de sécurité."
   },
   {
     "objectID": "cours/bilanUroPed.html#la-profilométrie",
@@ -284,14 +284,14 @@
     "href": "cours/bilanUroPed.html#le-résidu-post-mictionnel-rpm",
     "title": "Le bilan urodynamique",
     "section": "Le résidu post-mictionnel (RPM)",
-    "text": "Le résidu post-mictionnel (RPM)\nChez le tout-petit, le résidu post-mictionnel est physiologique : les mictions sont généralement incomplètes. Il diminue au fur et à mesure de la croissance de l’enfant, les normes sont définies par l’ICCS.\n\nLe résidu post-mictionnel :\n\nde 4 à 6 ans :\n\n1 mesure : + de 30 ml ou + de 21% de la CVT,\n\n2 mesures : + de 20 ml ou ou + de 10% de la CVT,\n\n\nde 7 à 12 ans :\n\n1 mesure : + de 20 ml ou + de 15% de la CVT,\n\n2 mesures : + de 10 ml ou ou + de 6% de la CVT,"
+    "text": "Le résidu post-mictionnel (RPM)\nChez le tout-petit, le résidu post-mictionnel est physiologique : les mictions sont généralement incomplètes. Il diminue au fur et à mesure de la croissance de l’enfant, les normes sont définies par l’ICCS.\n\nLe résidu post-mictionnel :\n\nde 4 à 6 ans :\n\n1 mesure : + de 30 ml ou + de 21% de la CVT, ou\n\n2 mesures : + de 20 ml ou ou + de 10% de la CVT,\n\n\nde 7 à 12 ans :\n\n1 mesure : + de 20 ml ou + de 15% de la CVT, ou\n\n2 mesures : + de 10 ml ou ou + de 6% de la CVT,"
   },
   {
     "objectID": "cours/bilanUroPed.html#la-vitesse-de-remplissage-vésical",
     "href": "cours/bilanUroPed.html#la-vitesse-de-remplissage-vésical",
     "title": "Le bilan urodynamique",
     "section": "La vitesse de remplissage vésical",
-    "text": "La vitesse de remplissage vésical\nLa vitesse dépend de l’âge de l’enfant. Elle est définie par l’ICCS, par : CVT / 20 en mL/min.\nUn remplissage vésical supérieur à la vitesse théorique peut entrainer une hyperactivité détrusorienne. Si un 1er remplissage vésical retrouve un résultat discordant avec la clinique, il est recommandé de réaliser un second remplissage vésical.\n\n\n\n\n\n\nÂge\nCVT (mL)\nDébit (mL/min)\n\n\n\n\n6 mois\n53\n2\n\n\n12 mois\n68\n3\n\n\n18 mois\n83\n4\n\n\n24 mois\n98\n5\n\n\n36 mois\n128\n6\n\n\n4 ans\n150\n7\n\n\n5 ans\n180\n9\n\n\n\n\n\n\n\n\n\n\n\nÂge\nCVT (mL)\nDébit (mL/min)\n\n\n\n\n6 ans\n210\n10\n\n\n7 ans\n240\n12\n\n\n8 ans\n270\n13\n\n\n9 ans\n300\n15\n\n\n10 ans\n330\n16\n\n\n11 ans\n360\n18\n\n\n12 ans\n390\n20\n\n\n\n\n\n\nCVT et débit de remplissage conseillé pour les cystomanométries selon l’âge, de 6 mois à 12 ans.\n\n(Bauer et al., 2015) (Austin et al., 2016)"
+    "text": "La vitesse de remplissage vésical\n\nLa vitesse de remplissage dépend de l’âge de l’enfant. Elle est définie par l’ICCS, par : CVT / 20 en mL/min.\n\nUn remplissage vésical supérieur à la vitesse théorique peut entrainer une hyperactivité détrusorienne. Si un 1er remplissage vésical retrouve un résultat discordant avec la clinique, il est recommandé de réaliser un second remplissage vésical.\n\n\n\n\n\n\nÂge\nCVT (mL)\nDébit (mL/min)\n\n\n\n\n6 mois\n53\n2\n\n\n12 mois\n68\n3\n\n\n18 mois\n83\n4\n\n\n24 mois\n98\n5\n\n\n36 mois\n128\n6\n\n\n4 ans\n150\n7\n\n\n5 ans\n180\n9\n\n\n\n\n\n\n\n\n\n\n\nÂge\nCVT (mL)\nDébit (mL/min)\n\n\n\n\n6 ans\n210\n10\n\n\n7 ans\n240\n12\n\n\n8 ans\n270\n13\n\n\n9 ans\n300\n15\n\n\n10 ans\n330\n16\n\n\n11 ans\n360\n18\n\n\n12 ans\n390\n20\n\n\n\n\n\n\nCVT et débit de remplissage conseillé pour les cystomanométries selon l’âge, de 6 mois à 12 ans.\n\n(Bauer et al., 2015) (Austin et al., 2016)"
   },
   {
     "objectID": "cours/bilanUroPed.html#lévaluation-des-besoins-mictionnels",
@@ -305,7 +305,7 @@
     "href": "cours/bilanUroPed.html#les-changements-de-pression-détrusorienne",
     "title": "Le bilan urodynamique",
     "section": "Les changements de pression détrusorienne",
-    "text": "Les changements de pression détrusorienne\n\nPour les CNID :\n\nla définition est identique à celle de l’adulte,\nune augmentation de pression détrusorienne &gt; 40 cmH2O est considérée comme à risque de lésion rénale,\n\nMais chez l’enfant, il est important de noter que :\n\n10% de la population pédiatrique a des CNID au cours du remplissage de leur vessie sans qu’ils souffrent d’un dysfonctionnement neurologique,\nl’apparition de contractions à l’approche de la CVT doit être interprétée comme normale"
+    "text": "Les changements de pression détrusorienne\n\nPour les CNID :\n\nla définition est identique à celle de l’adulte,\nune augmentation de pression détrusorienne &gt; 40 cmH2O est considérée comme à risque de lésion rénale,\n\n\n\nMais chez l’enfant, il est important de noter que :\n\n10% de la population pédiatrique a des CNID au cours du remplissage de leur vessie sans qu’ils souffrent d’un dysfonctionnement neurologique,\nl’apparition de contractions à l’approche de la CVT doit être interprétée comme normale"
   },
   {
     "objectID": "cours/bilanUroPed.html#les-changements-de-pression-détrusorienne-1",
@@ -326,21 +326,14 @@
     "href": "cours/bilanUroPed.html#consultation-préalable-à-lexamen",
     "title": "Le bilan urodynamique",
     "section": "Consultation préalable à l’examen",
-    "text": "Consultation préalable à l’examen\nUne consultation préalable à l’examen est indispensable pour :\n\nréaliser un interrogatoire et un examen clinique,\nvérifier l’indication du bilan uro-dynamique,\nobtenir ou expliquer un calendrier mictionnel,\nexpliquer l’examen à l’enfant et à ses parents,\nrépondre aux premières questions de l’enfant et ses parents,\nvérifier que la question posée par le médecin prescripteur pourra être répondue par l’examen,\nvérifier l’absence de constipation,\nobtenir le consentement éclairé de l’enfant (selon son âge) et de ses parents."
+    "text": "Consultation préalable à l’examen\nUne consultation préalable à l’examen est indispensable pour :\n\nréaliser un interrogatoire et un examen clinique,\nvérifier l’indication du bilan uro-dynamique,\nobtenir ou expliquer un calendrier mictionnel,\nexpliquer l’examen à l’enfant et à ses parents,\nrépondre aux premières questions de l’enfant et ses parents,\nvérifier que la question posée par le médecin prescripteur pourra être répondue par l’examen,\nvérifier l’absence de constipation,\n\n\n\nobtenir le consentement éclairé de l’enfant (selon son âge) et de ses parents."
   },
   {
     "objectID": "cours/bilanUroPed.html#linterrogatoire-et-lexamen-clinique",
     "href": "cours/bilanUroPed.html#linterrogatoire-et-lexamen-clinique",
     "title": "Le bilan urodynamique",
     "section": "L’interrogatoire et l’examen clinique",
-    "text": "L’interrogatoire et l’examen clinique\nLes principaux éléments à rechercher sont :\n\nun signe de dysraphisme sur le raphée médian,\nà l’examen neurologique : déficit musculaire ou asymétrie pouvant orienter vers une atteinte neurologique,\ndes malformations des organes génitaux externes."
-  },
-  {
-    "objectID": "cours/bilanUroPed.html#le-calendrier-mictionnel",
-    "href": "cours/bilanUroPed.html#le-calendrier-mictionnel",
-    "title": "Le bilan urodynamique",
-    "section": "Le calendrier mictionnel",
-    "text": "Le calendrier mictionnel\nIl est important de réaliser un calendrier mictionnel avant le bilan urodynamique pour :\n\nÉvaluer la capacité vésicale par rapport à la capacité vésicale théorique\nVérifier l’absence de trouble urinaire diurne\nÉvaluer les volumes urinés au cours de la nuit : → recherche de polyurie nocturne."
+    "text": "L’interrogatoire et l’examen clinique\nLes principaux éléments à rechercher sont :\nA l’interrogatoire :\n\nconfirmer les symptômes urinaires diurnes et nocturnes,\nrechercher des antécédents de malformations, d’infections urinaires, de constipation.\n\nA l’examen clinique :\n\nun signe de dysraphisme sur le raphée médian,\nà l’examen neurologique : déficit musculaire ou asymétrie pouvant orienter vers une atteinte neurologique,\nune malformation des organes génitaux externes."
   },
   {
     "objectID": "cours/bilanUroPed.html#lecbu-pré-bud",
@@ -378,11 +371,18 @@
     "text": "Les courbes débit-pression\nLa miction volontaire sur table est très difficile à obtenir chez un enfant avec une sonde urinaire en place, jeune ou anxieux.\n\nLes pressions détrusoriennes mictionnelles décrites comme normales sont plus élevées chez l’enfant que chez l’adulte :\n\ngarçon : entre 118 et 127 cmH2O,\nfille : entre 72 et 75 cmH2O.\n\n\n(Bachelard et al., 1999) (Yeung et al., 1995)"
   },
   {
+    "objectID": "cours/bilanUroPed.html#les-courbes-débit-pression-1",
+    "href": "cours/bilanUroPed.html#les-courbes-débit-pression-1",
+    "title": "Le bilan urodynamique",
+    "section": "Les courbes débit-pression",
+    "text": "Les courbes débit-pression\n\nLa présence d’un obstacle sous vésical est suspectée en cas de débit urinaire lent pour pression détrusorienne élevée soit :\n\npour les garçons : &gt; 74 cmH20,\npour les filles : &gt; 63 cmH20.\n\n\n(Wen et al., 2018)\n\nLa présence d’une sonde urinaire modifie significativement le débit max et le “flow index” par rapport à une miction spontanée sur débitmère :\n\ndiminution de 19% à 45 % du débit max,\ndébit maximum + diminué chez le garçon que la fille.\n\n\n(Fugaru et al., 2023)"
+  },
+  {
     "objectID": "cours/bilanUroPed.html#en-conclusion",
     "href": "cours/bilanUroPed.html#en-conclusion",
     "title": "Le bilan urodynamique",
     "section": "En conclusion",
-    "text": "En conclusion\n\n\nLe BUD est faisable chez l’enfant, à tout âge.\nLes grands principes de l’examen sont les mêmes que chez l’adulte.\nUn environnement adapté est indispensable pour que l’enfant et ses accompagnants soient en confiance.\nLes normes de l’ICCS sont à connaître pour réaliser et interpréter les courbes.\n\n\nLes courbes ne peuvent être lues sans connaître l’évaluation clinique préalable :\n\nl’âge du patient,\nson statut mictionnel (continence acquise ou non).\n\nExamen invasif, le BUD ne doit pas être réalisé sans le consentement de l’enfant ni sous contention → il faut souvent adapter les distractions et prémédications, voire reporter l’examen.\n\nLa littérature pédiatrique est moins étoffée que chez l’adulte."
+    "text": "En conclusion\n\n\nLe BUD est faisable chez l’enfant, à tout âge.\nLes grands principes de l’examen sont les mêmes que chez l’adulte.\nUn environnement adapté est indispensable pour que l’enfant et ses accompagnants soient en confiance.\nLes normes de l’ICCS sont à connaître pour réaliser et interpréter les courbes.\n\n\nLes courbes ne peuvent être lues sans connaître l’évaluation clinique préalable :\n\nl’âge du patient,\nson statut mictionnel (continence acquise ou non).\n\n\nExamen invasif, le BUD ne doit pas être réalisé sans le consentement de l’enfant ni sous contention → il faut souvent adapter les distractions et prémédications, voire reporter l’examen."
   },
   {
     "objectID": "cours/monographie-bilan-urodynamique.html",
